@@ -1,0 +1,7 @@
+
+<configuration>
+    <input>
+        <net-file value="corrected_highway_with_ramp.net.xml"/>
+        <route-files value="traffic.rou.xml"/>
+    </input>
+</configuration>

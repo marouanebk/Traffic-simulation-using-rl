@@ -1,0 +1,15 @@
+<routes >
+
+     <!-- Define vehicle type -->
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="33.33" color="1,0,0"/>
+
+       <route id="highway_route" edges="E1 E1"/>
+    <route id="ramp_route" edges="E2 E1"/>
+
+    <!-- Define traffic flows -->
+    <flow id="highway_flow" type="car" begin="0" end="3600" vehsPerHour="1800" route="highway_route"/>
+    <flow id="ramp_flow" type="car" begin="0" end="3600" vehsPerHour="300" route="ramp_route"/>
+
+    <!-- Define routes -->
+ 
+</routes>

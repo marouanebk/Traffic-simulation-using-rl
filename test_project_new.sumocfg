@@ -1,0 +1,12 @@
+
+
+<configuration>
+    <input>
+        <net-file value="project.net.xml"/>
+        <route-files value="project.rou.xml"/>
+    </input>
+
+     <processing>
+        <collision.check-junctions value="false"/>
+    </processing>
+</configuration>

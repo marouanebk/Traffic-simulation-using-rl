@@ -1,0 +1,14 @@
+<routes>
+    <!-- Vehicle Types -->
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="13.89" color="1,0,0"/>
+
+    <!-- Routes -->
+    <route id="route_0" edges="E3 E4"/>
+    <route id="route_1" edges="E5 E4"/>
+    <route id="route_2" edges="E5 E3 E4"/>
+
+    <!-- Flows -->
+    <flow id="flow_0" type="car" begin="0" end="3600" vehsPerHour="400" route="route_0"/>
+    <flow id="flow_1" type="car" begin="0" end="3600" vehsPerHour="200" route="route_1"/>
+    <!-- <flow id="flow_2" type="car" begin="0" end="3600" vehsPerHour="100" route="route_2"/> -->
+</routes>
