@@ -1,8 +1,0 @@
-
-
-<configuration>
-    <input>
-        <net-file value="test_project.net.xml"/>
-        <route-files value="test_project.rou.xml"/>
-    </input>
-</configuration>
