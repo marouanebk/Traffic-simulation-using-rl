@@ -100,17 +100,23 @@ class RampMeteringEnv:
         self.action_space_size = 3  # Different traffic light timings
         
     def reset(self):
-        # Check if there's an active connection before closing
+        # Attempt to close any existing connection
         try:
-            if traci.isConnected():
-                traci.close()
-        except Exception:
-            # If not connected, just continue
-            pass
+
+            traci.close()
+        except Exception as e:
+            print(f"Error closing TraCI connection: {e}")
         
-        # Start SUMO simulation
-        traci.start(self.sumo_config)
+        # Attempt to start a new simulation connection
+        try:
+            traci.start(self.sumo_config)
+            print("SUMO simulation started.")
+        except Exception as e:
+            print(f"Error starting simulation: {e}")
+            sys.exit("Failed to start SUMO simulation.")
+        
         return self._get_state()
+
     
     def _get_state(self):
         # State representation:
@@ -154,7 +160,7 @@ class RampMeteringEnv:
         next_state = self._get_state()
         
         # Check if simulation is done
-        done = traci.simulation.getTime() >= 3600  # 1 hour simulation
+        done = traci.simulation.getTime() >= 3600
         
         return next_state, reward, done
     
@@ -183,7 +189,7 @@ class RampMeteringEnv:
         reward = speed_bonus - congestion_penalty - waiting_time_penalty
         return reward
 
-def train_dqn(episodes=3, batch_size=32):
+def train_dqn(episodes=5, batch_size=32):
     # SUMO configuration
     sumo_binary = "sumo-gui"  
     sumo_cmd = [sumo_binary, 
