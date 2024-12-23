@@ -1,0 +1,1276 @@
+2024-12-21 22:53:35,418 - INFO - Episode 1/50, Traffic Scale: 1.000
+2024-12-21 22:53:57,680 - INFO - Episode 1 - Total Reward: -1631.85, Epsilon: 0.058, Avg Loss: 0.124
+2024-12-21 22:53:57,688 - INFO - New best model saved with reward -1631.85
+2024-12-21 22:53:57,688 - INFO - Episode 2/50, Traffic Scale: 1.005
+2024-12-21 22:54:22,674 - INFO - Episode 2 - Total Reward: -1768.20, Epsilon: 0.010, Avg Loss: 0.102
+2024-12-21 22:54:22,675 - INFO - Episode 3/50, Traffic Scale: 1.010
+2024-12-21 22:54:46,410 - INFO - Episode 3 - Total Reward: -1525.67, Epsilon: 0.010, Avg Loss: 0.087
+2024-12-21 22:54:46,413 - INFO - New best model saved with reward -1525.67
+2024-12-21 22:54:46,413 - INFO - Episode 4/50, Traffic Scale: 1.015
+2024-12-21 22:55:09,002 - INFO - Episode 4 - Total Reward: -1393.01, Epsilon: 0.010, Avg Loss: 0.078
+2024-12-21 22:55:09,007 - INFO - New best model saved with reward -1393.01
+2024-12-21 22:55:09,007 - INFO - Episode 5/50, Traffic Scale: 1.019
+2024-12-21 22:55:32,223 - INFO - Episode 5 - Total Reward: -1535.13, Epsilon: 0.010, Avg Loss: 0.073
+2024-12-21 22:55:32,224 - INFO - Episode 6/50, Traffic Scale: 1.024
+2024-12-21 22:55:58,132 - INFO - Episode 6 - Total Reward: -1442.92, Epsilon: 0.010, Avg Loss: 0.072
+2024-12-21 22:55:58,133 - INFO - Episode 7/50, Traffic Scale: 1.028
+2024-12-21 22:56:21,754 - INFO - Episode 7 - Total Reward: -1606.75, Epsilon: 0.010, Avg Loss: 0.123
+2024-12-21 22:56:21,755 - INFO - Episode 8/50, Traffic Scale: 1.032
+2024-12-21 22:56:44,916 - INFO - Episode 8 - Total Reward: -1953.37, Epsilon: 0.010, Avg Loss: 0.110
+2024-12-21 22:56:44,917 - INFO - Episode 9/50, Traffic Scale: 1.036
+2024-12-21 22:57:08,723 - INFO - Episode 9 - Total Reward: -1679.73, Epsilon: 0.010, Avg Loss: 0.109
+2024-12-21 22:57:08,724 - INFO - Episode 10/50, Traffic Scale: 1.039
+2024-12-21 22:57:35,503 - INFO - Episode 10 - Total Reward: -1777.98, Epsilon: 0.010, Avg Loss: 0.108
+2024-12-21 22:57:36,834 - INFO - Episode 11/50, Traffic Scale: 1.042
+2024-12-21 22:58:01,351 - INFO - Episode 11 - Total Reward: -2048.69, Epsilon: 0.010, Avg Loss: 0.103
+2024-12-21 22:58:01,351 - INFO - Episode 12/50, Traffic Scale: 1.045
+2024-12-21 22:58:27,850 - INFO - Episode 12 - Total Reward: -2228.14, Epsilon: 0.010, Avg Loss: 0.181
+2024-12-21 22:58:27,855 - INFO - Episode 13/50, Traffic Scale: 1.047
+2024-12-21 22:58:54,609 - INFO - Episode 13 - Total Reward: -1993.42, Epsilon: 0.010, Avg Loss: 0.174
+2024-12-21 22:58:54,611 - INFO - Episode 14/50, Traffic Scale: 1.048
+2024-12-21 22:59:21,359 - INFO - Episode 14 - Total Reward: -1619.87, Epsilon: 0.010, Avg Loss: 0.167
+2024-12-21 22:59:21,359 - INFO - Episode 15/50, Traffic Scale: 1.049
+2024-12-21 22:59:44,094 - INFO - Episode 15 - Total Reward: -1742.51, Epsilon: 0.010, Avg Loss: 0.169
+2024-12-21 22:59:44,094 - INFO - Episode 16/50, Traffic Scale: 1.050
+2024-12-21 23:00:06,171 - INFO - Episode 16 - Total Reward: -2128.46, Epsilon: 0.010, Avg Loss: 0.168
+2024-12-21 23:00:06,171 - INFO - Episode 17/50, Traffic Scale: 1.050
+2024-12-21 23:00:35,264 - INFO - Episode 17 - Total Reward: -1689.86, Epsilon: 0.010, Avg Loss: 0.250
+2024-12-21 23:00:35,264 - INFO - Episode 18/50, Traffic Scale: 1.050
+2024-12-21 23:01:02,383 - INFO - Episode 18 - Total Reward: -1440.37, Epsilon: 0.010, Avg Loss: 0.238
+2024-12-21 23:01:02,383 - INFO - Episode 19/50, Traffic Scale: 1.049
+2024-12-21 23:02:24,206 - INFO - Episode 1/50
+2024-12-21 23:02:48,260 - INFO - Episode 1 - Total Reward: -1664.02, Epsilon: 0.058, Avg Loss: 0.116
+2024-12-21 23:02:48,262 - INFO - New best model saved with reward -1664.02
+2024-12-21 23:02:48,264 - INFO - Episode 2/50
+2024-12-21 23:03:12,507 - INFO - Episode 2 - Total Reward: -1425.05, Epsilon: 0.010, Avg Loss: 0.096
+2024-12-21 23:03:12,511 - INFO - New best model saved with reward -1425.05
+2024-12-21 23:03:12,511 - INFO - Episode 3/50
+2024-12-21 23:03:38,591 - INFO - Episode 3 - Total Reward: -1443.24, Epsilon: 0.010, Avg Loss: 0.087
+2024-12-21 23:03:38,599 - INFO - Episode 4/50
+2024-12-21 23:04:02,725 - INFO - Episode 4 - Total Reward: -1854.83, Epsilon: 0.010, Avg Loss: 0.085
+2024-12-21 23:04:02,725 - INFO - Episode 5/50
+2024-12-21 23:04:26,303 - INFO - Episode 5 - Total Reward: -1361.42, Epsilon: 0.010, Avg Loss: 0.082
+2024-12-21 23:04:26,305 - INFO - New best model saved with reward -1361.42
+2024-12-21 23:04:26,306 - INFO - Episode 6/50
+2024-12-21 23:04:48,709 - INFO - Episode 6 - Total Reward: -1858.25, Epsilon: 0.010, Avg Loss: 0.079
+2024-12-21 23:04:48,711 - INFO - Episode 7/50
+2024-12-21 23:05:12,998 - INFO - Episode 7 - Total Reward: -1656.09, Epsilon: 0.010, Avg Loss: 0.132
+2024-12-21 23:05:12,998 - INFO - Episode 8/50
+2024-12-21 23:05:38,982 - INFO - Episode 8 - Total Reward: -1607.83, Epsilon: 0.010, Avg Loss: 0.123
+2024-12-21 23:05:38,982 - INFO - Episode 9/50
+2024-12-21 23:06:06,821 - INFO - Episode 9 - Total Reward: -1448.83, Epsilon: 0.010, Avg Loss: 0.115
+2024-12-21 23:06:06,821 - INFO - Episode 10/50
+2024-12-21 23:06:36,949 - INFO - Episode 10 - Total Reward: -1184.13, Epsilon: 0.010, Avg Loss: 0.108
+2024-12-21 23:06:36,966 - INFO - New best model saved with reward -1184.13
+2024-12-21 23:06:37,796 - INFO - Episode 11/50
+2024-12-21 23:07:03,521 - INFO - Episode 11 - Total Reward: -1447.21, Epsilon: 0.010, Avg Loss: 0.108
+2024-12-21 23:07:03,521 - INFO - Episode 12/50
+2024-12-21 23:07:26,861 - INFO - Episode 12 - Total Reward: -1475.25, Epsilon: 0.010, Avg Loss: 0.178
+2024-12-21 23:07:26,861 - INFO - Episode 13/50
+2024-12-21 23:07:46,088 - INFO - Episode 13 - Total Reward: -1912.77, Epsilon: 0.010, Avg Loss: 0.170
+2024-12-21 23:07:46,089 - INFO - Episode 14/50
+2024-12-21 23:08:09,366 - INFO - Episode 14 - Total Reward: -1855.86, Epsilon: 0.010, Avg Loss: 0.166
+2024-12-21 23:08:09,367 - INFO - Episode 15/50
+2024-12-21 23:08:34,149 - INFO - Episode 15 - Total Reward: -1540.80, Epsilon: 0.010, Avg Loss: 0.161
+2024-12-21 23:08:34,150 - INFO - Episode 16/50
+2024-12-21 23:08:58,981 - INFO - Episode 16 - Total Reward: -1275.12, Epsilon: 0.010, Avg Loss: 0.158
+2024-12-21 23:08:58,982 - INFO - Episode 17/50
+2024-12-21 23:09:22,814 - INFO - Episode 17 - Total Reward: -1545.93, Epsilon: 0.010, Avg Loss: 0.241
+2024-12-21 23:09:22,815 - INFO - Episode 18/50
+2024-12-21 23:09:44,944 - INFO - Episode 18 - Total Reward: -1306.78, Epsilon: 0.010, Avg Loss: 0.232
+2024-12-21 23:09:44,945 - INFO - Episode 19/50
+2024-12-21 23:10:07,783 - INFO - Episode 19 - Total Reward: -1146.31, Epsilon: 0.010, Avg Loss: 0.230
+2024-12-21 23:10:07,785 - INFO - New best model saved with reward -1146.31
+2024-12-21 23:10:07,786 - INFO - Episode 20/50
+2024-12-21 23:10:28,783 - INFO - Episode 20 - Total Reward: -1359.14, Epsilon: 0.010, Avg Loss: 0.222
+2024-12-21 23:10:29,460 - INFO - Episode 21/50
+2024-12-21 23:10:53,051 - INFO - Episode 21 - Total Reward: -1664.27, Epsilon: 0.010, Avg Loss: 0.222
+2024-12-21 23:10:53,052 - INFO - Episode 22/50
+2024-12-21 23:11:19,144 - INFO - Episode 22 - Total Reward: -1177.02, Epsilon: 0.010, Avg Loss: 0.306
+2024-12-21 23:11:19,146 - INFO - Episode 23/50
+2024-12-21 23:11:44,041 - INFO - Episode 23 - Total Reward: -1776.47, Epsilon: 0.010, Avg Loss: 0.287
+2024-12-21 23:11:44,042 - INFO - Episode 24/50
+2024-12-21 23:12:07,553 - INFO - Episode 24 - Total Reward: -1295.90, Epsilon: 0.010, Avg Loss: 0.287
+2024-12-21 23:12:07,554 - INFO - Episode 25/50
+2024-12-21 23:12:30,698 - INFO - Episode 25 - Total Reward: -1501.29, Epsilon: 0.010, Avg Loss: 0.289
+2024-12-21 23:12:30,699 - INFO - Episode 26/50
+2024-12-21 23:12:52,602 - INFO - Episode 26 - Total Reward: -1183.69, Epsilon: 0.010, Avg Loss: 0.292
+2024-12-21 23:12:52,602 - INFO - Episode 27/50
+2024-12-21 23:13:15,539 - INFO - Episode 27 - Total Reward: -1842.83, Epsilon: 0.010, Avg Loss: 0.379
+2024-12-21 23:13:15,540 - INFO - Episode 28/50
+2024-12-21 23:13:36,346 - INFO - Episode 28 - Total Reward: -1111.19, Epsilon: 0.010, Avg Loss: 0.381
+2024-12-21 23:13:36,349 - INFO - New best model saved with reward -1111.19
+2024-12-21 23:13:36,350 - INFO - Episode 29/50
+2024-12-21 23:14:00,272 - INFO - Episode 29 - Total Reward: -1627.19, Epsilon: 0.010, Avg Loss: 0.374
+2024-12-21 23:14:00,273 - INFO - Episode 30/50
+2024-12-21 23:14:22,783 - INFO - Episode 30 - Total Reward: -1476.87, Epsilon: 0.010, Avg Loss: 0.368
+2024-12-21 23:14:23,947 - INFO - Episode 31/50
+2024-12-21 23:14:45,790 - INFO - Episode 31 - Total Reward: -1188.74, Epsilon: 0.010, Avg Loss: 0.370
+2024-12-21 23:14:45,790 - INFO - Episode 32/50
+2024-12-21 23:15:09,376 - INFO - Episode 32 - Total Reward: -971.92, Epsilon: 0.010, Avg Loss: 0.441
+2024-12-21 23:15:09,378 - INFO - New best model saved with reward -971.92
+2024-12-21 23:15:09,379 - INFO - Episode 33/50
+2024-12-21 23:15:31,695 - INFO - Episode 33 - Total Reward: -1630.05, Epsilon: 0.010, Avg Loss: 0.446
+2024-12-21 23:15:31,696 - INFO - Episode 34/50
+2024-12-21 23:15:55,450 - INFO - Episode 34 - Total Reward: -1418.32, Epsilon: 0.010, Avg Loss: 0.445
+2024-12-21 23:15:55,451 - INFO - Episode 35/50
+2024-12-21 23:16:16,004 - INFO - Episode 35 - Total Reward: -1252.18, Epsilon: 0.010, Avg Loss: 0.437
+2024-12-21 23:16:16,005 - INFO - Episode 36/50
+2024-12-21 23:16:39,508 - INFO - Episode 36 - Total Reward: -1859.12, Epsilon: 0.010, Avg Loss: 0.440
+2024-12-21 23:16:39,508 - INFO - Episode 37/50
+2024-12-21 23:17:03,361 - INFO - Episode 37 - Total Reward: -1646.88, Epsilon: 0.010, Avg Loss: 0.541
+2024-12-21 23:17:03,362 - INFO - Episode 38/50
+2024-12-21 23:17:28,326 - INFO - Episode 38 - Total Reward: -1707.09, Epsilon: 0.010, Avg Loss: 0.536
+2024-12-21 23:17:28,327 - INFO - Episode 39/50
+2024-12-21 23:17:52,780 - INFO - Episode 39 - Total Reward: -1110.15, Epsilon: 0.010, Avg Loss: 0.532
+2024-12-21 23:17:52,781 - INFO - Episode 40/50
+2024-12-21 23:18:17,594 - INFO - Episode 40 - Total Reward: -1404.44, Epsilon: 0.010, Avg Loss: 0.534
+2024-12-21 23:18:18,023 - INFO - Episode 41/50
+2024-12-21 23:18:42,173 - INFO - Episode 41 - Total Reward: -1236.71, Epsilon: 0.010, Avg Loss: 0.542
+2024-12-21 23:18:42,174 - INFO - Episode 42/50
+2024-12-21 23:19:06,110 - INFO - Episode 42 - Total Reward: -1543.31, Epsilon: 0.010, Avg Loss: 0.634
+2024-12-21 23:19:06,111 - INFO - Episode 43/50
+2024-12-21 23:19:30,325 - INFO - Episode 43 - Total Reward: -1586.79, Epsilon: 0.010, Avg Loss: 0.625
+2024-12-21 23:19:30,326 - INFO - Episode 44/50
+2024-12-21 23:19:53,559 - INFO - Episode 44 - Total Reward: -1214.67, Epsilon: 0.010, Avg Loss: 0.612
+2024-12-21 23:19:53,560 - INFO - Episode 45/50
+2024-12-21 23:20:17,480 - INFO - Episode 45 - Total Reward: -1277.45, Epsilon: 0.010, Avg Loss: 0.625
+2024-12-21 23:20:17,481 - INFO - Episode 46/50
+2024-12-21 23:20:42,656 - INFO - Episode 46 - Total Reward: -1264.90, Epsilon: 0.010, Avg Loss: 0.610
+2024-12-21 23:20:42,657 - INFO - Episode 47/50
+2024-12-21 23:21:08,016 - INFO - Episode 47 - Total Reward: -1420.45, Epsilon: 0.010, Avg Loss: 0.712
+2024-12-21 23:21:08,017 - INFO - Episode 48/50
+2024-12-21 23:21:32,990 - INFO - Episode 48 - Total Reward: -1570.72, Epsilon: 0.010, Avg Loss: 0.698
+2024-12-21 23:21:32,991 - INFO - Episode 49/50
+2024-12-21 23:21:57,338 - INFO - Episode 49 - Total Reward: -1512.21, Epsilon: 0.010, Avg Loss: 0.701
+2024-12-21 23:21:57,339 - INFO - Episode 50/50
+2024-12-21 23:22:22,264 - INFO - Episode 50 - Total Reward: -1508.96, Epsilon: 0.010, Avg Loss: 0.701
+2024-12-21 23:22:22,591 - INFO - Training completed
+2024-12-21 23:24:44,270 - INFO - Episode 1/5
+2024-12-21 23:25:05,946 - INFO - Episode 1 - Total Reward: -1114.26, Epsilon: 0.058, Avg Loss: 0.128
+2024-12-21 23:25:05,949 - INFO - New best model saved with reward -1114.26
+2024-12-21 23:25:05,950 - INFO - Episode 2/5
+2024-12-21 23:25:28,214 - INFO - Episode 2 - Total Reward: -1267.92, Epsilon: 0.010, Avg Loss: 0.100
+2024-12-21 23:25:28,215 - INFO - Episode 3/5
+2024-12-21 23:26:11,633 - INFO - Episode 3 - Total Reward: -1354.82, Epsilon: 0.010, Avg Loss: 0.089
+2024-12-21 23:26:11,634 - INFO - Episode 4/5
+2024-12-21 23:26:31,360 - INFO - Episode 4 - Total Reward: -878.46, Epsilon: 0.010, Avg Loss: 0.079
+2024-12-21 23:26:31,363 - INFO - New best model saved with reward -878.46
+2024-12-21 23:26:31,364 - INFO - Episode 5/5
+2024-12-21 23:26:51,654 - INFO - Episode 5 - Total Reward: -1091.84, Epsilon: 0.010, Avg Loss: 0.078
+2024-12-21 23:26:51,656 - INFO - Training completed
+2024-12-21 23:33:48,615 - INFO - Episode 1/5
+2024-12-21 23:34:14,644 - INFO - Episode 1 - Total Reward: 42842.08, Epsilon: 0.058, Avg Loss: 0.218
+2024-12-21 23:34:14,647 - INFO - New best model saved with reward 42842.08
+2024-12-21 23:34:14,648 - INFO - Episode 2/5
+2024-12-21 23:34:39,789 - INFO - Episode 2 - Total Reward: 43370.55, Epsilon: 0.010, Avg Loss: 0.199
+2024-12-21 23:34:39,792 - INFO - New best model saved with reward 43370.55
+2024-12-21 23:34:39,792 - INFO - Episode 3/5
+2024-12-21 23:35:05,703 - INFO - Episode 3 - Total Reward: 43534.59, Epsilon: 0.010, Avg Loss: 0.163
+2024-12-21 23:35:05,706 - INFO - New best model saved with reward 43534.59
+2024-12-21 23:35:05,707 - INFO - Episode 4/5
+2024-12-21 23:35:33,799 - INFO - Episode 4 - Total Reward: 43082.33, Epsilon: 0.010, Avg Loss: 0.152
+2024-12-21 23:35:33,800 - INFO - Episode 5/5
+2024-12-21 23:35:58,773 - INFO - Episode 5 - Total Reward: 42866.35, Epsilon: 0.010, Avg Loss: 0.140
+2024-12-21 23:35:58,775 - INFO - Training completed
+2024-12-21 23:44:01,271 - INFO - Episode 1/20
+2024-12-21 23:44:26,595 - INFO - Episode 1 - Total Reward: 43294.07, Epsilon: 0.058, Avg Loss: 0.226
+2024-12-21 23:44:26,598 - INFO - New best model saved with reward 43294.07
+2024-12-21 23:44:26,598 - INFO - Episode 2/20
+2024-12-21 23:44:51,152 - INFO - Episode 2 - Total Reward: 42612.87, Epsilon: 0.010, Avg Loss: 0.166
+2024-12-21 23:44:51,153 - INFO - Episode 3/20
+2024-12-21 23:45:17,575 - INFO - Episode 3 - Total Reward: 43215.61, Epsilon: 0.010, Avg Loss: 0.123
+2024-12-21 23:45:17,576 - INFO - Episode 4/20
+2024-12-21 23:45:43,039 - INFO - Episode 4 - Total Reward: 42788.41, Epsilon: 0.010, Avg Loss: 0.116
+2024-12-21 23:45:43,040 - INFO - Episode 5/20
+2024-12-21 23:46:08,159 - INFO - Episode 5 - Total Reward: 42899.40, Epsilon: 0.010, Avg Loss: 0.110
+2024-12-21 23:46:08,160 - INFO - Episode 6/20
+2024-12-21 23:46:33,451 - INFO - Episode 6 - Total Reward: 43375.86, Epsilon: 0.010, Avg Loss: 0.106
+2024-12-21 23:46:33,454 - INFO - New best model saved with reward 43375.86
+2024-12-21 23:46:33,454 - INFO - Episode 7/20
+2024-12-21 23:46:58,430 - INFO - Episode 7 - Total Reward: 42964.21, Epsilon: 0.010, Avg Loss: 0.216
+2024-12-21 23:46:58,430 - INFO - Episode 8/20
+2024-12-21 23:47:21,923 - INFO - Episode 8 - Total Reward: 42932.80, Epsilon: 0.010, Avg Loss: 0.193
+2024-12-21 23:47:21,924 - INFO - Episode 9/20
+2024-12-21 23:47:45,536 - INFO - Episode 9 - Total Reward: 43413.56, Epsilon: 0.010, Avg Loss: 0.188
+2024-12-21 23:47:45,538 - INFO - New best model saved with reward 43413.56
+2024-12-21 23:47:45,539 - INFO - Episode 10/20
+2024-12-21 23:48:09,850 - INFO - Episode 10 - Total Reward: 42811.65, Epsilon: 0.010, Avg Loss: 0.182
+2024-12-21 23:50:31,793 - INFO - Episode 11/20
+2024-12-21 23:50:53,785 - INFO - Episode 11 - Total Reward: 42691.21, Epsilon: 0.010, Avg Loss: 0.175
+2024-12-21 23:50:53,786 - INFO - Episode 12/20
+2024-12-21 23:51:17,863 - INFO - Episode 12 - Total Reward: 42681.76, Epsilon: 0.010, Avg Loss: 0.296
+2024-12-21 23:51:17,865 - INFO - Episode 13/20
+2024-12-21 23:51:43,042 - INFO - Episode 13 - Total Reward: 43031.18, Epsilon: 0.010, Avg Loss: 0.281
+2024-12-21 23:51:43,042 - INFO - Episode 14/20
+2024-12-21 23:52:06,255 - INFO - Episode 14 - Total Reward: 43541.27, Epsilon: 0.010, Avg Loss: 0.271
+2024-12-21 23:52:06,257 - INFO - New best model saved with reward 43541.27
+2024-12-21 23:52:06,258 - INFO - Episode 15/20
+2024-12-21 23:52:30,658 - INFO - Episode 15 - Total Reward: 42719.52, Epsilon: 0.010, Avg Loss: 0.269
+2024-12-21 23:52:30,659 - INFO - Episode 16/20
+2024-12-21 23:52:54,978 - INFO - Episode 16 - Total Reward: 42950.29, Epsilon: 0.010, Avg Loss: 0.269
+2024-12-21 23:52:54,979 - INFO - Episode 17/20
+2024-12-21 23:53:19,530 - INFO - Episode 17 - Total Reward: 43035.25, Epsilon: 0.010, Avg Loss: 0.375
+2024-12-21 23:53:19,531 - INFO - Episode 18/20
+2024-12-21 23:53:43,589 - INFO - Episode 18 - Total Reward: 42936.48, Epsilon: 0.010, Avg Loss: 0.364
+2024-12-21 23:53:43,590 - INFO - Episode 19/20
+2024-12-21 23:54:08,690 - INFO - Episode 19 - Total Reward: 42994.52, Epsilon: 0.010, Avg Loss: 0.365
+2024-12-21 23:54:08,691 - INFO - Episode 20/20
+2024-12-21 23:54:33,029 - INFO - Episode 20 - Total Reward: 43585.76, Epsilon: 0.010, Avg Loss: 0.361
+2024-12-21 23:54:33,031 - INFO - New best model saved with reward 43585.76
+2024-12-21 23:54:58,800 - INFO - Training completed
+2024-12-21 23:55:31,916 - INFO - Episode 1/20
+2024-12-21 23:55:53,882 - INFO - Episode 1 - Total Reward: 42937.12, Epsilon: 0.058, Avg Loss: 0.209
+2024-12-21 23:55:53,885 - INFO - New best model saved with reward 42937.12
+2024-12-21 23:55:53,886 - INFO - Episode 2/20
+2024-12-21 23:56:18,475 - INFO - Episode 2 - Total Reward: 42773.09, Epsilon: 0.010, Avg Loss: 0.176
+2024-12-21 23:56:18,476 - INFO - Episode 3/20
+2024-12-21 23:56:42,666 - INFO - Episode 3 - Total Reward: 43094.92, Epsilon: 0.010, Avg Loss: 0.138
+2024-12-21 23:56:42,669 - INFO - New best model saved with reward 43094.92
+2024-12-21 23:56:42,669 - INFO - Episode 4/20
+2024-12-21 23:57:05,374 - INFO - Episode 4 - Total Reward: 42684.88, Epsilon: 0.010, Avg Loss: 0.134
+2024-12-21 23:57:05,377 - INFO - Episode 5/20
+2024-12-21 23:57:24,949 - INFO - Episode 5 - Total Reward: 43266.82, Epsilon: 0.010, Avg Loss: 0.126
+2024-12-21 23:57:24,951 - INFO - New best model saved with reward 43266.82
+2024-12-21 23:57:24,952 - INFO - Episode 6/20
+2024-12-21 23:57:49,215 - INFO - Episode 6 - Total Reward: 42798.55, Epsilon: 0.010, Avg Loss: 0.128
+2024-12-21 23:57:49,216 - INFO - Episode 7/20
+2024-12-21 23:58:13,792 - INFO - Episode 7 - Total Reward: 43410.15, Epsilon: 0.010, Avg Loss: 0.228
+2024-12-21 23:58:13,795 - INFO - New best model saved with reward 43410.15
+2024-12-21 23:58:13,795 - INFO - Episode 8/20
+2024-12-21 23:58:37,146 - INFO - Episode 8 - Total Reward: 44020.88, Epsilon: 0.010, Avg Loss: 0.209
+2024-12-21 23:58:37,149 - INFO - New best model saved with reward 44020.88
+2024-12-21 23:58:37,150 - INFO - Episode 9/20
+2024-12-21 23:58:59,384 - INFO - Episode 9 - Total Reward: 43130.06, Epsilon: 0.010, Avg Loss: 0.200
+2024-12-21 23:58:59,385 - INFO - Episode 10/20
+2024-12-21 23:59:23,739 - INFO - Episode 10 - Total Reward: 42681.56, Epsilon: 0.010, Avg Loss: 0.200
+2024-12-22 00:00:14,220 - INFO - Episode 11/20
+2024-12-22 00:00:39,338 - INFO - Episode 11 - Total Reward: 42886.02, Epsilon: 0.010, Avg Loss: 0.193
+2024-12-22 00:00:39,339 - INFO - Episode 12/20
+2024-12-22 00:01:04,087 - INFO - Episode 12 - Total Reward: 43098.01, Epsilon: 0.010, Avg Loss: 0.309
+2024-12-22 00:01:04,088 - INFO - Episode 13/20
+2024-12-22 00:01:29,201 - INFO - Episode 13 - Total Reward: 42718.36, Epsilon: 0.010, Avg Loss: 0.292
+2024-12-22 00:01:29,202 - INFO - Episode 14/20
+2024-12-22 00:01:54,385 - INFO - Episode 14 - Total Reward: 42284.54, Epsilon: 0.010, Avg Loss: 0.291
+2024-12-22 00:01:54,386 - INFO - Episode 15/20
+2024-12-22 00:02:19,356 - INFO - Episode 15 - Total Reward: 43371.69, Epsilon: 0.010, Avg Loss: 0.293
+2024-12-22 00:02:19,357 - INFO - Episode 16/20
+2024-12-22 00:02:44,520 - INFO - Episode 16 - Total Reward: 42463.87, Epsilon: 0.010, Avg Loss: 0.283
+2024-12-22 00:02:44,521 - INFO - Episode 17/20
+2024-12-22 00:03:09,433 - INFO - Episode 17 - Total Reward: 43551.91, Epsilon: 0.010, Avg Loss: 0.404
+2024-12-22 00:03:09,434 - INFO - Episode 18/20
+2024-12-22 00:03:34,050 - INFO - Episode 18 - Total Reward: 43332.95, Epsilon: 0.010, Avg Loss: 0.393
+2024-12-22 00:03:34,051 - INFO - Episode 19/20
+2024-12-22 00:03:58,918 - INFO - Episode 19 - Total Reward: 43397.03, Epsilon: 0.010, Avg Loss: 0.391
+2024-12-22 00:03:58,919 - INFO - Episode 20/20
+2024-12-22 00:04:23,994 - INFO - Episode 20 - Total Reward: 42508.39, Epsilon: 0.010, Avg Loss: 0.384
+2024-12-22 00:04:39,635 - INFO - Training completed
+2024-12-22 00:10:33,591 - INFO - Episode 1/20
+2024-12-22 00:10:56,876 - INFO - Episode 1 - Total Reward: 43439.54, Epsilon: 0.058, Avg Loss: 0.166
+2024-12-22 00:10:56,878 - INFO - New best model saved with reward 43439.54
+2024-12-22 00:10:56,879 - INFO - Episode 2/20
+2024-12-22 00:11:20,195 - INFO - Episode 2 - Total Reward: 42745.84, Epsilon: 0.010, Avg Loss: 0.162
+2024-12-22 00:11:20,196 - INFO - Episode 3/20
+2024-12-22 00:11:36,725 - INFO - Episode 3 - Total Reward: 42720.52, Epsilon: 0.010, Avg Loss: 0.133
+2024-12-22 00:11:36,725 - INFO - Episode 4/20
+2024-12-22 00:11:59,427 - INFO - Episode 4 - Total Reward: 43334.46, Epsilon: 0.010, Avg Loss: 0.126
+2024-12-22 00:11:59,428 - INFO - Episode 5/20
+2024-12-22 00:12:24,008 - INFO - Episode 5 - Total Reward: 42642.79, Epsilon: 0.010, Avg Loss: 0.126
+2024-12-22 00:12:24,009 - INFO - Episode 6/20
+2024-12-22 00:12:48,165 - INFO - Episode 6 - Total Reward: 43417.88, Epsilon: 0.010, Avg Loss: 0.121
+2024-12-22 00:12:48,167 - INFO - Episode 7/20
+2024-12-22 00:13:12,655 - INFO - Episode 7 - Total Reward: 42860.47, Epsilon: 0.010, Avg Loss: 0.201
+2024-12-22 00:13:12,657 - INFO - Episode 8/20
+2024-12-22 00:13:36,249 - INFO - Episode 8 - Total Reward: 43140.17, Epsilon: 0.010, Avg Loss: 0.189
+2024-12-22 00:13:36,250 - INFO - Episode 9/20
+2024-12-22 00:14:00,751 - INFO - Episode 9 - Total Reward: 42662.19, Epsilon: 0.010, Avg Loss: 0.189
+2024-12-22 00:14:00,752 - INFO - Episode 10/20
+2024-12-22 00:14:22,187 - INFO - Episode 10 - Total Reward: 43330.82, Epsilon: 0.010, Avg Loss: 0.184
+2024-12-22 00:14:29,672 - INFO - Episode 11/20
+2024-12-22 00:14:54,323 - INFO - Episode 11 - Total Reward: 42767.25, Epsilon: 0.010, Avg Loss: 0.179
+2024-12-22 00:14:54,324 - INFO - Episode 12/20
+2024-12-22 00:15:18,501 - INFO - Episode 12 - Total Reward: 43071.12, Epsilon: 0.010, Avg Loss: 0.283
+2024-12-22 00:15:18,502 - INFO - Episode 13/20
+2024-12-22 00:15:37,133 - INFO - Episode 13 - Total Reward: 42949.69, Epsilon: 0.010, Avg Loss: 0.266
+2024-12-22 00:15:37,133 - INFO - Episode 14/20
+2024-12-22 00:15:54,298 - INFO - Episode 14 - Total Reward: 43406.73, Epsilon: 0.010, Avg Loss: 0.274
+2024-12-22 00:15:54,298 - INFO - Episode 15/20
+2024-12-22 00:16:17,520 - INFO - Episode 15 - Total Reward: 42648.64, Epsilon: 0.010, Avg Loss: 0.262
+2024-12-22 00:16:17,521 - INFO - Episode 16/20
+2024-12-22 00:16:41,860 - INFO - Episode 16 - Total Reward: 43259.89, Epsilon: 0.010, Avg Loss: 0.261
+2024-12-22 00:16:41,861 - INFO - Episode 17/20
+2024-12-22 00:17:03,281 - INFO - Episode 17 - Total Reward: 43258.75, Epsilon: 0.010, Avg Loss: 0.362
+2024-12-22 00:17:03,282 - INFO - Episode 18/20
+2024-12-22 00:17:27,661 - INFO - Episode 18 - Total Reward: 43264.54, Epsilon: 0.010, Avg Loss: 0.350
+2024-12-22 00:17:27,663 - INFO - Episode 19/20
+2024-12-22 00:17:52,100 - INFO - Episode 19 - Total Reward: 43363.18, Epsilon: 0.010, Avg Loss: 0.347
+2024-12-22 00:17:52,101 - INFO - Episode 20/20
+2024-12-22 00:18:16,897 - INFO - Episode 20 - Total Reward: 43053.70, Epsilon: 0.010, Avg Loss: 0.353
+2024-12-22 00:18:33,874 - INFO - Training completed
+2024-12-22 20:13:10,448 - INFO - Loaded best previous model
+2024-12-22 20:13:10,450 - INFO - Episode 1/20
+2024-12-22 20:13:35,399 - INFO - Episode 1 - Total Reward: -139.80, Epsilon: 0.058, Avg Loss: 0.139
+2024-12-22 20:13:35,399 - INFO - Episode 2/20
+2024-12-22 20:13:59,227 - INFO - Episode 2 - Total Reward: -142.24, Epsilon: 0.050, Avg Loss: 0.145
+2024-12-22 20:13:59,228 - INFO - Episode 3/20
+2024-12-22 20:14:23,750 - INFO - Episode 3 - Total Reward: -145.69, Epsilon: 0.050, Avg Loss: 0.127
+2024-12-22 20:14:23,751 - INFO - Episode 4/20
+2024-12-22 20:14:48,159 - INFO - Episode 4 - Total Reward: -143.27, Epsilon: 0.050, Avg Loss: 0.123
+2024-12-22 20:14:48,159 - INFO - Episode 5/20
+2024-12-22 20:15:12,164 - INFO - Episode 5 - Total Reward: -136.60, Epsilon: 0.050, Avg Loss: 0.121
+2024-12-22 20:15:12,165 - INFO - Episode 6/20
+2024-12-22 20:23:13,977 - INFO - Loaded best previous model
+2024-12-22 20:23:13,978 - INFO - Episode 1/20
+2024-12-22 20:23:37,341 - INFO - Episode 1 - Total Reward: 42665.48, Epsilon: 0.058, Avg Loss: 0.172
+2024-12-22 20:23:37,342 - INFO - Episode 2/20
+2024-12-22 20:23:51,705 - INFO - Episode 2 - Total Reward: 42852.25, Epsilon: 0.050, Avg Loss: 0.276
+2024-12-22 20:23:51,706 - INFO - Episode 3/20
+2024-12-22 20:24:05,480 - INFO - Episode 3 - Total Reward: 42759.16, Epsilon: 0.050, Avg Loss: 0.241
+2024-12-22 20:24:05,480 - INFO - Episode 4/20
+2024-12-22 20:24:21,938 - INFO - Episode 4 - Total Reward: 42997.75, Epsilon: 0.050, Avg Loss: 0.235
+2024-12-22 20:24:21,939 - INFO - Episode 5/20
+2024-12-22 20:24:38,159 - INFO - Episode 5 - Total Reward: 42569.58, Epsilon: 0.050, Avg Loss: 0.222
+2024-12-22 20:24:38,159 - INFO - Episode 6/20
+2024-12-22 20:24:52,599 - INFO - Episode 6 - Total Reward: 42646.39, Epsilon: 0.050, Avg Loss: 0.215
+2024-12-22 20:24:52,599 - INFO - Episode 7/20
+2024-12-22 20:25:06,626 - INFO - Episode 7 - Total Reward: 43001.50, Epsilon: 0.050, Avg Loss: 0.316
+2024-12-22 20:25:06,627 - INFO - Episode 8/20
+2024-12-22 20:25:24,526 - INFO - Episode 8 - Total Reward: 43111.30, Epsilon: 0.050, Avg Loss: 0.301
+2024-12-22 20:25:24,527 - INFO - Episode 9/20
+2024-12-22 20:25:40,202 - INFO - Episode 9 - Total Reward: 43471.40, Epsilon: 0.050, Avg Loss: 0.289
+2024-12-22 20:25:40,202 - INFO - Episode 10/20
+2024-12-22 20:25:54,107 - INFO - Episode 10 - Total Reward: 43259.69, Epsilon: 0.050, Avg Loss: 0.286
+2024-12-22 20:27:32,721 - INFO - Episode 11/20
+2024-12-22 20:27:51,634 - INFO - Episode 11 - Total Reward: 43077.02, Epsilon: 0.050, Avg Loss: 0.288
+2024-12-22 20:27:51,635 - INFO - Episode 12/20
+2024-12-22 20:28:10,588 - INFO - Episode 12 - Total Reward: 43360.44, Epsilon: 0.050, Avg Loss: 0.389
+2024-12-22 20:28:10,588 - INFO - Episode 13/20
+2024-12-22 20:28:25,704 - INFO - Episode 13 - Total Reward: 43394.22, Epsilon: 0.050, Avg Loss: 0.376
+2024-12-22 20:28:25,705 - INFO - Episode 14/20
+2024-12-22 20:28:42,917 - INFO - Episode 14 - Total Reward: 42574.61, Epsilon: 0.050, Avg Loss: 0.378
+2024-12-22 20:28:42,917 - INFO - Episode 15/20
+2024-12-22 20:28:58,771 - INFO - Episode 15 - Total Reward: 43280.46, Epsilon: 0.050, Avg Loss: 0.360
+2024-12-22 20:28:58,772 - INFO - Episode 16/20
+2024-12-22 20:29:16,987 - INFO - Episode 16 - Total Reward: 43494.60, Epsilon: 0.050, Avg Loss: 0.364
+2024-12-22 20:29:16,988 - INFO - Episode 17/20
+2024-12-22 20:29:31,591 - INFO - Episode 17 - Total Reward: 43579.21, Epsilon: 0.050, Avg Loss: 0.457
+2024-12-22 20:29:31,591 - INFO - Episode 18/20
+2024-12-22 20:29:45,500 - INFO - Episode 18 - Total Reward: 42730.97, Epsilon: 0.050, Avg Loss: 0.456
+2024-12-22 20:29:45,501 - INFO - Episode 19/20
+2024-12-22 20:29:59,869 - INFO - Episode 19 - Total Reward: 42794.50, Epsilon: 0.050, Avg Loss: 0.444
+2024-12-22 20:29:59,870 - INFO - Episode 20/20
+2024-12-22 20:30:15,528 - INFO - Episode 20 - Total Reward: 42787.10, Epsilon: 0.050, Avg Loss: 0.457
+2024-12-22 20:30:28,617 - INFO - Training completed
+2024-12-22 20:36:09,603 - INFO - Episode 1/20
+2024-12-22 20:36:25,620 - INFO - Episode 1 - Total Reward: 2875.75, Epsilon: 0.058, Avg Loss: 0.088
+2024-12-22 20:36:25,620 - INFO - Episode 2/20
+2024-12-22 20:36:40,071 - INFO - Episode 2 - Total Reward: 2634.35, Epsilon: 0.050, Avg Loss: 0.093
+2024-12-22 20:36:40,071 - INFO - Episode 3/20
+2024-12-22 20:36:56,228 - INFO - Episode 3 - Total Reward: 2952.90, Epsilon: 0.050, Avg Loss: 0.081
+2024-12-22 20:36:56,229 - INFO - Episode 4/20
+2024-12-22 20:37:10,445 - INFO - Episode 4 - Total Reward: 2860.52, Epsilon: 0.050, Avg Loss: 0.077
+2024-12-22 20:37:10,446 - INFO - Episode 5/20
+2024-12-22 20:37:25,940 - INFO - Episode 5 - Total Reward: 3004.22, Epsilon: 0.050, Avg Loss: 0.074
+2024-12-22 20:37:25,941 - INFO - Episode 6/20
+2024-12-22 20:37:40,472 - INFO - Episode 6 - Total Reward: 3633.17, Epsilon: 0.050, Avg Loss: 0.071
+2024-12-22 20:37:40,472 - INFO - Episode 7/20
+2024-12-22 20:37:55,765 - INFO - Episode 7 - Total Reward: 2293.01, Epsilon: 0.050, Avg Loss: 0.130
+2024-12-22 20:37:55,766 - INFO - Episode 8/20
+2024-12-22 20:38:11,280 - INFO - Episode 8 - Total Reward: 3154.46, Epsilon: 0.050, Avg Loss: 0.122
+2024-12-22 20:38:11,282 - INFO - Episode 9/20
+2024-12-22 20:38:27,336 - INFO - Episode 9 - Total Reward: 3149.04, Epsilon: 0.050, Avg Loss: 0.117
+2024-12-22 20:38:27,336 - INFO - Episode 10/20
+2024-12-22 20:38:43,544 - INFO - Episode 10 - Total Reward: 3078.98, Epsilon: 0.050, Avg Loss: 0.111
+2024-12-22 20:38:49,179 - INFO - Episode 11/20
+2024-12-22 20:39:05,845 - INFO - Episode 11 - Total Reward: 3159.90, Epsilon: 0.050, Avg Loss: 0.110
+2024-12-22 20:39:05,845 - INFO - Episode 12/20
+2024-12-22 20:39:21,968 - INFO - Episode 12 - Total Reward: 2471.45, Epsilon: 0.050, Avg Loss: 0.185
+2024-12-22 20:39:21,969 - INFO - Episode 13/20
+2024-12-22 20:39:38,396 - INFO - Episode 13 - Total Reward: 3023.02, Epsilon: 0.050, Avg Loss: 0.169
+2024-12-22 20:39:38,396 - INFO - Episode 14/20
+2024-12-22 20:39:53,606 - INFO - Episode 14 - Total Reward: 2986.83, Epsilon: 0.050, Avg Loss: 0.172
+2024-12-22 20:39:53,607 - INFO - Episode 15/20
+2024-12-22 20:40:09,633 - INFO - Episode 15 - Total Reward: 2693.25, Epsilon: 0.050, Avg Loss: 0.171
+2024-12-22 20:40:09,633 - INFO - Episode 16/20
+2024-12-22 20:40:24,235 - INFO - Episode 16 - Total Reward: 2593.47, Epsilon: 0.050, Avg Loss: 0.165
+2024-12-22 20:40:24,235 - INFO - Early stopping triggered after 16 episodes
+2024-12-22 20:40:24,238 - INFO - Training completed
+2024-12-22 20:50:23,931 - INFO - Episode 1/20
+2024-12-22 20:50:38,780 - INFO - Episode 1 - Total Reward: 3675.48, Epsilon: 0.057, Avg Loss: 0.089
+2024-12-22 20:50:45,187 - INFO - Episode 2/20
+2024-12-22 20:51:00,468 - INFO - Episode 2 - Total Reward: 2806.76, Epsilon: 0.049, Avg Loss: 0.085
+2024-12-22 20:51:04,348 - INFO - Episode 3/20
+2024-12-22 20:51:19,524 - INFO - Episode 3 - Total Reward: 3167.23, Epsilon: 0.049, Avg Loss: 0.078
+2024-12-22 20:51:24,098 - INFO - Episode 4/20
+2024-12-22 20:51:40,614 - INFO - Episode 4 - Total Reward: 2632.96, Epsilon: 0.048, Avg Loss: 0.075
+2024-12-22 20:51:43,327 - INFO - Episode 5/20
+2024-12-22 20:51:59,203 - INFO - Episode 5 - Total Reward: 2818.34, Epsilon: 0.048, Avg Loss: 0.077
+2024-12-22 20:52:01,498 - INFO - Episode 6/20
+2024-12-22 20:52:34,555 - INFO - Episode 1/20
+2024-12-22 20:52:47,763 - INFO - Episode 1 - Total Reward: 2911.18, Epsilon: 0.057, Avg Loss: 0.093
+2024-12-22 20:52:47,764 - INFO - Episode 2/20
+2024-12-22 20:53:01,131 - INFO - Episode 2 - Total Reward: 2523.52, Epsilon: 0.049, Avg Loss: 0.093
+2024-12-22 20:53:01,131 - INFO - Episode 3/20
+2024-12-22 20:53:14,554 - INFO - Episode 3 - Total Reward: 3064.91, Epsilon: 0.049, Avg Loss: 0.079
+2024-12-22 20:53:14,555 - INFO - Episode 4/20
+2024-12-22 20:53:28,235 - INFO - Episode 4 - Total Reward: 3112.94, Epsilon: 0.048, Avg Loss: 0.076
+2024-12-22 20:53:28,236 - INFO - Episode 5/20
+2024-12-22 20:53:44,615 - INFO - Episode 5 - Total Reward: 2842.53, Epsilon: 0.048, Avg Loss: 0.071
+2024-12-22 20:53:44,616 - INFO - Episode 6/20
+2024-12-22 20:53:58,311 - INFO - Episode 6 - Total Reward: 2914.94, Epsilon: 0.047, Avg Loss: 0.071
+2024-12-22 20:53:58,311 - INFO - Episode 7/20
+2024-12-22 20:54:12,241 - INFO - Episode 7 - Total Reward: 2745.22, Epsilon: 0.047, Avg Loss: 0.126
+2024-12-22 20:54:12,242 - INFO - Episode 8/20
+2024-12-22 20:54:27,015 - INFO - Episode 8 - Total Reward: 2586.50, Epsilon: 0.047, Avg Loss: 0.113
+2024-12-22 20:54:27,015 - INFO - Episode 9/20
+2024-12-22 20:54:40,426 - INFO - Episode 9 - Total Reward: 3247.17, Epsilon: 0.046, Avg Loss: 0.110
+2024-12-22 20:54:40,426 - INFO - Episode 10/20
+2024-12-22 20:54:53,730 - INFO - Episode 10 - Total Reward: 3022.51, Epsilon: 0.046, Avg Loss: 0.110
+2024-12-22 20:54:53,730 - INFO - Episode 11/20
+2024-12-22 20:55:07,356 - INFO - Episode 11 - Total Reward: 2825.60, Epsilon: 0.045, Avg Loss: 0.109
+2024-12-22 20:55:07,357 - INFO - Episode 12/20
+2024-12-22 20:55:20,995 - INFO - Episode 12 - Total Reward: 2525.43, Epsilon: 0.045, Avg Loss: 0.174
+2024-12-22 20:55:20,996 - INFO - Episode 13/20
+2024-12-22 20:55:34,660 - INFO - Episode 13 - Total Reward: 3419.28, Epsilon: 0.044, Avg Loss: 0.169
+2024-12-22 20:55:34,661 - INFO - Episode 14/20
+2024-12-22 20:55:48,012 - INFO - Episode 14 - Total Reward: 3023.93, Epsilon: 0.044, Avg Loss: 0.166
+2024-12-22 20:55:48,013 - INFO - Episode 15/20
+2024-12-22 20:56:01,522 - INFO - Episode 15 - Total Reward: 2537.38, Epsilon: 0.043, Avg Loss: 0.168
+2024-12-22 20:56:01,522 - INFO - Episode 16/20
+2024-12-22 20:56:14,818 - INFO - Episode 16 - Total Reward: 3271.16, Epsilon: 0.043, Avg Loss: 0.162
+2024-12-22 20:56:14,819 - INFO - Episode 17/20
+2024-12-22 20:56:28,336 - INFO - Episode 17 - Total Reward: 3031.93, Epsilon: 0.042, Avg Loss: 0.225
+2024-12-22 20:56:28,337 - INFO - Episode 18/20
+2024-12-22 20:56:42,501 - INFO - Episode 18 - Total Reward: 2705.52, Epsilon: 0.042, Avg Loss: 0.217
+2024-12-22 20:56:42,502 - INFO - Episode 19/20
+2024-12-22 20:56:55,943 - INFO - Episode 19 - Total Reward: 2272.49, Epsilon: 0.042, Avg Loss: 0.218
+2024-12-22 20:56:55,944 - INFO - Episode 20/20
+2024-12-22 20:57:09,346 - INFO - Episode 20 - Total Reward: 2770.99, Epsilon: 0.041, Avg Loss: 0.216
+2024-12-22 20:57:45,589 - INFO - Training completed
+2024-12-22 20:58:30,450 - INFO - Episode 1/100
+2024-12-22 20:58:52,726 - INFO - Episode 1 - Total Reward: 4004.72, Epsilon: 0.049, Avg Loss: 0.076
+2024-12-22 20:58:52,727 - INFO - Episode 2/100
+2024-12-22 20:59:15,050 - INFO - Episode 2 - Total Reward: 4182.16, Epsilon: 0.049, Avg Loss: 0.085
+2024-12-22 20:59:15,050 - INFO - Episode 3/100
+2024-12-22 20:59:37,827 - INFO - Episode 3 - Total Reward: 4873.30, Epsilon: 0.048, Avg Loss: 0.074
+2024-12-22 20:59:37,828 - INFO - Episode 4/100
+2024-12-22 21:00:02,127 - INFO - Episode 4 - Total Reward: 4362.24, Epsilon: 0.048, Avg Loss: 0.070
+2024-12-22 21:00:02,128 - INFO - Episode 5/100
+2024-12-22 21:00:48,654 - INFO - Episode 5 - Total Reward: 4781.32, Epsilon: 0.047, Avg Loss: 0.069
+2024-12-22 21:00:48,655 - INFO - Episode 6/100
+2024-12-22 21:01:35,082 - INFO - Episode 6 - Total Reward: 5480.17, Epsilon: 0.047, Avg Loss: 0.068
+2024-12-22 21:01:35,083 - INFO - Episode 7/100
+2024-12-22 21:02:22,126 - INFO - Episode 7 - Total Reward: 4467.60, Epsilon: 0.047, Avg Loss: 0.116
+2024-12-22 21:02:22,127 - INFO - Episode 8/100
+2024-12-22 21:03:07,336 - INFO - Episode 8 - Total Reward: 4633.73, Epsilon: 0.046, Avg Loss: 0.108
+2024-12-22 21:03:07,336 - INFO - Episode 9/100
+2024-12-22 21:03:44,816 - INFO - Episode 9 - Total Reward: 5116.77, Epsilon: 0.046, Avg Loss: 0.104
+2024-12-22 21:03:44,817 - INFO - Episode 10/100
+2024-12-22 21:04:25,520 - INFO - Episode 10 - Total Reward: 4848.72, Epsilon: 0.045, Avg Loss: 0.105
+2024-12-22 21:04:25,521 - INFO - Episode 11/100
+2024-12-22 21:05:09,505 - INFO - Episode 11 - Total Reward: 5335.84, Epsilon: 0.045, Avg Loss: 0.102
+2024-12-22 21:05:09,506 - INFO - Episode 12/100
+2024-12-22 21:05:53,485 - INFO - Episode 12 - Total Reward: 3653.90, Epsilon: 0.044, Avg Loss: 0.172
+2024-12-22 21:05:53,486 - INFO - Episode 13/100
+2024-12-22 21:06:36,367 - INFO - Episode 13 - Total Reward: 4179.83, Epsilon: 0.044, Avg Loss: 0.163
+2024-12-22 21:06:36,368 - INFO - Episode 14/100
+2024-12-22 21:07:20,397 - INFO - Episode 14 - Total Reward: 4722.47, Epsilon: 0.043, Avg Loss: 0.160
+2024-12-22 21:07:20,398 - INFO - Episode 15/100
+2024-12-22 21:08:04,201 - INFO - Episode 15 - Total Reward: 5107.84, Epsilon: 0.043, Avg Loss: 0.157
+2024-12-22 21:08:04,201 - INFO - Episode 16/100
+2024-12-22 21:08:46,946 - INFO - Episode 16 - Total Reward: 3851.43, Epsilon: 0.042, Avg Loss: 0.157
+2024-12-22 21:08:46,947 - INFO - Early stopping triggered after 16 episodes
+2024-12-22 21:10:44,466 - INFO - Training completed
+2024-12-22 21:11:10,974 - INFO - Episode 1/100
+2024-12-22 21:11:53,454 - INFO - Episode 1 - Total Reward: 3723.12, Epsilon: 0.049, Avg Loss: 0.074
+2024-12-22 21:11:53,455 - INFO - Episode 2/100
+2024-12-22 21:12:34,632 - INFO - Episode 2 - Total Reward: 4553.40, Epsilon: 0.049, Avg Loss: 0.090
+2024-12-22 21:12:34,632 - INFO - Episode 3/100
+2024-12-22 21:13:13,921 - INFO - Episode 3 - Total Reward: 4899.83, Epsilon: 0.048, Avg Loss: 0.078
+2024-12-22 21:13:13,921 - INFO - Episode 4/100
+2024-12-22 21:13:59,465 - INFO - Episode 1/100
+2024-12-22 21:14:45,641 - INFO - Episode 1 - Total Reward: 5121.39, Epsilon: 0.049, Avg Loss: 0.069
+2024-12-22 21:14:45,656 - INFO - New best model saved with reward 5121.39
+2024-12-22 21:14:45,658 - INFO - Episode 2/100
+2024-12-22 21:15:32,192 - INFO - Episode 2 - Total Reward: 3662.11, Epsilon: 0.049, Avg Loss: 0.101
+2024-12-22 21:15:32,193 - INFO - Episode 3/100
+2024-12-22 21:16:16,368 - INFO - Episode 3 - Total Reward: 3945.31, Epsilon: 0.048, Avg Loss: 0.090
+2024-12-22 21:16:16,369 - INFO - Episode 4/100
+2024-12-22 21:17:05,843 - INFO - Episode 4 - Total Reward: 4561.89, Epsilon: 0.048, Avg Loss: 0.084
+2024-12-22 21:17:05,844 - INFO - Episode 5/100
+2024-12-22 21:17:53,218 - INFO - Episode 5 - Total Reward: 5058.06, Epsilon: 0.047, Avg Loss: 0.079
+2024-12-22 21:17:53,219 - INFO - Episode 6/100
+2024-12-22 21:18:38,558 - INFO - Episode 6 - Total Reward: 4381.34, Epsilon: 0.047, Avg Loss: 0.079
+2024-12-22 21:18:38,559 - INFO - Episode 7/100
+2024-12-22 21:19:25,466 - INFO - Episode 7 - Total Reward: 3430.53, Epsilon: 0.047, Avg Loss: 0.129
+2024-12-22 21:19:25,467 - INFO - Episode 8/100
+2024-12-22 21:20:14,684 - INFO - Episode 8 - Total Reward: 4027.71, Epsilon: 0.046, Avg Loss: 0.119
+2024-12-22 21:20:14,685 - INFO - Episode 9/100
+2024-12-22 21:21:03,331 - INFO - Episode 9 - Total Reward: 4797.39, Epsilon: 0.046, Avg Loss: 0.115
+2024-12-22 21:21:03,331 - INFO - Episode 10/100
+2024-12-22 21:21:50,072 - INFO - Episode 10 - Total Reward: 4915.94, Epsilon: 0.045, Avg Loss: 0.115
+2024-12-22 21:21:50,072 - INFO - Episode 11/100
+2024-12-22 21:22:38,172 - INFO - Episode 11 - Total Reward: 4506.55, Epsilon: 0.045, Avg Loss: 0.113
+2024-12-22 21:22:38,173 - INFO - Episode 12/100
+2024-12-22 21:23:27,360 - INFO - Episode 12 - Total Reward: 4213.15, Epsilon: 0.044, Avg Loss: 0.178
+2024-12-22 21:23:27,361 - INFO - Episode 13/100
+2024-12-22 21:24:15,106 - INFO - Episode 13 - Total Reward: 5146.49, Epsilon: 0.044, Avg Loss: 0.171
+2024-12-22 21:24:15,111 - INFO - New best model saved with reward 5146.49
+2024-12-22 21:24:15,112 - INFO - Episode 14/100
+2024-12-22 21:25:01,494 - INFO - Episode 14 - Total Reward: 4659.09, Epsilon: 0.043, Avg Loss: 0.171
+2024-12-22 21:25:01,495 - INFO - Episode 15/100
+2024-12-22 21:25:51,755 - INFO - Episode 15 - Total Reward: 4424.32, Epsilon: 0.043, Avg Loss: 0.169
+2024-12-22 21:25:51,756 - INFO - Episode 16/100
+2024-12-22 21:26:38,652 - INFO - Episode 16 - Total Reward: 4241.95, Epsilon: 0.042, Avg Loss: 0.168
+2024-12-22 21:26:38,653 - INFO - Episode 17/100
+2024-12-22 21:27:26,694 - INFO - Episode 17 - Total Reward: 4501.86, Epsilon: 0.042, Avg Loss: 0.250
+2024-12-22 21:27:26,695 - INFO - Episode 18/100
+2024-12-22 21:28:13,458 - INFO - Episode 18 - Total Reward: 4514.57, Epsilon: 0.042, Avg Loss: 0.239
+2024-12-22 21:28:13,459 - INFO - Episode 19/100
+2024-12-22 21:28:59,258 - INFO - Episode 19 - Total Reward: 4057.82, Epsilon: 0.041, Avg Loss: 0.239
+2024-12-22 21:28:59,259 - INFO - Episode 20/100
+2024-12-22 21:29:46,620 - INFO - Episode 20 - Total Reward: 3291.71, Epsilon: 0.041, Avg Loss: 0.232
+2024-12-22 21:29:46,621 - INFO - Episode 21/100
+2024-12-22 21:30:32,297 - INFO - Episode 21 - Total Reward: 3626.90, Epsilon: 0.040, Avg Loss: 0.238
+2024-12-22 21:30:32,298 - INFO - Episode 22/100
+2024-12-22 21:31:20,289 - INFO - Episode 22 - Total Reward: 4274.98, Epsilon: 0.040, Avg Loss: 0.331
+2024-12-22 21:31:20,290 - INFO - Episode 23/100
+2024-12-22 21:32:11,250 - INFO - Episode 23 - Total Reward: 4732.26, Epsilon: 0.040, Avg Loss: 0.327
+2024-12-22 21:32:11,251 - INFO - Episode 24/100
+2024-12-22 21:33:00,050 - INFO - Episode 24 - Total Reward: 4881.41, Epsilon: 0.039, Avg Loss: 0.323
+2024-12-22 21:33:00,051 - INFO - Episode 25/100
+2024-12-22 21:33:47,760 - INFO - Episode 25 - Total Reward: 4827.51, Epsilon: 0.039, Avg Loss: 0.319
+2024-12-22 21:33:47,761 - INFO - Episode 26/100
+2024-12-22 21:34:34,609 - INFO - Episode 26 - Total Reward: 4533.28, Epsilon: 0.038, Avg Loss: 0.313
+2024-12-22 21:34:34,610 - INFO - Episode 27/100
+2024-12-22 21:35:24,296 - INFO - Episode 27 - Total Reward: 4839.57, Epsilon: 0.038, Avg Loss: 0.401
+2024-12-22 21:35:24,297 - INFO - Episode 28/100
+2024-12-22 21:36:12,942 - INFO - Episode 28 - Total Reward: 4268.14, Epsilon: 0.038, Avg Loss: 0.394
+2024-12-22 21:36:12,943 - INFO - Episode 29/100
+2024-12-22 21:37:00,798 - INFO - Episode 29 - Total Reward: 4083.64, Epsilon: 0.037, Avg Loss: 0.394
+2024-12-22 21:37:00,799 - INFO - Episode 30/100
+2024-12-22 21:37:48,028 - INFO - Episode 30 - Total Reward: 4401.60, Epsilon: 0.037, Avg Loss: 0.393
+2024-12-22 21:37:48,028 - INFO - Episode 31/100
+2024-12-22 21:38:31,691 - INFO - Episode 31 - Total Reward: 4382.37, Epsilon: 0.037, Avg Loss: 0.388
+2024-12-22 21:38:31,691 - INFO - Episode 32/100
+2024-12-22 21:39:18,391 - INFO - Episode 32 - Total Reward: 4477.21, Epsilon: 0.036, Avg Loss: 0.498
+2024-12-22 21:39:18,391 - INFO - Episode 33/100
+2024-12-22 21:39:59,414 - INFO - Episode 33 - Total Reward: 4432.64, Epsilon: 0.036, Avg Loss: 0.485
+2024-12-22 21:39:59,415 - INFO - Episode 34/100
+2024-12-22 21:40:41,287 - INFO - Episode 34 - Total Reward: 5014.98, Epsilon: 0.035, Avg Loss: 0.489
+2024-12-22 21:40:41,288 - INFO - Episode 35/100
+2024-12-22 21:41:22,357 - INFO - Episode 35 - Total Reward: 4187.74, Epsilon: 0.035, Avg Loss: 0.488
+2024-12-22 21:41:22,358 - INFO - Episode 36/100
+2024-12-22 21:42:08,463 - INFO - Episode 36 - Total Reward: 4177.70, Epsilon: 0.035, Avg Loss: 0.484
+2024-12-22 21:42:08,464 - INFO - Episode 37/100
+2024-12-22 21:42:57,052 - INFO - Episode 37 - Total Reward: 3912.60, Epsilon: 0.034, Avg Loss: 0.604
+2024-12-22 21:42:57,053 - INFO - Episode 38/100
+2024-12-22 21:43:36,267 - INFO - Episode 38 - Total Reward: 4399.95, Epsilon: 0.034, Avg Loss: 0.594
+2024-12-22 21:43:36,267 - INFO - Episode 39/100
+2024-12-22 21:44:15,978 - INFO - Episode 39 - Total Reward: 4353.99, Epsilon: 0.034, Avg Loss: 0.591
+2024-12-22 21:44:15,979 - INFO - Episode 40/100
+2024-12-22 21:44:57,469 - INFO - Episode 40 - Total Reward: 4913.99, Epsilon: 0.033, Avg Loss: 0.584
+2024-12-22 21:44:57,470 - INFO - Episode 41/100
+2024-12-22 21:45:47,143 - INFO - Episode 41 - Total Reward: 3712.55, Epsilon: 0.033, Avg Loss: 0.591
+2024-12-22 21:45:47,145 - INFO - Episode 42/100
+2024-12-22 21:46:35,174 - INFO - Episode 42 - Total Reward: 3937.12, Epsilon: 0.033, Avg Loss: 0.700
+2024-12-22 21:46:35,175 - INFO - Episode 43/100
+2024-12-22 21:47:22,614 - INFO - Episode 43 - Total Reward: 4513.75, Epsilon: 0.032, Avg Loss: 0.695
+2024-12-22 21:47:22,616 - INFO - Episode 44/100
+2024-12-22 21:48:05,286 - INFO - Episode 44 - Total Reward: 4124.74, Epsilon: 0.032, Avg Loss: 0.682
+2024-12-22 21:48:05,287 - INFO - Episode 45/100
+2024-12-22 21:48:48,822 - INFO - Episode 45 - Total Reward: 3971.31, Epsilon: 0.032, Avg Loss: 0.678
+2024-12-22 21:48:48,822 - INFO - Episode 46/100
+2024-12-22 21:49:36,891 - INFO - Episode 46 - Total Reward: 3867.64, Epsilon: 0.031, Avg Loss: 0.690
+2024-12-22 21:49:36,892 - INFO - Episode 47/100
+2024-12-22 21:50:22,738 - INFO - Episode 47 - Total Reward: 4320.93, Epsilon: 0.031, Avg Loss: 0.803
+2024-12-22 21:50:22,739 - INFO - Episode 48/100
+2024-12-22 21:51:03,590 - INFO - Episode 48 - Total Reward: 4210.29, Epsilon: 0.031, Avg Loss: 0.797
+2024-12-22 21:51:03,591 - INFO - Episode 49/100
+2024-12-22 21:51:46,174 - INFO - Episode 49 - Total Reward: 5062.28, Epsilon: 0.031, Avg Loss: 0.794
+2024-12-22 21:51:46,175 - INFO - Episode 50/100
+2024-12-22 21:52:28,516 - INFO - Episode 50 - Total Reward: 4386.58, Epsilon: 0.030, Avg Loss: 0.775
+2024-12-22 21:52:28,518 - INFO - Episode 51/100
+2024-12-22 21:53:11,876 - INFO - Episode 51 - Total Reward: 3398.27, Epsilon: 0.030, Avg Loss: 0.781
+2024-12-22 21:53:11,876 - INFO - Episode 52/100
+2024-12-22 21:53:52,191 - INFO - Episode 52 - Total Reward: 4821.32, Epsilon: 0.030, Avg Loss: 0.916
+2024-12-22 21:53:52,193 - INFO - Episode 53/100
+2024-12-22 21:54:35,883 - INFO - Episode 53 - Total Reward: 4932.09, Epsilon: 0.029, Avg Loss: 0.878
+2024-12-22 21:54:35,883 - INFO - Episode 54/100
+2024-12-22 21:55:19,303 - INFO - Episode 54 - Total Reward: 4305.75, Epsilon: 0.029, Avg Loss: 0.880
+2024-12-22 21:55:19,304 - INFO - Episode 55/100
+2024-12-22 21:56:00,769 - INFO - Episode 55 - Total Reward: 3741.71, Epsilon: 0.029, Avg Loss: 0.876
+2024-12-22 21:56:00,770 - INFO - Episode 56/100
+2024-12-22 21:56:43,334 - INFO - Episode 56 - Total Reward: 4653.10, Epsilon: 0.028, Avg Loss: 0.883
+2024-12-22 21:56:43,335 - INFO - Episode 57/100
+2024-12-22 21:57:25,658 - INFO - Episode 57 - Total Reward: 5130.08, Epsilon: 0.028, Avg Loss: 1.012
+2024-12-22 21:57:25,659 - INFO - Episode 58/100
+2024-12-22 21:58:07,629 - INFO - Episode 58 - Total Reward: 5177.91, Epsilon: 0.028, Avg Loss: 0.992
+2024-12-22 21:58:07,632 - INFO - New best model saved with reward 5177.91
+2024-12-22 21:58:07,632 - INFO - Episode 59/100
+2024-12-22 21:58:49,446 - INFO - Episode 59 - Total Reward: 3513.41, Epsilon: 0.028, Avg Loss: 1.001
+2024-12-22 21:58:49,447 - INFO - Episode 60/100
+2024-12-22 21:59:33,286 - INFO - Episode 60 - Total Reward: 3958.03, Epsilon: 0.027, Avg Loss: 0.990
+2024-12-22 21:59:33,287 - INFO - Episode 61/100
+2024-12-22 22:00:16,225 - INFO - Episode 61 - Total Reward: 3848.84, Epsilon: 0.027, Avg Loss: 0.964
+2024-12-22 22:00:16,226 - INFO - Episode 62/100
+2024-12-22 22:00:58,505 - INFO - Episode 62 - Total Reward: 4923.01, Epsilon: 0.027, Avg Loss: 1.087
+2024-12-22 22:00:58,506 - INFO - Episode 63/100
+2024-12-22 22:01:45,741 - INFO - Episode 63 - Total Reward: 4375.11, Epsilon: 0.026, Avg Loss: 1.055
+2024-12-22 22:01:45,742 - INFO - Episode 64/100
+2024-12-22 22:02:26,043 - INFO - Episode 64 - Total Reward: 4780.58, Epsilon: 0.026, Avg Loss: 1.076
+2024-12-22 22:02:26,047 - INFO - Episode 65/100
+2024-12-22 22:02:58,591 - INFO - Episode 65 - Total Reward: 4202.28, Epsilon: 0.026, Avg Loss: 1.064
+2024-12-22 22:02:58,593 - INFO - Episode 66/100
+2024-12-22 22:03:39,874 - INFO - Episode 66 - Total Reward: 4859.94, Epsilon: 0.026, Avg Loss: 1.058
+2024-12-22 22:03:39,889 - INFO - Episode 67/100
+2024-12-22 22:04:20,866 - INFO - Episode 67 - Total Reward: 3446.09, Epsilon: 0.025, Avg Loss: 1.183
+2024-12-22 22:04:20,866 - INFO - Episode 68/100
+2024-12-22 22:05:03,356 - INFO - Episode 68 - Total Reward: 4555.60, Epsilon: 0.025, Avg Loss: 1.155
+2024-12-22 22:05:03,356 - INFO - Episode 69/100
+2024-12-22 22:05:45,955 - INFO - Episode 69 - Total Reward: 4546.08, Epsilon: 0.025, Avg Loss: 1.147
+2024-12-22 22:05:45,971 - INFO - Episode 70/100
+2024-12-22 22:06:26,962 - INFO - Episode 70 - Total Reward: 4301.21, Epsilon: 0.025, Avg Loss: 1.142
+2024-12-22 22:06:26,962 - INFO - Episode 71/100
+2024-12-22 22:07:09,649 - INFO - Episode 71 - Total Reward: 4147.48, Epsilon: 0.024, Avg Loss: 1.135
+2024-12-22 22:07:09,649 - INFO - Episode 72/100
+2024-12-22 22:07:50,928 - INFO - Episode 72 - Total Reward: 4568.27, Epsilon: 0.024, Avg Loss: 1.239
+2024-12-22 22:07:50,928 - INFO - Episode 73/100
+2024-12-22 22:08:32,276 - INFO - Episode 73 - Total Reward: 4736.51, Epsilon: 0.024, Avg Loss: 1.215
+2024-12-22 22:08:32,277 - INFO - Episode 74/100
+2024-12-22 22:09:14,029 - INFO - Episode 74 - Total Reward: 4851.13, Epsilon: 0.024, Avg Loss: 1.224
+2024-12-22 22:09:14,029 - INFO - Episode 75/100
+2024-12-22 22:09:55,765 - INFO - Episode 75 - Total Reward: 4752.05, Epsilon: 0.023, Avg Loss: 1.213
+2024-12-22 22:09:55,766 - INFO - Episode 76/100
+2024-12-22 22:10:37,013 - INFO - Episode 76 - Total Reward: 4548.14, Epsilon: 0.023, Avg Loss: 1.198
+2024-12-22 22:10:37,013 - INFO - Episode 77/100
+2024-12-22 22:11:18,537 - INFO - Episode 77 - Total Reward: 3967.73, Epsilon: 0.023, Avg Loss: 1.282
+2024-12-22 22:11:18,537 - INFO - Episode 78/100
+2024-12-22 22:11:59,986 - INFO - Episode 78 - Total Reward: 4609.84, Epsilon: 0.023, Avg Loss: 1.281
+2024-12-22 22:11:59,986 - INFO - Episode 79/100
+2024-12-22 22:12:37,479 - INFO - Episode 79 - Total Reward: 4596.13, Epsilon: 0.023, Avg Loss: 1.269
+2024-12-22 22:12:37,479 - INFO - Episode 80/100
+2024-12-22 22:13:08,270 - INFO - Episode 80 - Total Reward: 3759.94, Epsilon: 0.022, Avg Loss: 1.289
+2024-12-22 22:13:08,270 - INFO - Episode 81/100
+2024-12-22 22:13:45,052 - INFO - Episode 81 - Total Reward: 3958.61, Epsilon: 0.022, Avg Loss: 1.280
+2024-12-22 22:13:45,052 - INFO - Episode 82/100
+2024-12-22 22:14:21,959 - INFO - Episode 82 - Total Reward: 4853.44, Epsilon: 0.022, Avg Loss: 1.327
+2024-12-22 22:14:21,974 - INFO - Episode 83/100
+2024-12-22 22:15:03,613 - INFO - Episode 83 - Total Reward: 4439.51, Epsilon: 0.022, Avg Loss: 1.345
+2024-12-22 22:15:03,613 - INFO - Episode 84/100
+2024-12-22 22:15:45,350 - INFO - Episode 84 - Total Reward: 4930.79, Epsilon: 0.021, Avg Loss: 1.339
+2024-12-22 22:15:45,351 - INFO - Episode 85/100
+2024-12-22 22:16:26,568 - INFO - Episode 85 - Total Reward: 4196.68, Epsilon: 0.021, Avg Loss: 1.325
+2024-12-22 22:16:26,568 - INFO - Episode 86/100
+2024-12-22 22:17:04,804 - INFO - Episode 86 - Total Reward: 4530.82, Epsilon: 0.021, Avg Loss: 1.340
+2024-12-22 22:17:04,804 - INFO - Episode 87/100
+2024-12-22 22:17:47,056 - INFO - Episode 87 - Total Reward: 4204.24, Epsilon: 0.021, Avg Loss: 1.381
+2024-12-22 22:17:47,056 - INFO - Episode 88/100
+2024-12-22 22:18:25,041 - INFO - Episode 88 - Total Reward: 5159.45, Epsilon: 0.021, Avg Loss: 1.366
+2024-12-22 22:18:25,042 - INFO - Episode 89/100
+2024-12-22 22:19:05,832 - INFO - Episode 89 - Total Reward: 4785.93, Epsilon: 0.020, Avg Loss: 1.366
+2024-12-22 22:19:05,833 - INFO - Episode 90/100
+2024-12-22 22:19:48,862 - INFO - Episode 90 - Total Reward: 3873.73, Epsilon: 0.020, Avg Loss: 1.360
+2024-12-22 22:19:48,863 - INFO - Episode 91/100
+2024-12-22 22:20:25,941 - INFO - Episode 91 - Total Reward: 4688.89, Epsilon: 0.020, Avg Loss: 1.358
+2024-12-22 22:20:25,941 - INFO - Episode 92/100
+2024-12-22 22:21:06,684 - INFO - Episode 92 - Total Reward: 3738.11, Epsilon: 0.020, Avg Loss: 1.378
+2024-12-22 22:21:06,685 - INFO - Episode 93/100
+2024-12-22 22:21:50,099 - INFO - Episode 93 - Total Reward: 4632.28, Epsilon: 0.020, Avg Loss: 1.398
+2024-12-22 22:21:50,100 - INFO - Episode 94/100
+2024-12-22 22:22:33,799 - INFO - Episode 94 - Total Reward: 4005.25, Epsilon: 0.019, Avg Loss: 1.375
+2024-12-22 22:22:33,800 - INFO - Episode 95/100
+2024-12-22 22:23:15,490 - INFO - Episode 95 - Total Reward: 4092.57, Epsilon: 0.019, Avg Loss: 1.373
+2024-12-22 22:23:15,490 - INFO - Episode 96/100
+2024-12-22 22:23:53,332 - INFO - Episode 96 - Total Reward: 4490.62, Epsilon: 0.019, Avg Loss: 1.367
+2024-12-22 22:23:53,333 - INFO - Episode 97/100
+2024-12-22 22:24:34,141 - INFO - Episode 97 - Total Reward: 5729.37, Epsilon: 0.019, Avg Loss: 1.388
+2024-12-22 22:24:34,141 - INFO - New best model saved with reward 5729.37
+2024-12-22 22:24:34,141 - INFO - Episode 98/100
+2024-12-22 22:25:14,416 - INFO - Episode 98 - Total Reward: 4073.07, Epsilon: 0.019, Avg Loss: 1.372
+2024-12-22 22:25:14,416 - INFO - Episode 99/100
+2024-12-22 22:25:53,251 - INFO - Episode 99 - Total Reward: 3815.09, Epsilon: 0.018, Avg Loss: 1.378
+2024-12-22 22:25:53,251 - INFO - Episode 100/100
+2024-12-22 22:26:31,430 - INFO - Episode 100 - Total Reward: 4686.77, Epsilon: 0.018, Avg Loss: 1.379
+2024-12-22 22:26:45,791 - INFO - Training completed
+2024-12-22 22:29:40,412 - INFO - Episode 1/100 - Total Reward: -1545.41, Epsilon: 0.058
+2024-12-22 22:30:05,485 - INFO - Episode 2/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:30:31,238 - INFO - Episode 3/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:30:54,962 - INFO - Episode 4/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:31:16,114 - INFO - Episode 5/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:31:38,716 - INFO - Episode 6/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:32:00,020 - INFO - Episode 7/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:32:23,949 - INFO - Episode 8/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:32:47,477 - INFO - Episode 9/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 22:33:08,186 - INFO - Episode 10/100 - Total Reward: -1545.41, Epsilon: 0.050
+2024-12-22 23:23:04,241 - INFO - Episode 1/60
+2024-12-22 23:24:10,934 - INFO - Episode 1/100
+2024-12-22 23:25:20,198 - INFO - Episode 1/100
+2024-12-22 23:25:36,833 - INFO - Episode 1 - Total Reward: 14953.39, Epsilon: 0.010, Avg Loss: 0.219
+2024-12-22 23:25:36,836 - INFO - New best model saved with reward 14953.39
+2024-12-22 23:25:36,837 - INFO - Episode 2/100
+2024-12-22 23:25:54,409 - INFO - Episode 2 - Total Reward: 14638.24, Epsilon: 0.010, Avg Loss: 0.434
+2024-12-22 23:25:54,422 - INFO - Episode 3/100
+2024-12-22 23:26:11,667 - INFO - Episode 3 - Total Reward: 14804.19, Epsilon: 0.010, Avg Loss: 0.423
+2024-12-22 23:26:11,668 - INFO - Episode 4/100
+2024-12-22 23:26:30,077 - INFO - Episode 4 - Total Reward: 14599.12, Epsilon: 0.010, Avg Loss: 0.414
+2024-12-22 23:26:30,079 - INFO - Episode 5/100
+2024-12-22 23:26:47,651 - INFO - Episode 5 - Total Reward: 14675.48, Epsilon: 0.010, Avg Loss: 0.412
+2024-12-22 23:26:47,652 - INFO - Episode 6/100
+2024-12-22 23:27:05,013 - INFO - Episode 6 - Total Reward: 14791.39, Epsilon: 0.010, Avg Loss: 0.408
+2024-12-22 23:27:05,014 - INFO - Episode 7/100
+2024-12-22 23:27:23,385 - INFO - Episode 7 - Total Reward: 14961.63, Epsilon: 0.010, Avg Loss: 0.582
+2024-12-22 23:27:23,388 - INFO - New best model saved with reward 14961.63
+2024-12-22 23:27:23,388 - INFO - Episode 8/100
+2024-12-22 23:27:42,147 - INFO - Episode 8 - Total Reward: 14753.82, Epsilon: 0.010, Avg Loss: 0.566
+2024-12-22 23:27:42,148 - INFO - Episode 9/100
+2024-12-22 23:28:00,992 - INFO - Episode 9 - Total Reward: 14730.62, Epsilon: 0.010, Avg Loss: 0.577
+2024-12-22 23:28:00,993 - INFO - Episode 10/100
+2024-12-22 23:28:16,316 - INFO - Episode 10 - Total Reward: 14982.63, Epsilon: 0.010, Avg Loss: 0.579
+2024-12-22 23:28:16,319 - INFO - New best model saved with reward 14982.63
+2024-12-22 23:28:16,319 - INFO - Episode 11/100
+2024-12-22 23:28:35,752 - INFO - Episode 11 - Total Reward: 14590.35, Epsilon: 0.010, Avg Loss: 0.579
+2024-12-22 23:28:35,753 - INFO - Episode 12/100
+2024-12-22 23:28:53,451 - INFO - Episode 12 - Total Reward: 14731.09, Epsilon: 0.010, Avg Loss: 0.754
+2024-12-22 23:28:53,452 - INFO - Episode 13/100
+2024-12-22 23:29:12,227 - INFO - Episode 13 - Total Reward: 14603.00, Epsilon: 0.010, Avg Loss: 0.740
+2024-12-22 23:29:12,228 - INFO - Episode 14/100
+2024-12-22 23:29:31,280 - INFO - Episode 14 - Total Reward: 14749.01, Epsilon: 0.010, Avg Loss: 0.745
+2024-12-22 23:29:31,281 - INFO - Episode 15/100
+2024-12-22 23:29:50,734 - INFO - Episode 15 - Total Reward: 14439.05, Epsilon: 0.010, Avg Loss: 0.747
+2024-12-22 23:29:50,734 - INFO - Episode 16/100
+2024-12-22 23:30:09,599 - INFO - Episode 16 - Total Reward: 14905.93, Epsilon: 0.010, Avg Loss: 0.740
+2024-12-22 23:30:09,599 - INFO - Episode 17/100
+2024-12-22 23:30:28,649 - INFO - Episode 17 - Total Reward: 14638.91, Epsilon: 0.010, Avg Loss: 0.834
+2024-12-22 23:30:28,650 - INFO - Episode 18/100
+2024-12-22 23:30:47,578 - INFO - Episode 18 - Total Reward: 14659.91, Epsilon: 0.010, Avg Loss: 0.840
+2024-12-22 23:30:47,578 - INFO - Episode 19/100
+2024-12-22 23:45:46,181 - INFO - Episode 1/100
+2024-12-22 23:45:58,615 - INFO - Episode 1 - Total Reward: 15139.69, Epsilon: 0.010, Avg Loss: 0.800
+2024-12-22 23:45:58,618 - INFO - New best model saved with reward 15139.69
+2024-12-22 23:45:58,618 - INFO - Episode 2/100
+2024-12-22 23:46:11,136 - INFO - Episode 2 - Total Reward: 14760.87, Epsilon: 0.010, Avg Loss: 1.034
+2024-12-22 23:46:11,136 - INFO - Episode 3/100
+2024-12-22 23:46:24,538 - INFO - Episode 3 - Total Reward: 14753.21, Epsilon: 0.010, Avg Loss: 0.866
+2024-12-22 23:46:24,539 - INFO - Episode 4/100
+2024-12-22 23:46:39,058 - INFO - Episode 4 - Total Reward: 14510.97, Epsilon: 0.010, Avg Loss: 0.876
+2024-12-22 23:46:39,059 - INFO - Episode 5/100
+2024-12-22 23:46:52,026 - INFO - Episode 5 - Total Reward: 15015.82, Epsilon: 0.010, Avg Loss: 0.880
+2024-12-22 23:46:52,026 - INFO - Episode 6/100
+2024-12-22 23:47:05,190 - INFO - Episode 6 - Total Reward: 14899.41, Epsilon: 0.010, Avg Loss: 0.901
+2024-12-22 23:47:05,206 - INFO - Episode 7/100
+2024-12-22 23:47:18,788 - INFO - Episode 7 - Total Reward: 14637.56, Epsilon: 0.010, Avg Loss: 1.432
+2024-12-22 23:47:18,788 - INFO - Episode 8/100
+2024-12-22 23:47:31,312 - INFO - Episode 8 - Total Reward: 14822.42, Epsilon: 0.010, Avg Loss: 1.305
+2024-12-22 23:47:31,312 - INFO - Episode 9/100
+2024-12-22 23:47:43,680 - INFO - Episode 9 - Total Reward: 14845.52, Epsilon: 0.010, Avg Loss: 1.324
+2024-12-22 23:47:43,680 - INFO - Episode 10/100
+2024-12-22 23:47:55,794 - INFO - Episode 10 - Total Reward: 14729.61, Epsilon: 0.010, Avg Loss: 1.281
+2024-12-22 23:47:55,794 - INFO - Episode 11/100
+2024-12-22 23:48:10,719 - INFO - Episode 11 - Total Reward: 14901.53, Epsilon: 0.010, Avg Loss: 1.286
+2024-12-22 23:48:10,719 - INFO - Episode 12/100
+2024-12-22 23:48:25,104 - INFO - Episode 12 - Total Reward: 14937.62, Epsilon: 0.010, Avg Loss: 1.785
+2024-12-22 23:48:25,104 - INFO - Episode 13/100
+2024-12-22 23:48:37,560 - INFO - Episode 13 - Total Reward: 14793.36, Epsilon: 0.010, Avg Loss: 1.724
+2024-12-22 23:48:37,560 - INFO - Episode 14/100
+2024-12-22 23:48:50,448 - INFO - Episode 14 - Total Reward: 14906.06, Epsilon: 0.010, Avg Loss: 1.668
+2024-12-22 23:48:50,448 - INFO - Episode 15/100
+2024-12-22 23:49:02,897 - INFO - Episode 15 - Total Reward: 14678.41, Epsilon: 0.010, Avg Loss: 1.682
+2024-12-22 23:49:02,897 - INFO - Episode 16/100
+2024-12-22 23:49:15,445 - INFO - Episode 16 - Total Reward: 14554.07, Epsilon: 0.010, Avg Loss: 1.666
+2024-12-22 23:49:15,445 - INFO - Episode 17/100
+2024-12-22 23:49:29,050 - INFO - Episode 17 - Total Reward: 14281.74, Epsilon: 0.010, Avg Loss: 2.142
+2024-12-22 23:49:29,066 - INFO - Episode 18/100
+2024-12-22 23:49:42,106 - INFO - Episode 18 - Total Reward: 14705.90, Epsilon: 0.010, Avg Loss: 2.007
+2024-12-22 23:49:42,169 - INFO - Episode 19/100
+2024-12-22 23:49:54,613 - INFO - Episode 19 - Total Reward: 14789.49, Epsilon: 0.010, Avg Loss: 1.967
+2024-12-22 23:49:54,613 - INFO - Episode 20/100
+2024-12-22 23:50:07,815 - INFO - Episode 20 - Total Reward: 14931.56, Epsilon: 0.010, Avg Loss: 1.988
+2024-12-22 23:50:07,815 - INFO - Episode 21/100
+2024-12-22 23:50:20,682 - INFO - Episode 21 - Total Reward: 14835.93, Epsilon: 0.010, Avg Loss: 1.990
+2024-12-22 23:50:20,682 - INFO - Episode 22/100
+2024-12-22 23:50:32,685 - INFO - Episode 22 - Total Reward: 14703.80, Epsilon: 0.010, Avg Loss: 2.317
+2024-12-22 23:50:32,685 - INFO - Episode 23/100
+2024-12-22 23:50:44,813 - INFO - Episode 23 - Total Reward: 14829.78, Epsilon: 0.010, Avg Loss: 2.163
+2024-12-22 23:50:44,813 - INFO - Episode 24/100
+2024-12-22 23:50:56,774 - INFO - Episode 24 - Total Reward: 14761.89, Epsilon: 0.010, Avg Loss: 2.213
+2024-12-22 23:50:56,774 - INFO - Episode 25/100
+2024-12-22 23:51:08,665 - INFO - Episode 25 - Total Reward: 14985.80, Epsilon: 0.010, Avg Loss: 2.156
+2024-12-22 23:51:08,665 - INFO - Episode 26/100
+2024-12-22 23:51:20,764 - INFO - Episode 26 - Total Reward: 14936.58, Epsilon: 0.010, Avg Loss: 2.213
+2024-12-22 23:51:20,764 - INFO - Episode 27/100
+2024-12-22 23:51:32,788 - INFO - Episode 27 - Total Reward: 14650.20, Epsilon: 0.010, Avg Loss: 2.517
+2024-12-22 23:51:32,788 - INFO - Episode 28/100
+2024-12-22 23:51:44,913 - INFO - Episode 28 - Total Reward: 14945.01, Epsilon: 0.010, Avg Loss: 2.386
+2024-12-22 23:51:44,913 - INFO - Episode 29/100
+2024-12-22 23:51:56,993 - INFO - Episode 29 - Total Reward: 14863.66, Epsilon: 0.010, Avg Loss: 2.350
+2024-12-22 23:51:56,993 - INFO - Episode 30/100
+2024-12-22 23:52:09,042 - INFO - Episode 30 - Total Reward: 14964.34, Epsilon: 0.010, Avg Loss: 2.365
+2024-12-22 23:52:09,042 - INFO - Episode 31/100
+2024-12-22 23:52:21,157 - INFO - Episode 31 - Total Reward: 14885.09, Epsilon: 0.010, Avg Loss: 2.339
+2024-12-22 23:52:21,157 - INFO - Episode 32/100
+2024-12-22 23:52:33,617 - INFO - Episode 32 - Total Reward: 14722.90, Epsilon: 0.010, Avg Loss: 2.578
+2024-12-22 23:52:33,618 - INFO - Episode 33/100
+2024-12-22 23:52:45,758 - INFO - Episode 33 - Total Reward: 15076.91, Epsilon: 0.010, Avg Loss: 2.354
+2024-12-22 23:52:45,758 - INFO - Episode 34/100
+2024-12-22 23:52:57,975 - INFO - Episode 34 - Total Reward: 14934.28, Epsilon: 0.010, Avg Loss: 2.299
+2024-12-22 23:52:57,976 - INFO - Episode 35/100
+2024-12-22 23:53:10,226 - INFO - Episode 35 - Total Reward: 14734.15, Epsilon: 0.010, Avg Loss: 2.315
+2024-12-22 23:53:10,226 - INFO - Episode 36/100
+2024-12-22 23:53:22,492 - INFO - Episode 36 - Total Reward: 14799.39, Epsilon: 0.010, Avg Loss: 2.294
+2024-12-22 23:53:22,492 - INFO - Episode 37/100
+2024-12-22 23:53:35,035 - INFO - Episode 37 - Total Reward: 14731.04, Epsilon: 0.010, Avg Loss: 2.556
+2024-12-22 23:53:35,035 - INFO - Episode 38/100
+2024-12-22 23:53:47,921 - INFO - Episode 38 - Total Reward: 14846.55, Epsilon: 0.010, Avg Loss: 2.509
+2024-12-22 23:53:47,921 - INFO - Episode 39/100
+2024-12-22 23:54:01,073 - INFO - Episode 39 - Total Reward: 14557.86, Epsilon: 0.010, Avg Loss: 2.513
+2024-12-22 23:54:01,074 - INFO - Episode 40/100
+2024-12-22 23:54:13,395 - INFO - Episode 40 - Total Reward: 14664.07, Epsilon: 0.010, Avg Loss: 2.465
+2024-12-22 23:54:13,395 - INFO - Episode 41/100
+2024-12-22 23:57:18,586 - INFO - Episode 1/100
+2024-12-22 23:57:28,659 - INFO - Episode 1 - Total Reward: 19094.91, Epsilon: 0.010, Avg Loss: 1.587
+2024-12-22 23:57:28,659 - INFO - New best model saved with reward 19094.91
+2024-12-22 23:57:28,659 - INFO - Episode 2/100
+2024-12-22 23:57:39,407 - INFO - Episode 2 - Total Reward: 19138.56, Epsilon: 0.010, Avg Loss: 1.238
+2024-12-22 23:57:39,407 - INFO - New best model saved with reward 19138.56
+2024-12-22 23:57:39,407 - INFO - Episode 3/100
+2024-12-22 23:57:50,152 - INFO - Episode 3 - Total Reward: 19351.35, Epsilon: 0.010, Avg Loss: 0.861
+2024-12-22 23:57:50,152 - INFO - New best model saved with reward 19351.35
+2024-12-22 23:57:50,152 - INFO - Episode 4/100
+2024-12-22 23:58:00,945 - INFO - Episode 4 - Total Reward: 19201.38, Epsilon: 0.010, Avg Loss: 0.856
+2024-12-22 23:58:00,945 - INFO - Episode 5/100
+2024-12-22 23:58:11,786 - INFO - Episode 5 - Total Reward: 19095.95, Epsilon: 0.010, Avg Loss: 0.856
+2024-12-22 23:58:11,786 - INFO - Episode 6/100
+2024-12-22 23:58:23,457 - INFO - Episode 6 - Total Reward: 18938.65, Epsilon: 0.010, Avg Loss: 0.866
+2024-12-22 23:58:23,457 - INFO - Episode 7/100
+2024-12-22 23:58:34,362 - INFO - Episode 7 - Total Reward: 19311.21, Epsilon: 0.010, Avg Loss: 1.590
+2024-12-22 23:58:34,362 - INFO - Episode 8/100
+2024-12-22 23:58:45,545 - INFO - Episode 8 - Total Reward: 18981.95, Epsilon: 0.010, Avg Loss: 1.297
+2024-12-22 23:58:45,545 - INFO - Episode 9/100
+2024-12-22 23:58:56,353 - INFO - Episode 9 - Total Reward: 19277.37, Epsilon: 0.010, Avg Loss: 1.276
+2024-12-22 23:58:56,369 - INFO - Episode 10/100
+2024-12-22 23:59:07,162 - INFO - Episode 10 - Total Reward: 19407.77, Epsilon: 0.010, Avg Loss: 1.280
+2024-12-22 23:59:07,162 - INFO - New best model saved with reward 19407.77
+2024-12-22 23:59:07,162 - INFO - Episode 11/100
+2024-12-22 23:59:18,347 - INFO - Episode 11 - Total Reward: 18756.58, Epsilon: 0.010, Avg Loss: 1.299
+2024-12-22 23:59:18,347 - INFO - Episode 12/100
+2024-12-22 23:59:29,141 - INFO - Episode 12 - Total Reward: 19263.87, Epsilon: 0.010, Avg Loss: 1.940
+2024-12-22 23:59:29,141 - INFO - Episode 13/100
+2024-12-22 23:59:39,996 - INFO - Episode 13 - Total Reward: 19202.92, Epsilon: 0.010, Avg Loss: 1.692
+2024-12-22 23:59:39,996 - INFO - Episode 14/100
+2024-12-22 23:59:50,993 - INFO - Episode 14 - Total Reward: 19177.25, Epsilon: 0.010, Avg Loss: 1.692
+2024-12-22 23:59:50,993 - INFO - Episode 15/100
+2024-12-23 00:00:02,292 - INFO - Episode 15 - Total Reward: 19317.03, Epsilon: 0.010, Avg Loss: 1.657
+2024-12-23 00:00:02,292 - INFO - Episode 16/100
+2024-12-23 00:00:13,258 - INFO - Episode 16 - Total Reward: 19255.06, Epsilon: 0.010, Avg Loss: 1.683
+2024-12-23 00:00:13,258 - INFO - Episode 17/100
+2024-12-23 00:00:24,348 - INFO - Episode 17 - Total Reward: 19061.33, Epsilon: 0.010, Avg Loss: 2.219
+2024-12-23 00:00:24,348 - INFO - Episode 18/100
+2024-12-23 00:00:35,544 - INFO - Episode 18 - Total Reward: 19045.63, Epsilon: 0.010, Avg Loss: 1.974
+2024-12-23 00:00:35,544 - INFO - Episode 19/100
+2024-12-23 00:00:47,096 - INFO - Episode 19 - Total Reward: 19442.19, Epsilon: 0.010, Avg Loss: 1.968
+2024-12-23 00:00:47,096 - INFO - New best model saved with reward 19442.19
+2024-12-23 00:00:47,096 - INFO - Episode 20/100
+2024-12-23 00:00:58,558 - INFO - Episode 20 - Total Reward: 19427.63, Epsilon: 0.010, Avg Loss: 1.934
+2024-12-23 00:00:58,558 - INFO - Episode 21/100
+2024-12-23 00:01:09,458 - INFO - Episode 21 - Total Reward: 19248.76, Epsilon: 0.010, Avg Loss: 1.961
+2024-12-23 00:01:09,458 - INFO - Episode 22/100
+2024-12-23 00:01:20,658 - INFO - Episode 22 - Total Reward: 19165.03, Epsilon: 0.010, Avg Loss: 2.305
+2024-12-23 00:01:20,658 - INFO - Episode 23/100
+2024-12-23 00:01:31,672 - INFO - Episode 23 - Total Reward: 19013.60, Epsilon: 0.010, Avg Loss: 2.169
+2024-12-23 00:01:31,672 - INFO - Episode 24/100
+2024-12-23 00:01:42,892 - INFO - Episode 24 - Total Reward: 19164.86, Epsilon: 0.010, Avg Loss: 2.128
+2024-12-23 00:01:42,892 - INFO - Episode 25/100
+2024-12-23 00:01:54,066 - INFO - Episode 25 - Total Reward: 19143.53, Epsilon: 0.010, Avg Loss: 2.147
+2024-12-23 00:01:54,066 - INFO - Episode 26/100
+2024-12-23 00:02:05,975 - INFO - Episode 26 - Total Reward: 18383.55, Epsilon: 0.010, Avg Loss: 2.178
+2024-12-23 00:02:05,976 - INFO - Episode 27/100
+2024-12-23 00:02:18,558 - INFO - Episode 27 - Total Reward: 18990.27, Epsilon: 0.010, Avg Loss: 2.494
+2024-12-23 00:02:18,558 - INFO - Episode 28/100
+2024-12-23 00:02:31,391 - INFO - Episode 28 - Total Reward: 18913.02, Epsilon: 0.010, Avg Loss: 2.332
+2024-12-23 00:02:31,401 - INFO - Episode 29/100
+2024-12-23 00:02:45,643 - INFO - Episode 29 - Total Reward: 18987.36, Epsilon: 0.010, Avg Loss: 2.313
+2024-12-23 00:02:45,643 - INFO - Episode 30/100
+2024-12-23 00:03:00,749 - INFO - Episode 30 - Total Reward: 19338.85, Epsilon: 0.010, Avg Loss: 2.320
+2024-12-23 00:03:00,749 - INFO - Episode 31/100
+2024-12-23 00:03:13,237 - INFO - Episode 31 - Total Reward: 19270.25, Epsilon: 0.010, Avg Loss: 2.307
+2024-12-23 00:03:13,238 - INFO - Episode 32/100
+2024-12-23 00:03:25,040 - INFO - Episode 32 - Total Reward: 18652.24, Epsilon: 0.010, Avg Loss: 2.779
+2024-12-23 00:03:25,040 - INFO - Episode 33/100
+2024-12-23 00:03:36,460 - INFO - Episode 33 - Total Reward: 19418.28, Epsilon: 0.010, Avg Loss: 2.543
+2024-12-23 00:03:36,461 - INFO - Episode 34/100
+2024-12-23 00:03:50,027 - INFO - Episode 34 - Total Reward: 18921.83, Epsilon: 0.010, Avg Loss: 2.560
+2024-12-23 00:03:50,027 - INFO - Episode 35/100
+2024-12-23 00:04:01,381 - INFO - Episode 35 - Total Reward: 19270.87, Epsilon: 0.010, Avg Loss: 2.535
+2024-12-23 00:04:01,382 - INFO - Episode 36/100
+2024-12-23 00:04:13,653 - INFO - Episode 36 - Total Reward: 19145.69, Epsilon: 0.010, Avg Loss: 2.524
+2024-12-23 00:04:13,653 - INFO - Episode 37/100
+2024-12-23 00:04:26,467 - INFO - Episode 37 - Total Reward: 19203.05, Epsilon: 0.010, Avg Loss: 2.754
+2024-12-23 00:04:26,467 - INFO - Episode 38/100
+2024-12-23 00:04:39,377 - INFO - Episode 38 - Total Reward: 19166.01, Epsilon: 0.010, Avg Loss: 2.522
+2024-12-23 00:04:39,377 - INFO - Episode 39/100
+2024-12-23 00:04:51,330 - INFO - Episode 39 - Total Reward: 19090.09, Epsilon: 0.010, Avg Loss: 2.537
+2024-12-23 00:04:51,330 - INFO - Episode 40/100
+2024-12-23 00:05:02,674 - INFO - Episode 40 - Total Reward: 18836.71, Epsilon: 0.010, Avg Loss: 2.507
+2024-12-23 00:05:02,674 - INFO - Episode 41/100
+2024-12-23 00:05:14,674 - INFO - Episode 41 - Total Reward: 19015.68, Epsilon: 0.010, Avg Loss: 2.522
+2024-12-23 00:05:14,674 - INFO - Episode 42/100
+2024-12-23 00:05:26,676 - INFO - Episode 42 - Total Reward: 19158.48, Epsilon: 0.010, Avg Loss: 2.781
+2024-12-23 00:05:26,677 - INFO - Episode 43/100
+2024-12-23 00:05:39,675 - INFO - Episode 43 - Total Reward: 19376.16, Epsilon: 0.010, Avg Loss: 2.560
+2024-12-23 00:05:39,675 - INFO - Episode 44/100
+2024-12-23 00:05:51,432 - INFO - Episode 44 - Total Reward: 19032.36, Epsilon: 0.010, Avg Loss: 2.570
+2024-12-23 00:05:51,432 - INFO - Episode 45/100
+2024-12-23 00:06:03,494 - INFO - Episode 45 - Total Reward: 18864.35, Epsilon: 0.010, Avg Loss: 2.555
+2024-12-23 00:06:03,494 - INFO - Episode 46/100
+2024-12-23 00:06:15,013 - INFO - Episode 46 - Total Reward: 19392.03, Epsilon: 0.010, Avg Loss: 2.549
+2024-12-23 00:06:15,013 - INFO - Episode 47/100
+2024-12-23 00:06:30,350 - INFO - Episode 47 - Total Reward: 19333.19, Epsilon: 0.010, Avg Loss: 2.858
+2024-12-23 00:06:30,351 - INFO - Episode 48/100
+2024-12-23 00:06:46,680 - INFO - Episode 48 - Total Reward: 19335.42, Epsilon: 0.010, Avg Loss: 2.661
+2024-12-23 00:06:46,681 - INFO - Episode 49/100
+2024-12-23 00:07:02,956 - INFO - Episode 49 - Total Reward: 18978.83, Epsilon: 0.010, Avg Loss: 2.567
+2024-12-23 00:07:02,956 - INFO - Episode 50/100
+2024-12-23 00:07:15,081 - INFO - Episode 50 - Total Reward: 19065.32, Epsilon: 0.010, Avg Loss: 2.635
+2024-12-23 00:07:15,081 - INFO - Episode 51/100
+2024-12-23 00:07:26,210 - INFO - Episode 51 - Total Reward: 19421.86, Epsilon: 0.010, Avg Loss: 2.584
+2024-12-23 00:07:26,211 - INFO - Episode 52/100
+2024-12-23 00:07:37,325 - INFO - Episode 52 - Total Reward: 19269.17, Epsilon: 0.010, Avg Loss: 2.705
+2024-12-23 00:07:37,325 - INFO - Episode 53/100
+2024-12-23 00:07:50,096 - INFO - Episode 53 - Total Reward: 19033.98, Epsilon: 0.010, Avg Loss: 2.612
+2024-12-23 00:07:50,096 - INFO - Episode 54/100
+2024-12-23 00:08:01,958 - INFO - Episode 54 - Total Reward: 19133.33, Epsilon: 0.010, Avg Loss: 2.537
+2024-12-23 00:08:01,958 - INFO - Episode 55/100
+2024-12-23 00:08:13,985 - INFO - Episode 55 - Total Reward: 19178.09, Epsilon: 0.010, Avg Loss: 2.597
+2024-12-23 00:08:13,985 - INFO - Episode 56/100
+2024-12-23 00:08:25,652 - INFO - Episode 56 - Total Reward: 19045.91, Epsilon: 0.010, Avg Loss: 2.665
+2024-12-23 00:08:25,652 - INFO - Episode 57/100
+2024-12-23 00:08:37,699 - INFO - Episode 57 - Total Reward: 19426.41, Epsilon: 0.010, Avg Loss: 2.806
+2024-12-23 00:08:37,699 - INFO - Episode 58/100
+2024-12-23 00:08:51,042 - INFO - Episode 58 - Total Reward: 18778.47, Epsilon: 0.010, Avg Loss: 2.645
+2024-12-23 00:08:51,043 - INFO - Episode 59/100
+2024-12-23 00:09:06,707 - INFO - Episode 59 - Total Reward: 18815.47, Epsilon: 0.010, Avg Loss: 2.697
+2024-12-23 00:09:06,707 - INFO - Episode 60/100
+2024-12-23 00:09:19,636 - INFO - Episode 60 - Total Reward: 18760.32, Epsilon: 0.010, Avg Loss: 2.677
+2024-12-23 00:09:19,636 - INFO - Episode 61/100
+2024-12-23 00:09:31,848 - INFO - Episode 61 - Total Reward: 19128.88, Epsilon: 0.010, Avg Loss: 2.751
+2024-12-23 00:09:31,849 - INFO - Episode 62/100
+2024-12-23 00:09:43,788 - INFO - Episode 62 - Total Reward: 19430.07, Epsilon: 0.010, Avg Loss: 2.942
+2024-12-23 00:09:43,788 - INFO - Episode 63/100
+2024-12-23 00:09:55,142 - INFO - Episode 63 - Total Reward: 19221.85, Epsilon: 0.010, Avg Loss: 2.730
+2024-12-23 00:09:55,143 - INFO - Episode 64/100
+2024-12-23 00:10:07,026 - INFO - Episode 64 - Total Reward: 18587.67, Epsilon: 0.010, Avg Loss: 2.771
+2024-12-23 00:10:07,027 - INFO - Episode 65/100
+2024-12-23 00:10:18,672 - INFO - Episode 65 - Total Reward: 18951.94, Epsilon: 0.010, Avg Loss: 2.808
+2024-12-23 00:10:18,673 - INFO - Episode 66/100
+2024-12-23 00:10:33,358 - INFO - Episode 66 - Total Reward: 19145.78, Epsilon: 0.010, Avg Loss: 2.820
+2024-12-23 00:10:33,360 - INFO - Episode 67/100
+2024-12-23 00:10:49,538 - INFO - Episode 67 - Total Reward: 19145.10, Epsilon: 0.010, Avg Loss: 3.058
+2024-12-23 00:10:49,539 - INFO - Episode 68/100
+2024-12-23 00:11:02,483 - INFO - Episode 68 - Total Reward: 19304.65, Epsilon: 0.010, Avg Loss: 2.983
+2024-12-23 00:11:02,483 - INFO - Episode 69/100
+2024-12-23 00:14:03,780 - INFO - Episode 1/50
+2024-12-23 00:14:16,171 - INFO - Episode 1 - Total Reward: 552.69, Epsilon: 0.050, Avg Loss: 0.008
+2024-12-23 00:14:16,175 - INFO - New best model saved with reward 552.69
+2024-12-23 00:14:16,176 - INFO - Episode 2/50
+2024-12-23 00:14:27,211 - INFO - Episode 2 - Total Reward: 536.19, Epsilon: 0.050, Avg Loss: 0.012
+2024-12-23 00:14:27,211 - INFO - Episode 3/50
+2024-12-23 00:14:38,266 - INFO - Episode 3 - Total Reward: 532.38, Epsilon: 0.050, Avg Loss: 0.011
+2024-12-23 00:14:38,266 - INFO - Episode 4/50
+2024-12-23 00:14:54,083 - INFO - Reward change: 7.04
+2024-12-23 00:14:54,090 - INFO - Episode 4 - Total Reward: 531.57, Epsilon: 0.050, Avg Loss: 0.021
+2024-12-23 00:14:54,092 - INFO - Episode 5/50
+2024-12-23 00:15:04,771 - INFO - Reward change: 8.11
+2024-12-23 00:15:04,773 - INFO - Episode 5 - Total Reward: 560.52, Epsilon: 0.050, Avg Loss: 0.020
+2024-12-23 00:15:04,775 - INFO - New best model saved with reward 560.52
+2024-12-23 00:15:04,776 - INFO - Episode 6/50
+2024-12-23 00:15:15,663 - INFO - Reward change: 6.99
+2024-12-23 00:15:15,664 - INFO - Episode 6 - Total Reward: 511.41, Epsilon: 0.050, Avg Loss: 0.030
+2024-12-23 00:15:15,665 - INFO - Episode 7/50
+2024-12-23 00:15:26,791 - INFO - Reward change: 2.72
+2024-12-23 00:15:26,793 - INFO - Episode 7 - Total Reward: 539.74, Epsilon: 0.050, Avg Loss: 0.028
+2024-12-23 00:15:26,793 - INFO - Episode 8/50
+2024-12-23 00:15:37,706 - INFO - Reward change: 13.30
+2024-12-23 00:15:37,708 - INFO - Episode 8 - Total Reward: 520.63, Epsilon: 0.050, Avg Loss: 0.036
+2024-12-23 00:15:37,709 - INFO - Episode 9/50
+2024-12-23 00:15:48,321 - INFO - Reward change: 5.18
+2024-12-23 00:15:48,323 - INFO - Episode 9 - Total Reward: 526.95, Epsilon: 0.050, Avg Loss: 0.035
+2024-12-23 00:15:48,323 - INFO - Episode 10/50
+2024-12-23 00:16:01,124 - INFO - Early stopping triggered!
+2024-12-23 00:21:00,340 - INFO - Training completed
+2024-12-23 00:24:33,501 - INFO - Loaded best previous model
+2024-12-23 00:24:33,516 - INFO - Episode 1/50
+2024-12-23 00:24:46,029 - INFO - Episode 1 - Total Reward: 550.30, Epsilon: 0.049, Avg Loss: 0.031
+2024-12-23 00:24:46,046 - INFO - New best model saved with reward 550.30
+2024-12-23 00:24:46,046 - INFO - Episode 2/50
+2024-12-23 00:24:57,392 - INFO - Episode 2 - Total Reward: 530.57, Epsilon: 0.049, Avg Loss: 0.033
+2024-12-23 00:24:57,392 - INFO - Episode 3/50
+2024-12-23 00:25:09,917 - INFO - Episode 3 - Total Reward: 532.72, Epsilon: 0.049, Avg Loss: 0.033
+2024-12-23 00:25:09,917 - INFO - Episode 4/50
+2024-12-23 00:25:20,661 - INFO - Reward change: 4.78
+2024-12-23 00:25:20,662 - INFO - Episode 4 - Total Reward: 535.96, Epsilon: 0.049, Avg Loss: 0.039
+2024-12-23 00:25:20,663 - INFO - Episode 5/50
+2024-12-23 00:25:32,716 - INFO - Reward change: 1.55
+2024-12-23 00:25:32,717 - INFO - Episode 5 - Total Reward: 525.92, Epsilon: 0.049, Avg Loss: 0.038
+2024-12-23 00:25:32,718 - INFO - Episode 6/50
+2024-12-23 00:25:43,910 - INFO - Reward change: 0.74
+2024-12-23 00:25:43,914 - INFO - Episode 6 - Total Reward: 534.95, Epsilon: 0.049, Avg Loss: 0.046
+2024-12-23 00:25:43,914 - INFO - Episode 7/50
+2024-12-23 00:25:55,773 - INFO - Reward change: 10.95
+2024-12-23 00:25:55,775 - INFO - Episode 7 - Total Reward: 568.80, Epsilon: 0.049, Avg Loss: 0.044
+2024-12-23 00:25:55,778 - INFO - New best model saved with reward 568.80
+2024-12-23 00:25:55,778 - INFO - Episode 8/50
+2024-12-23 00:26:06,521 - INFO - Reward change: 1.02
+2024-12-23 00:26:06,521 - INFO - Episode 8 - Total Reward: 522.87, Epsilon: 0.049, Avg Loss: 0.042
+2024-12-23 00:26:06,521 - INFO - Episode 9/50
+2024-12-23 00:26:18,552 - INFO - Reward change: 4.56
+2024-12-23 00:26:18,553 - INFO - Episode 9 - Total Reward: 548.63, Epsilon: 0.049, Avg Loss: 0.041
+2024-12-23 00:26:18,554 - INFO - Episode 10/50
+2024-12-23 00:26:28,886 - INFO - Reward change: 10.31
+2024-12-23 00:26:28,888 - INFO - Episode 10 - Total Reward: 537.88, Epsilon: 0.049, Avg Loss: 0.045
+2024-12-23 00:26:28,889 - INFO - Episode 11/50
+2024-12-23 00:26:39,833 - INFO - Reward change: 10.38
+2024-12-23 00:26:39,835 - INFO - Episode 11 - Total Reward: 554.03, Epsilon: 0.049, Avg Loss: 0.046
+2024-12-23 00:26:39,836 - INFO - Episode 12/50
+2024-12-23 00:26:52,318 - INFO - Reward change: 17.80
+2024-12-23 00:26:52,319 - INFO - Episode 12 - Total Reward: 495.23, Epsilon: 0.049, Avg Loss: 0.051
+2024-12-23 00:26:52,319 - INFO - Episode 13/50
+2024-12-23 00:27:03,333 - INFO - Reward change: 5.44
+2024-12-23 00:27:03,334 - INFO - Episode 13 - Total Reward: 554.20, Epsilon: 0.049, Avg Loss: 0.049
+2024-12-23 00:27:03,335 - INFO - Episode 14/50
+2024-12-23 00:27:15,826 - INFO - Reward change: 11.01
+2024-12-23 00:27:15,828 - INFO - Episode 14 - Total Reward: 520.99, Epsilon: 0.049, Avg Loss: 0.056
+2024-12-23 00:27:15,829 - INFO - Episode 15/50
+2024-12-23 00:27:28,395 - INFO - Reward change: 9.13
+2024-12-23 00:27:28,398 - INFO - Episode 15 - Total Reward: 522.61, Epsilon: 0.049, Avg Loss: 0.055
+2024-12-23 00:27:28,398 - INFO - Episode 16/50
+2024-12-23 00:27:41,394 - INFO - Early stopping triggered!
+2024-12-23 00:28:10,518 - INFO - Training completed
+2024-12-23 00:29:04,403 - INFO - Loaded best previous model
+2024-12-23 00:29:04,419 - INFO - Episode 1/50
+2024-12-23 00:29:16,259 - INFO - Episode 1 - Total Reward: 538.88, Epsilon: 0.049, Avg Loss: 0.039
+2024-12-23 00:29:16,262 - INFO - New best model saved with reward 538.88
+2024-12-23 00:29:16,263 - INFO - Episode 2/50
+2024-12-23 00:29:26,888 - INFO - Episode 2 - Total Reward: 539.92, Epsilon: 0.049, Avg Loss: 0.042
+2024-12-23 00:29:26,890 - INFO - New best model saved with reward 539.92
+2024-12-23 00:29:26,891 - INFO - Episode 3/50
+2024-12-23 00:29:37,721 - INFO - Episode 3 - Total Reward: 532.31, Epsilon: 0.049, Avg Loss: 0.042
+2024-12-23 00:29:37,721 - INFO - Episode 4/50
+2024-12-23 00:29:50,375 - INFO - Reward change: 0.63
+2024-12-23 00:29:50,377 - INFO - Episode 4 - Total Reward: 540.78, Epsilon: 0.049, Avg Loss: 0.045
+2024-12-23 00:29:50,379 - INFO - New best model saved with reward 540.78
+2024-12-23 00:29:50,380 - INFO - Episode 5/50
+2024-12-23 00:30:01,793 - INFO - Reward change: 3.11
+2024-12-23 00:30:01,793 - INFO - Episode 5 - Total Reward: 530.59, Epsilon: 0.049, Avg Loss: 0.044
+2024-12-23 00:30:01,794 - INFO - Episode 6/50
+2024-12-23 00:30:12,899 - INFO - Reward change: 8.18
+2024-12-23 00:30:12,900 - INFO - Episode 6 - Total Reward: 556.84, Epsilon: 0.049, Avg Loss: 0.051
+2024-12-23 00:30:12,902 - INFO - New best model saved with reward 556.84
+2024-12-23 00:30:12,902 - INFO - Episode 7/50
+2024-12-23 00:30:24,005 - INFO - Reward change: 7.96
+2024-12-23 00:30:24,007 - INFO - Episode 7 - Total Reward: 516.90, Epsilon: 0.049, Avg Loss: 0.052
+2024-12-23 00:30:24,007 - INFO - Episode 8/50
+2024-12-23 00:30:34,960 - INFO - Reward change: 4.37
+2024-12-23 00:30:34,961 - INFO - Episode 8 - Total Reward: 517.47, Epsilon: 0.049, Avg Loss: 0.058
+2024-12-23 00:30:34,962 - INFO - Episode 9/50
+2024-12-23 00:30:45,998 - INFO - Reward change: 11.42
+2024-12-23 00:30:45,999 - INFO - Episode 9 - Total Reward: 522.59, Epsilon: 0.049, Avg Loss: 0.052
+2024-12-23 00:30:46,000 - INFO - Episode 10/50
+2024-12-23 00:30:58,312 - INFO - Reward change: 16.37
+2024-12-23 00:30:58,314 - INFO - Episode 10 - Total Reward: 566.01, Epsilon: 0.049, Avg Loss: 0.059
+2024-12-23 00:30:58,316 - INFO - New best model saved with reward 566.01
+2024-12-23 00:30:58,316 - INFO - Episode 11/50
+2024-12-23 00:31:09,084 - INFO - Reward change: 12.02
+2024-12-23 00:31:09,087 - INFO - Episode 11 - Total Reward: 553.53, Epsilon: 0.049, Avg Loss: 0.054
+2024-12-23 00:31:09,088 - INFO - Episode 12/50
+2024-12-23 00:31:20,065 - INFO - Reward change: 6.85
+2024-12-23 00:31:20,067 - INFO - Episode 12 - Total Reward: 543.14, Epsilon: 0.049, Avg Loss: 0.058
+2024-12-23 00:31:20,067 - INFO - Episode 13/50
+2024-12-23 00:31:30,563 - INFO - Reward change: 0.60
+2024-12-23 00:31:30,566 - INFO - Episode 13 - Total Reward: 564.23, Epsilon: 0.049, Avg Loss: 0.056
+2024-12-23 00:31:30,566 - INFO - Episode 14/50
+2024-12-23 00:31:41,512 - INFO - Reward change: 6.23
+2024-12-23 00:31:41,515 - INFO - Episode 14 - Total Reward: 534.84, Epsilon: 0.049, Avg Loss: 0.050
+2024-12-23 00:31:41,515 - INFO - Episode 15/50
+2024-12-23 00:31:54,219 - INFO - Reward change: 7.12
+2024-12-23 00:31:54,222 - INFO - Episode 15 - Total Reward: 521.77, Epsilon: 0.049, Avg Loss: 0.052
+2024-12-23 00:31:54,222 - INFO - Episode 16/50
+2024-12-23 00:32:05,681 - INFO - Reward change: 21.93
+2024-12-23 00:32:05,682 - INFO - Episode 16 - Total Reward: 498.44, Epsilon: 0.049, Avg Loss: 0.073
+2024-12-23 00:32:05,683 - INFO - Episode 17/50
+2024-12-23 00:32:20,089 - INFO - Reward change: 5.47
+2024-12-23 00:32:20,091 - INFO - Episode 17 - Total Reward: 551.25, Epsilon: 0.049, Avg Loss: 0.069
+2024-12-23 00:32:20,092 - INFO - Episode 18/50
+2024-12-23 00:32:31,015 - INFO - Reward change: 4.99
+2024-12-23 00:32:31,017 - INFO - Episode 18 - Total Reward: 536.75, Epsilon: 0.049, Avg Loss: 0.088
+2024-12-23 00:32:31,017 - INFO - Episode 19/50
+2024-12-23 00:32:41,921 - INFO - Reward change: 18.65
+2024-12-23 00:32:41,922 - INFO - Episode 19 - Total Reward: 554.40, Epsilon: 0.049, Avg Loss: 0.080
+2024-12-23 00:32:41,923 - INFO - Episode 20/50
+2024-12-23 00:32:53,220 - INFO - Reward change: 4.55
+2024-12-23 00:32:53,221 - INFO - Episode 20 - Total Reward: 564.91, Epsilon: 0.049, Avg Loss: 0.078
+2024-12-23 00:32:53,221 - INFO - Episode 21/50
+2024-12-23 00:33:03,522 - INFO - Reward change: 6.19
+2024-12-23 00:33:03,523 - INFO - Episode 21 - Total Reward: 518.19, Epsilon: 0.049, Avg Loss: 0.071
+2024-12-23 00:33:03,524 - INFO - Episode 22/50
+2024-12-23 00:33:14,785 - INFO - Reward change: 2.80
+2024-12-23 00:33:14,787 - INFO - Episode 22 - Total Reward: 545.99, Epsilon: 0.049, Avg Loss: 0.074
+2024-12-23 00:33:14,788 - INFO - Episode 23/50
+2024-12-23 00:33:25,806 - INFO - Reward change: 3.64
+2024-12-23 00:33:25,809 - INFO - Episode 23 - Total Reward: 553.98, Epsilon: 0.049, Avg Loss: 0.068
+2024-12-23 00:33:25,809 - INFO - Episode 24/50
+2024-12-23 00:33:37,178 - INFO - Reward change: 0.47
+2024-12-23 00:33:37,179 - INFO - Episode 24 - Total Reward: 519.60, Epsilon: 0.049, Avg Loss: 0.086
+2024-12-23 00:33:37,180 - INFO - Episode 25/50
+2024-12-23 00:33:48,907 - INFO - Reward change: 7.26
+2024-12-23 00:33:48,909 - INFO - Episode 25 - Total Reward: 524.21, Epsilon: 0.049, Avg Loss: 0.090
+2024-12-23 00:33:48,910 - INFO - Episode 26/50
+2024-12-23 00:33:59,578 - INFO - Reward change: 1.37
+2024-12-23 00:33:59,579 - INFO - Episode 26 - Total Reward: 549.86, Epsilon: 0.049, Avg Loss: 0.102
+2024-12-23 00:33:59,580 - INFO - Episode 27/50
+2024-12-23 00:34:10,628 - INFO - Reward change: 4.07
+2024-12-23 00:34:10,630 - INFO - Episode 27 - Total Reward: 531.82, Epsilon: 0.049, Avg Loss: 0.096
+2024-12-23 00:34:10,631 - INFO - Episode 28/50
+2024-12-23 00:34:22,187 - INFO - Reward change: 5.66
+2024-12-23 00:34:22,189 - INFO - Episode 28 - Total Reward: 541.21, Epsilon: 0.049, Avg Loss: 0.102
+2024-12-23 00:34:22,190 - INFO - Episode 29/50
+2024-12-23 00:34:34,329 - INFO - Reward change: 10.60
+2024-12-23 00:34:34,331 - INFO - Episode 29 - Total Reward: 518.07, Epsilon: 0.049, Avg Loss: 0.098
+2024-12-23 00:34:34,335 - INFO - Episode 30/50
+2024-12-23 00:34:46,038 - INFO - Reward change: 9.30
+2024-12-23 00:34:46,041 - INFO - Episode 30 - Total Reward: 559.72, Epsilon: 0.049, Avg Loss: 0.107
+2024-12-23 00:34:46,048 - INFO - Episode 31/50
+2024-12-23 00:34:56,941 - INFO - Reward change: 4.93
+2024-12-23 00:34:56,943 - INFO - Episode 31 - Total Reward: 556.01, Epsilon: 0.049, Avg Loss: 0.088
+2024-12-23 00:34:56,944 - INFO - Episode 32/50
+2024-12-23 00:35:09,026 - INFO - Reward change: 2.33
+2024-12-23 00:35:09,027 - INFO - Episode 32 - Total Reward: 525.05, Epsilon: 0.049, Avg Loss: 0.103
+2024-12-23 00:35:09,028 - INFO - Episode 33/50
+2024-12-23 00:35:20,389 - INFO - Reward change: 24.43
+2024-12-23 00:35:20,391 - INFO - Episode 33 - Total Reward: 486.44, Epsilon: 0.049, Avg Loss: 0.121
+2024-12-23 00:35:20,392 - INFO - Episode 34/50
+2024-12-23 00:35:30,799 - INFO - Reward change: 17.46
+2024-12-23 00:35:30,800 - INFO - Episode 34 - Total Reward: 503.63, Epsilon: 0.049, Avg Loss: 0.131
+2024-12-23 00:35:30,800 - INFO - Episode 35/50
+2024-12-23 00:35:41,785 - INFO - Reward change: 6.13
+2024-12-23 00:35:41,786 - INFO - Episode 35 - Total Reward: 543.45, Epsilon: 0.049, Avg Loss: 0.125
+2024-12-23 00:35:41,787 - INFO - Episode 36/50
+2024-12-23 00:35:54,583 - INFO - Reward change: 14.13
+2024-12-23 00:35:54,584 - INFO - Episode 36 - Total Reward: 528.84, Epsilon: 0.049, Avg Loss: 0.146
+2024-12-23 00:35:54,585 - INFO - Episode 37/50
+2024-12-23 00:36:07,228 - INFO - Reward change: 17.95
+2024-12-23 00:36:07,229 - INFO - Episode 37 - Total Reward: 557.49, Epsilon: 0.049, Avg Loss: 0.135
+2024-12-23 00:36:07,230 - INFO - Episode 38/50
+2024-12-23 00:36:17,488 - INFO - Reward change: 2.47
+2024-12-23 00:36:17,489 - INFO - Episode 38 - Total Reward: 550.85, Epsilon: 0.049, Avg Loss: 0.109
+2024-12-23 00:36:17,489 - INFO - Episode 39/50
+2024-12-23 00:36:27,492 - INFO - Reward change: 4.02
+2024-12-23 00:36:27,494 - INFO - Episode 39 - Total Reward: 540.91, Epsilon: 0.049, Avg Loss: 0.108
+2024-12-23 00:36:27,494 - INFO - Episode 40/50
+2024-12-23 00:36:40,864 - INFO - Reward change: 9.15
+2024-12-23 00:36:40,866 - INFO - Episode 40 - Total Reward: 530.04, Epsilon: 0.049, Avg Loss: 0.101
+2024-12-23 00:36:40,868 - INFO - Episode 41/50
+2024-12-23 00:36:53,886 - INFO - Reward change: 0.53
+2024-12-23 00:36:53,887 - INFO - Episode 41 - Total Reward: 549.27, Epsilon: 0.049, Avg Loss: 0.097
+2024-12-23 00:36:53,888 - INFO - Episode 42/50
+2024-12-23 00:37:04,821 - INFO - Reward change: 8.10
+2024-12-23 00:37:04,822 - INFO - Episode 42 - Total Reward: 516.60, Epsilon: 0.049, Avg Loss: 0.109
+2024-12-23 00:37:04,823 - INFO - Episode 43/50
+2024-12-23 00:37:16,570 - INFO - Reward change: 6.98
+2024-12-23 00:37:16,572 - INFO - Episode 43 - Total Reward: 550.97, Epsilon: 0.049, Avg Loss: 0.133
+2024-12-23 00:37:16,573 - INFO - Episode 44/50
+2024-12-23 00:37:28,592 - INFO - Reward change: 1.06
+2024-12-23 00:37:28,594 - INFO - Episode 44 - Total Reward: 552.45, Epsilon: 0.049, Avg Loss: 0.119
+2024-12-23 00:37:28,595 - INFO - Episode 45/50
+2024-12-23 00:37:41,150 - INFO - Reward change: 15.08
+2024-12-23 00:37:41,153 - INFO - Episode 45 - Total Reward: 561.84, Epsilon: 0.049, Avg Loss: 0.125
+2024-12-23 00:37:41,153 - INFO - Episode 46/50
+2024-12-23 00:37:53,322 - INFO - Reward change: 3.00
+2024-12-23 00:37:53,325 - INFO - Episode 46 - Total Reward: 541.98, Epsilon: 0.049, Avg Loss: 0.108
+2024-12-23 00:37:53,326 - INFO - Episode 47/50
+2024-12-23 00:38:04,175 - INFO - Reward change: 1.03
+2024-12-23 00:38:04,176 - INFO - Episode 47 - Total Reward: 555.56, Epsilon: 0.049, Avg Loss: 0.105
+2024-12-23 00:38:04,177 - INFO - Episode 48/50
+2024-12-23 00:38:16,711 - INFO - Reward change: 8.51
+2024-12-23 00:38:16,713 - INFO - Episode 48 - Total Reward: 536.31, Epsilon: 0.049, Avg Loss: 0.098
+2024-12-23 00:38:16,714 - INFO - Episode 49/50
+2024-12-23 00:38:27,524 - INFO - Reward change: 3.23
+2024-12-23 00:38:27,525 - INFO - Episode 49 - Total Reward: 532.28, Epsilon: 0.049, Avg Loss: 0.100
+2024-12-23 00:38:27,526 - INFO - Episode 50/50
+2024-12-23 00:38:40,857 - INFO - Reward change: 16.81
+2024-12-23 00:38:40,858 - INFO - Episode 50 - Total Reward: 505.12, Epsilon: 0.049, Avg Loss: 0.126
+2024-12-23 00:40:19,664 - INFO - Training completed
+2024-12-23 00:41:57,800 - INFO - Loaded best previous model
+2024-12-23 00:41:57,808 - INFO - Episode 1/50
+2024-12-23 00:42:09,022 - INFO - Episode 1 - Total Reward: 563.12, Epsilon: 0.049, Avg Loss: 0.053
+2024-12-23 00:42:09,025 - INFO - New best model saved with reward 563.12
+2024-12-23 00:42:09,026 - INFO - Episode 2/50
+2024-12-23 00:42:19,836 - INFO - Episode 2 - Total Reward: 542.80, Epsilon: 0.049, Avg Loss: 0.050
+2024-12-23 00:42:19,838 - INFO - Episode 3/50
+2024-12-23 00:42:31,231 - INFO - Episode 3 - Total Reward: 514.57, Epsilon: 0.049, Avg Loss: 0.061
+2024-12-23 00:42:31,232 - INFO - Episode 4/50
+2024-12-23 00:42:43,340 - INFO - Reward change: 8.77
+2024-12-23 00:42:43,344 - INFO - Episode 4 - Total Reward: 536.82, Epsilon: 0.049, Avg Loss: 0.070
+2024-12-23 00:42:43,344 - INFO - Episode 5/50
+2024-12-23 00:42:55,643 - INFO - Reward change: 1.90
+2024-12-23 00:42:55,645 - INFO - Episode 5 - Total Reward: 548.51, Epsilon: 0.049, Avg Loss: 0.069
+2024-12-23 00:42:55,646 - INFO - Episode 6/50
+2024-12-23 00:43:07,496 - INFO - Reward change: 9.89
+2024-12-23 00:43:07,497 - INFO - Episode 6 - Total Reward: 544.22, Epsilon: 0.049, Avg Loss: 0.081
+2024-12-23 00:43:07,497 - INFO - Episode 7/50
+2024-12-23 00:43:17,649 - INFO - Reward change: 7.11
+2024-12-23 00:43:17,650 - INFO - Episode 7 - Total Reward: 558.15, Epsilon: 0.049, Avg Loss: 0.079
+2024-12-23 00:43:17,651 - INFO - Episode 8/50
+2024-12-23 00:43:28,157 - INFO - Reward change: 12.38
+2024-12-23 00:43:28,158 - INFO - Episode 8 - Total Reward: 511.36, Epsilon: 0.049, Avg Loss: 0.079
+2024-12-23 00:43:28,159 - INFO - Episode 9/50
+2024-12-23 00:43:39,097 - INFO - Reward change: 3.38
+2024-12-23 00:43:39,100 - INFO - Episode 9 - Total Reward: 554.37, Epsilon: 0.049, Avg Loss: 0.084
+2024-12-23 00:43:39,101 - INFO - Episode 10/50
+2024-12-23 00:43:49,585 - INFO - Reward change: 6.90
+2024-12-23 00:43:49,587 - INFO - Episode 10 - Total Reward: 537.45, Epsilon: 0.049, Avg Loss: 0.090
+2024-12-23 00:43:49,588 - INFO - Episode 11/50
+2024-12-23 00:44:02,318 - INFO - Reward change: 6.87
+2024-12-23 00:44:02,320 - INFO - Episode 11 - Total Reward: 531.98, Epsilon: 0.049, Avg Loss: 0.090
+2024-12-23 00:44:02,320 - INFO - Episode 12/50
+2024-12-23 00:44:14,082 - INFO - Early stopping triggered!
+2024-12-23 00:44:23,470 - INFO - Training completed
+2024-12-23 00:44:36,428 - INFO - Loaded best previous model
+2024-12-23 00:44:36,442 - INFO - Episode 1/50
+2024-12-23 00:45:18,375 - INFO - Episode 1 - Total Reward: 1959.40, Epsilon: 0.049, Avg Loss: 0.047
+2024-12-23 00:45:18,379 - INFO - New best model saved with reward 1959.40
+2024-12-23 00:45:18,379 - INFO - Episode 2/50
+2024-12-23 00:45:56,129 - INFO - Episode 2 - Total Reward: 1912.75, Epsilon: 0.049, Avg Loss: 0.062
+2024-12-23 00:45:56,131 - INFO - Episode 3/50
+2024-12-23 00:46:34,625 - INFO - Episode 3 - Total Reward: 1913.30, Epsilon: 0.049, Avg Loss: 0.063
+2024-12-23 00:46:34,627 - INFO - Episode 4/50
+2024-12-23 00:47:16,623 - INFO - Reward change: 1.61
+2024-12-23 00:47:16,624 - INFO - Episode 4 - Total Reward: 1964.23, Epsilon: 0.049, Avg Loss: 0.072
+2024-12-23 00:47:16,626 - INFO - New best model saved with reward 1964.23
+2024-12-23 00:47:16,627 - INFO - Episode 5/50
+2024-12-23 00:47:54,457 - INFO - Reward change: 11.08
+2024-12-23 00:47:54,458 - INFO - Episode 5 - Total Reward: 1946.00, Epsilon: 0.049, Avg Loss: 0.054
+2024-12-23 00:47:54,459 - INFO - Episode 6/50
+2024-12-23 00:48:33,019 - INFO - Reward change: 7.89
+2024-12-23 00:48:33,021 - INFO - Episode 6 - Total Reward: 1936.97, Epsilon: 0.049, Avg Loss: 0.077
+2024-12-23 00:48:33,021 - INFO - Episode 7/50
+2024-12-23 00:49:09,210 - INFO - Reward change: 4.84
+2024-12-23 00:49:09,211 - INFO - Episode 7 - Total Reward: 1949.72, Epsilon: 0.049, Avg Loss: 0.073
+2024-12-23 00:49:09,212 - INFO - Episode 8/50
+2024-12-23 00:49:49,291 - INFO - Reward change: 9.35
+2024-12-23 00:49:49,292 - INFO - Episode 8 - Total Reward: 1917.96, Epsilon: 0.049, Avg Loss: 0.079
+2024-12-23 00:49:49,293 - INFO - Episode 9/50
+2024-12-23 00:50:26,736 - INFO - Reward change: 3.43
+2024-12-23 00:50:26,738 - INFO - Episode 9 - Total Reward: 1947.25, Epsilon: 0.049, Avg Loss: 0.089
+2024-12-23 00:50:26,739 - INFO - Episode 10/50
+2024-12-23 00:51:04,970 - INFO - Reward change: 2.95
+2024-12-23 00:51:04,971 - INFO - Episode 10 - Total Reward: 1940.86, Epsilon: 0.049, Avg Loss: 0.092
+2024-12-23 00:51:04,972 - INFO - Episode 11/50
+2024-12-23 00:51:43,642 - INFO - Early stopping triggered!
+2024-12-23 00:52:26,936 - INFO - Training completed
+2024-12-23 00:54:39,708 - INFO - Episode 1/50
+2024-12-23 00:55:42,755 - INFO - Episode 1 - Total Reward: 69075.22, Epsilon: 0.010, Avg Loss: 0.655
+2024-12-23 00:55:42,758 - INFO - New best model saved with reward 69075.22
+2024-12-23 00:55:42,758 - INFO - Episode 2/50
+2024-12-23 00:56:47,771 - INFO - Episode 2 - Total Reward: 68354.06, Epsilon: 0.010, Avg Loss: 0.934
+2024-12-23 00:56:47,772 - INFO - Episode 3/50

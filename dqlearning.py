@@ -18,106 +18,133 @@ else:
     sys.exit("Please declare environment variable 'SUMO_HOME'")
 
 class DQNAgent:
-    def __init__(self, state_size, action_size, learning_rate=0.001, gamma=0.99, 
-                 epsilon=1.0, epsilon_decay=0.995, epsilon_min=0.01):
+    def __init__(self, state_size, action_size, learning_rate=0.0005, gamma=0.99, 
+                 epsilon=1.0, epsilon_decay=0.999, epsilon_min=0.01):
         self.state_size = state_size
         self.action_size = action_size
-        self.memory = []
-        self.gamma = gamma    # discount rate
-        self.epsilon = epsilon  # exploration rate
-        self.epsilon_decay = epsilon_decay
-        self.epsilon_min = epsilon_min
-        self.learning_rate = learning_rate
+        self.memory = []  # Store experiences in memory
+        self.gamma = gamma  # Discount factor
+        self.epsilon = epsilon  # Exploration rate
+        self.epsilon_decay = epsilon_decay  # Epsilon decay rate
+        self.epsilon_min = epsilon_min  # Minimum epsilon value
+        self.learning_rate = learning_rate  # Learning rate
         
-        # Neural Network for DQN
+        # Build the model and the target model
         self.model = self._build_model()
         self.target_model = self._build_model()
-        self.update_target_model()
+        self.update_target_model()  # Synchronize target model with the model
         
+        # Optimizer for training
         self.optimizer = optim.Adam(self.model.parameters(), lr=learning_rate)
         
     def _build_model(self):
+        # Build a simple neural network model
         model = nn.Sequential(
-            nn.Linear(self.state_size, 64),
+            nn.Linear(self.state_size, 64),  # First layer
             nn.ReLU(),
-            nn.Linear(64, 64),
+            nn.Linear(64, 64),  # Second layer
             nn.ReLU(),
-            nn.Linear(64, self.action_size)
+            nn.Linear(64, self.action_size)  # Output layer
         )
         return model
     
     def update_target_model(self):
+        # Copy the model parameters to the target model
         self.target_model.load_state_dict(self.model.state_dict())
     
     def remember(self, state, action, reward, next_state, done):
+        # Store the experience in memory
         self.memory.append((state, action, reward, next_state, done))
     
     def act(self, state):
+        # Explore or exploit based on epsilon value
         if np.random.rand() <= self.epsilon:
-            return random.randrange(self.action_size)
+            return random.randrange(self.action_size)  # Random action
         
+        # Exploit learned model
         with torch.no_grad():
-            state_tensor = torch.FloatTensor(state).unsqueeze(0)
-            act_values = self.model(state_tensor)
-            return torch.argmax(act_values).item()
+            state_tensor = torch.FloatTensor(state).unsqueeze(0)  # Convert state to tensor
+            act_values = self.model(state_tensor)  # Get action values from model
+            return torch.argmax(act_values).item()  # Choose action with max Q-value
+    
+    def decay_epsilon(self):
+        # Decay epsilon after each step or episode
+        if self.epsilon > self.epsilon_min:
+            self.epsilon *= self.epsilon_decay  # Reduce epsilon
+        self.epsilon = max(self.epsilon, self.epsilon_min)  # Ensure epsilon doesn't go below min value
     
     def replay(self, batch_size):
+        # Train the model with a batch of experiences from memory
         if len(self.memory) < batch_size:
             return
         
+        # Randomly sample a batch from memory
         minibatch = random.sample(self.memory, batch_size)
         
+        # Convert batch data into tensors
         states = torch.FloatTensor([m[0] for m in minibatch])
         actions = torch.LongTensor([m[1] for m in minibatch])
         rewards = torch.FloatTensor([m[2] for m in minibatch])
         next_states = torch.FloatTensor([m[3] for m in minibatch])
         dones = torch.FloatTensor([m[4] for m in minibatch])
         
-        # Compute Q values
+        # Compute current Q-values for the actions taken
         current_q_values = self.model(states).gather(1, actions.unsqueeze(1)).squeeze(1)
+        
+        # Compute maximum Q-values for next states from the target model
         next_q_values = self.target_model(next_states).max(1)[0]
         
-        # Compute target Q values
+        # Compute the target Q-values using the Bellman equation
         target_q_values = rewards + (self.gamma * next_q_values * (1 - dones))
         
-        # Compute loss
-        loss = F.mse_loss(current_q_values, target_q_values.detach())
+        # Compute the loss (using Smooth L1 loss for stability)
+        loss = F.smooth_l1_loss(current_q_values, target_q_values.detach())
         
-        # Backpropagate
+        # Perform backpropagation and optimization
         self.optimizer.zero_grad()
         loss.backward()
         self.optimizer.step()
-        
-        # Decay exploration rate
-        if self.epsilon > self.epsilon_min:
-            self.epsilon *= self.epsilon_decay
+
+        # Update the target model with soft update
+        for target_param, local_param in zip(self.target_model.parameters(), self.model.parameters()):
+            target_param.data.copy_(0.995 * target_param.data + 0.005 * local_param.data)
+
+        # Call epsilon decay after each replay to reduce exploration over time
+        self.decay_epsilon()
+
+import random
+import numpy as np
+import traci
+import sys
 
 class RampMeteringEnv:
-    def __init__(self, sumo_config):
+    def __init__(self, sumo_config, max_vehicles=50):
         self.sumo_config = sumo_config
         self.ramp_tl_id = "J4"  # Traffic light ID for the ramp
         self.state_size = 5  # Number of state variables
         self.action_space_size = 3  # Different traffic light timings
+        self.max_vehicles = max_vehicles  # Maximum number of vehicles (for dynamic change)
         
     def reset(self):
-        # Attempt to close any existing connection
         try:
-
             traci.close()
         except Exception as e:
             print(f"Error closing TraCI connection: {e}")
-        
-        # Attempt to start a new simulation connection
+
         try:
             traci.start(self.sumo_config)
-            print("SUMO simulation started.")
+            print("SUMO simulation restarted.")
         except Exception as e:
             print(f"Error starting simulation: {e}")
-            sys.exit("Failed to start SUMO simulation.")
+            sys.exit("Failed to restart SUMO simulation.")
         
         return self._get_state()
 
-    
+    def _randomize_traffic_conditions(self):
+        # Randomly change the number of vehicles each time the environment resets
+        self.num_vehicles = random.randint(5, self.max_vehicles)
+        # Add random vehicles to the simulation here if necessary (using SUMO API)
+
     def _get_state(self):
         # State representation:
         # 1. Number of vehicles on highway
@@ -159,8 +186,8 @@ class RampMeteringEnv:
         # Get next state
         next_state = self._get_state()
         
-        # Check if simulation is done
-        done = traci.simulation.getTime() >= 3600
+        # Check if simulation is done (e.g., if max simulation time is reached)
+        done = traci.simulation.getTime() >= 900  # Simulation end condition 
         
         return next_state, reward, done
     
@@ -181,20 +208,27 @@ class RampMeteringEnv:
                                  for v in traci.vehicle.getIDList() 
                                  if traci.vehicle.getRoadID(v).startswith('E0'))
         
-        # Reward calculation
-        congestion_penalty = max(0, highway_vehicles - 50)  # Penalize high vehicle count
-        waiting_time_penalty = ramp_waiting_time / 10  # Normalize waiting time
-        speed_bonus = avg_highway_speed
+        # Penalties and rewards based on traffic conditions
+        congestion_penalty = (highway_vehicles - 50) * 0.1  # Reduced penalty scaling
+        waiting_time_penalty = ramp_waiting_time / 50  # Reduced waiting time penalty
+        speed_bonus = max(0, avg_highway_speed)
         
         reward = speed_bonus - congestion_penalty - waiting_time_penalty
+        
         return reward
 
-def train_dqn(episodes=5, batch_size=32):
+    def update_traffic_conditions(self):
+        # Update the environment by changing traffic conditions dynamically
+        self._randomize_traffic_conditions()  # Randomize the number of vehicles or other parameters
+
+
+
+def train_dqn(episodes=100, batch_size=32):
     # SUMO configuration
     sumo_binary = "sumo-gui"  
     sumo_cmd = [sumo_binary, 
                 "-c", "project.sumocfg",
-                "--start","--delay", "50"]  
+                "--start", "--delay", "0"]  
     
     # Initialize environment and agent
     env = RampMeteringEnv(sumo_cmd)
@@ -213,14 +247,15 @@ def train_dqn(episodes=5, batch_size=32):
 
     # Training loop
     episode_rewards = []
-    if os.path.exists('episode_rewards.npy'):
-        episode_rewards = np.load('episode_rewards.npy').tolist()
-        print("Previous rewards loaded successfully.")
     
     for episode in range(episodes):
         state = env.reset()
         total_reward = 0
         done = False
+        
+        # Additional debugging prints
+        print(f"\n--- Starting Episode {episode + 1} ---")
+        print(f"Initial Epsilon: {agent.epsilon:.4f}")
         
         while not done:
             # Choose action
@@ -228,6 +263,10 @@ def train_dqn(episodes=5, batch_size=32):
             
             # Take action and observe
             next_state, reward, done = env.step(action)
+            
+            # Print detailed debugging information
+            #print(f"Step Reward: {reward}")
+            #print(f"Action Taken: {action}")
             
             # Remember the experience
             agent.remember(state, action, reward, next_state, done)
@@ -239,30 +278,22 @@ def train_dqn(episodes=5, batch_size=32):
             # Perform experience replay
             agent.replay(batch_size)
         
-        # Periodically update target network
-        if episode % 10 == 0:
-            agent.update_target_model()
-            # Save model periodically
-            torch.save(agent.model.state_dict(), f'dqn_model_episode_{episode}.pth')
+        # Print episode summary
+        print(f"Episode {episode+1}/{episodes}")
+        print(f"Total Reward: {total_reward}")
+        print(f"Final Epsilon: {agent.epsilon:.4f}")
         
-        # Track rewards
         episode_rewards.append(total_reward)
-        
-        print(f"Episode {episode+1}/{episodes}, Total Reward: {total_reward}, Epsilon: {agent.epsilon:.2f}")
-        
-        # Save replay buffer and logs after every episode
-        with open('replay_buffer.pkl', 'wb') as f:
-            pickle.dump(agent.memory, f)
-        np.save('episode_rewards.npy', np.array(episode_rewards))
     
+    # Visualize rewards
     plt.figure(figsize=(10, 5))
     plt.plot(episode_rewards)
     plt.title('Rewards per Episode')
     plt.xlabel('Episode')
     plt.ylabel('Total Reward')
     plt.tight_layout()
-    plt.savefig('training_rewards.png')  # Save the plot as a file
-    plt.show()  # Display the plot interactively
+    plt.savefig('training_rewards.png')
+    plt.show()
     # Save final model
     torch.save(agent.model.state_dict(), 'dqn_ramp_metering_model.pth')
     print("Final model saved.")

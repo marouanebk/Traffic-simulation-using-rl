@@ -10,6 +10,11 @@ import traci
 import matplotlib.pyplot as plt
 import pickle
 
+def modify_traffic_scale(episode):
+    # Dynamically adjust traffic scale based on the episode number or any other metric
+    scale_factor = 1.0 + 0.05 * random.random()  # Reduced scale factor for smoother variations
+    return scale_factor
+
 # Ensure SUMO_HOME is set
 if 'SUMO_HOME' in os.environ:
     tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
@@ -18,16 +23,17 @@ else:
     sys.exit("Please declare environment variable 'SUMO_HOME'")
 
 class DQNAgent:
-    def __init__(self, state_size, action_size, learning_rate=0.0005, gamma=0.99, 
+    def __init__(self, state_size, action_size, learning_rate=0.001, gamma=0.99, 
                  epsilon=1.0, epsilon_decay=0.999, epsilon_min=0.01):
         self.state_size = state_size
         self.action_size = action_size
         self.memory = []
-        self.gamma = gamma    # discount rate
-        self.epsilon = epsilon  # exploration rate
+        self.gamma = gamma    
+        self.epsilon = epsilon  
         self.epsilon_decay = epsilon_decay
         self.epsilon_min = epsilon_min
         self.learning_rate = learning_rate
+        
         
         # Neural Network for DQN
         self.model = self._build_model()
@@ -81,8 +87,8 @@ class DQNAgent:
         target_q_values = rewards + (self.gamma * next_q_values * (1 - dones))
         
         # Compute loss
-        #loss = F.mse_loss(current_q_values, target_q_values.detach())
         loss = F.smooth_l1_loss(current_q_values, target_q_values.detach())
+        
         # Backpropagate
         self.optimizer.zero_grad()
         loss.backward()
@@ -91,7 +97,6 @@ class DQNAgent:
         for target_param, local_param in zip(self.target_model.parameters(), self.model.parameters()):
             target_param.data.copy_(0.995 * target_param.data + 0.005 * local_param.data)
 
-        
         # Decay exploration rate
         if self.epsilon > self.epsilon_min:
             self.epsilon *= self.epsilon_decay
@@ -120,7 +125,6 @@ class RampMeteringEnv:
         
         return self._get_state()
 
-    
     def _get_state(self):
         # State representation:
         # 1. Number of vehicles on highway
@@ -184,98 +188,102 @@ class RampMeteringEnv:
                                  for v in traci.vehicle.getIDList() 
                                  if traci.vehicle.getRoadID(v).startswith('E0'))
         
-       # print(f"Highway vehicles: {highway_vehicles}, Ramp vehicles: {ramp_vehicles}")
-       # print(f"Avg Speed: {avg_highway_speed}, Waiting time: {ramp_waiting_time}")
-        
         congestion_penalty = (highway_vehicles - 50) * 0.1  # Reduced penalty scaling
         waiting_time_penalty = ramp_waiting_time / 50  # Reduced waiting time penalty
         speed_bonus = max(0, avg_highway_speed)
         
         reward = speed_bonus - congestion_penalty - waiting_time_penalty
-        #print(f"Reward: {reward}")  # Print the final reward value
-        #reward = np.clip(reward, -1, 1)
         
         return reward
 
-def train_dqn(episodes=30, batch_size=32):
+def train_dqn(episodes=50, batch_size=32):
     # SUMO configuration
-    sumo_binary = "sumo-gui"  
-    sumo_cmd = [
-            sumo_binary,
-            "-c", "project.sumocfg",
-            "--start",
-            "--quit-on-end",
-            "--no-warnings",
-            "--no-step-log",
-            "--random",
-        ]
-    
-    # Initialize environment and agent
-    env = RampMeteringEnv(sumo_cmd)
+    sumo_binary = "sumo-gui"
     agent = DQNAgent(state_size=5, action_size=3)
+    # Initialize the log file
+    log_file = "training_log.txt"
+    with open(log_file, "a") as log:
+        log.write("Training Start\n")
     
-    # Load previous training data if available
-    if os.path.exists('replay_buffer.pkl'):
-        with open('replay_buffer.pkl', 'rb') as f:
-            agent.memory = pickle.load(f)
-            print("Replay buffer loaded successfully.")
+    # Initialize best performance tracking
+    best_reward = float('-inf')  # Initialize with a very low value
+    best_model_path = 'best_dqn_ramp_metering_model.pth'
     
-    if os.path.exists('dqn_ramp_metering_model.pth'):
-        agent.model.load_state_dict(torch.load('dqn_ramp_metering_model.pth'))
-        agent.target_model.load_state_dict(agent.model.state_dict())
-        print("Model loaded successfully.")
-
     # Training loop
     episode_rewards = []
     
     for episode in range(episodes):
+        # Modify traffic scale dynamically for each episode
+        traffic_scale = modify_traffic_scale(episode)
+        print(f"Episode {episode + 1}: Traffic Scale Factor: {traffic_scale:.2f}")
+        
+        # Adjust SUMO configuration for this episode based on the traffic scale
+        sumo_cmd = [
+            sumo_binary,
+            "-c", "project.sumocfg",  # Path to your SUMO configuration
+            "--start",
+            "--quit-on-end",
+            "--delay", "0",
+            "--scale", str(traffic_scale)  # Adjust traffic scale dynamically here
+        ]
+        
+        # Initialize environment and agent
+        env = RampMeteringEnv(sumo_cmd)  # Re-initialize environment with updated SUMO configuration
+        #agent = DQNAgent(state_size=5, action_size=3)
+        
+        # Load previous training data if available
+        if os.path.exists('replay_buffer.pkl'):
+            with open('replay_buffer.pkl', 'rb') as f:
+                agent.memory = pickle.load(f)
+                print("Replay buffer loaded successfully.")
+        
+        if os.path.exists('dqn_ramp_metering_model.pth'):
+            agent.model.load_state_dict(torch.load('dqn_ramp_metering_model.pth'))
+            agent.target_model.load_state_dict(agent.model.state_dict())
+            print("Model loaded successfully.")
+
+        # Reset environment with the new scale
         state = env.reset()
         total_reward = 0
         done = False
         
-        # Additional debugging prints
-        print(f"\n--- Starting Episode {episode + 1} ---")
-        print(f"Initial Epsilon: {agent.epsilon:.4f}")
-        
+        # Training for this episode
         while not done:
-            # Choose action
             action = agent.act(state)
-            
-            # Take action and observe
             next_state, reward, done = env.step(action)
-            
-            # Print detailed debugging information
-           # print(f"Step Reward: {reward}")
-           # print(f"Action Taken: {action}")
-            
-            # Remember the experience
             agent.remember(state, action, reward, next_state, done)
-            
-            # Update state and reward tracking
             state = next_state
             total_reward += reward
-            
-            # Perform experience replay
             agent.replay(batch_size)
-        
-        # Print episode summary
+
+        episode_rewards.append(total_reward)
         print(f"Episode {episode + 1} completed with total reward {total_reward}")
         print(f"Final Epsilon: {agent.epsilon:.4f}")
         
-        episode_rewards.append(total_reward)
+        # Write the episode details to the log file
+        with open(log_file, "a") as log:
+            log.write(f"Episode {episode + 1} completed with total reward {total_reward}\n")
+            log.write(f"Final Epsilon: {agent.epsilon:.4f}\n")
+        
+        # Save the model if this is the best reward so far
+        if total_reward > best_reward:
+            best_reward = total_reward
+            torch.save(agent.model.state_dict(), best_model_path)  # Save the best model
+            print(f"New best model saved with reward {total_reward}.")
+        traci.close()
+    # Save the final model and replay buffer
+    torch.save(agent.model.state_dict(), 'final_dqn_ramp_metering_model.pth')
+    with open('replay_buffer.pkl', 'wb') as f:
+        pickle.dump(agent.memory, f)
     
-    # Visualize rewards
-    plt.figure(figsize=(10, 5))
     plt.plot(episode_rewards)
-    plt.title('Rewards per Episode')
-    plt.xlabel('Episode')
-    plt.ylabel('Total Reward')
-    plt.tight_layout()
+    plt.title("Rewards per Episode")
+    plt.xlabel("Episode")
+    plt.ylabel("Total Reward")
     plt.savefig('training_rewards.png')
     plt.show()
-    # Save final model
-    torch.save(agent.model.state_dict(), 'dqn_ramp_metering_model.pth')
-    print("Final model saved.")
+    
+    return episode_rewards
 
-if __name__ == "__main__":
-    train_dqn()
+# Start the training
+train_dqn()
