@@ -1,5 +1,6 @@
 <routes>
     <!-- Vehicle Types -->
+    <vType id="car1" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="30" color="1,0,0"/>
     <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="13.89" color="1,0,0"/>
 
     <!-- Routes -->
@@ -9,6 +10,7 @@
 
     <!-- Flows -->
     <flow id="flow_0" type="car" begin="0" end="3600" vehsPerHour="400" route="route_0" departLane="random"/>
-    <flow id="flow_1" type="car" begin="0" end="3600" vehsPerHour="300" route="route_1" departLane="random"/>
+    <flow id="flow_1" type="car" begin="0" end="3600" vehsPerHour="1000" route="route_1" departLane="random"/>
+    <flow id="flow_2" type="car1" begin="0" end="3600" vehsPerHour="100" route="route_0" departLane="random"/>
     <!-- <flow id="flow_2" type="car" begin="0" end="3600" vehsPerHour="100" route="route_2"/> -->
 </routes>

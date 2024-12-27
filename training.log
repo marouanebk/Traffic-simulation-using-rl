@@ -1274,3 +1274,583 @@
 2024-12-23 00:55:42,758 - INFO - Episode 2/50
 2024-12-23 00:56:47,771 - INFO - Episode 2 - Total Reward: 68354.06, Epsilon: 0.010, Avg Loss: 0.934
 2024-12-23 00:56:47,772 - INFO - Episode 3/50
+2024-12-23 16:20:56,501 - INFO - Loaded best previous model
+2024-12-23 16:20:56,503 - INFO - Episode 1/50
+2024-12-23 16:21:26,658 - INFO - Episode 1 - Total Reward: 1938.54, Epsilon: 0.049, Avg Loss: 0.058
+2024-12-23 16:21:26,665 - INFO - New best model saved with reward 1938.54
+2024-12-23 16:21:26,666 - INFO - Episode 2/50
+2024-12-23 16:21:56,172 - INFO - Episode 2 - Total Reward: 1926.79, Epsilon: 0.049, Avg Loss: 0.082
+2024-12-23 16:21:56,173 - INFO - Episode 3/50
+2024-12-23 16:22:25,538 - INFO - Episode 3 - Total Reward: 1957.00, Epsilon: 0.049, Avg Loss: 0.079
+2024-12-23 16:22:25,541 - INFO - New best model saved with reward 1957.00
+2024-12-23 16:22:25,542 - INFO - Episode 4/50
+2024-12-23 16:22:54,733 - INFO - Reward change: 9.27
+2024-12-23 16:22:54,733 - INFO - Episode 4 - Total Reward: 1966.35, Epsilon: 0.049, Avg Loss: 0.082
+2024-12-23 16:22:54,735 - INFO - New best model saved with reward 1966.35
+2024-12-23 16:22:54,736 - INFO - Episode 5/50
+2024-12-23 16:23:24,271 - INFO - Reward change: 1.61
+2024-12-23 16:23:24,272 - INFO - Episode 5 - Total Reward: 1931.62, Epsilon: 0.049, Avg Loss: 0.083
+2024-12-23 16:23:24,273 - INFO - Episode 6/50
+2024-12-23 16:23:53,858 - INFO - Reward change: 4.24
+2024-12-23 16:23:53,859 - INFO - Episode 6 - Total Reward: 1944.27, Epsilon: 0.049, Avg Loss: 0.107
+2024-12-23 16:23:53,860 - INFO - Episode 7/50
+2024-12-23 16:24:23,567 - INFO - Reward change: 11.46
+2024-12-23 16:24:23,568 - INFO - Episode 7 - Total Reward: 1931.98, Epsilon: 0.049, Avg Loss: 0.102
+2024-12-23 16:24:23,569 - INFO - Episode 8/50
+2024-12-23 16:24:53,015 - INFO - Reward change: 0.79
+2024-12-23 16:24:53,017 - INFO - Episode 8 - Total Reward: 1929.24, Epsilon: 0.049, Avg Loss: 0.131
+2024-12-23 16:24:53,018 - INFO - Episode 9/50
+2024-12-23 16:25:22,381 - INFO - Reward change: 19.06
+2024-12-23 16:25:22,383 - INFO - Episode 9 - Total Reward: 2001.44, Epsilon: 0.049, Avg Loss: 0.100
+2024-12-23 16:25:22,385 - INFO - New best model saved with reward 2001.44
+2024-12-23 16:25:22,386 - INFO - Episode 10/50
+2024-12-23 16:25:51,423 - INFO - Reward change: 20.28
+2024-12-23 16:25:51,424 - INFO - Episode 10 - Total Reward: 1992.82, Epsilon: 0.049, Avg Loss: 0.081
+2024-12-23 16:25:51,425 - INFO - Episode 11/50
+2024-12-23 16:26:21,072 - INFO - Reward change: 1.89
+2024-12-23 16:26:21,073 - INFO - Episode 11 - Total Reward: 1934.91, Epsilon: 0.049, Avg Loss: 0.106
+2024-12-23 16:26:21,074 - INFO - Episode 12/50
+2024-12-23 16:26:50,750 - INFO - Reward change: 28.43
+2024-12-23 16:26:50,751 - INFO - Episode 12 - Total Reward: 1916.14, Epsilon: 0.049, Avg Loss: 0.110
+2024-12-23 16:26:50,753 - INFO - Episode 13/50
+2024-12-23 16:27:20,287 - INFO - Reward change: 12.81
+2024-12-23 16:27:20,288 - INFO - Episode 13 - Total Reward: 2031.25, Epsilon: 0.049, Avg Loss: 0.111
+2024-12-23 16:27:20,290 - INFO - New best model saved with reward 2031.25
+2024-12-23 16:27:20,291 - INFO - Episode 14/50
+2024-12-23 16:27:49,791 - INFO - Reward change: 7.77
+2024-12-23 16:27:49,792 - INFO - Episode 14 - Total Reward: 1958.23, Epsilon: 0.049, Avg Loss: 0.084
+2024-12-23 16:27:49,793 - INFO - Episode 15/50
+2024-12-23 16:28:19,409 - INFO - Reward change: 15.00
+2024-12-23 16:28:19,410 - INFO - Episode 15 - Total Reward: 1961.13, Epsilon: 0.049, Avg Loss: 0.107
+2024-12-23 16:28:19,412 - INFO - Episode 16/50
+2024-12-23 16:28:49,128 - INFO - Reward change: 21.45
+2024-12-23 16:28:49,129 - INFO - Episode 16 - Total Reward: 1966.91, Epsilon: 0.049, Avg Loss: 0.128
+2024-12-23 16:28:49,130 - INFO - Episode 17/50
+2024-12-23 16:29:18,713 - INFO - Reward change: 19.17
+2024-12-23 16:29:18,714 - INFO - Episode 17 - Total Reward: 2015.73, Epsilon: 0.049, Avg Loss: 0.096
+2024-12-23 16:29:18,715 - INFO - Episode 18/50
+2024-12-23 16:29:48,377 - INFO - Reward change: 10.63
+2024-12-23 16:29:48,378 - INFO - Episode 18 - Total Reward: 1993.02, Epsilon: 0.049, Avg Loss: 0.069
+2024-12-23 16:29:48,379 - INFO - Episode 19/50
+2024-12-23 16:30:18,047 - INFO - Reward change: 10.83
+2024-12-23 16:30:18,050 - INFO - Episode 19 - Total Reward: 1934.41, Epsilon: 0.049, Avg Loss: 0.073
+2024-12-23 16:30:18,051 - INFO - Episode 20/50
+2024-12-23 16:30:47,736 - INFO - Reward change: 11.58
+2024-12-23 16:30:47,737 - INFO - Episode 20 - Total Reward: 1980.99, Epsilon: 0.049, Avg Loss: 0.121
+2024-12-23 16:30:47,738 - INFO - Episode 21/50
+2024-12-23 16:31:17,451 - INFO - Reward change: 16.31
+2024-12-23 16:31:17,452 - INFO - Episode 21 - Total Reward: 1944.11, Epsilon: 0.049, Avg Loss: 0.108
+2024-12-23 16:31:17,453 - INFO - Episode 22/50
+2024-12-23 16:31:47,146 - INFO - Reward change: 11.02
+2024-12-23 16:31:47,147 - INFO - Episode 22 - Total Reward: 1967.46, Epsilon: 0.049, Avg Loss: 0.104
+2024-12-23 16:31:47,148 - INFO - Episode 23/50
+2024-12-23 16:32:17,175 - INFO - Early stopping triggered!
+2024-12-23 16:33:40,866 - INFO - Training completed
+2024-12-27 11:38:21,802 - INFO - Episode 1 - Total Reward: 599.00, Epsilon: 0.566, 
+2024-12-27 11:38:34,833 - INFO - Episode 2 - Total Reward: 599.00, Epsilon: 0.310, 
+2024-12-27 11:38:47,395 - INFO - Episode 3 - Total Reward: 599.00, Epsilon: 0.170, 
+2024-12-27 11:41:20,978 - INFO - Episode 1 - Total Reward: -225.92, Epsilon: 0.566, 
+2024-12-27 11:41:32,045 - INFO - Episode 2 - Total Reward: -229.52, Epsilon: 0.310, 
+2024-12-27 11:41:43,118 - INFO - Episode 3 - Total Reward: -241.14, Epsilon: 0.170, 
+2024-12-27 11:41:54,080 - INFO - Episode 4 - Total Reward: -239.97, Epsilon: 0.093, 
+2024-12-27 11:42:05,562 - INFO - Episode 5 - Total Reward: -233.41, Epsilon: 0.051, 
+2024-12-27 11:42:17,173 - INFO - Episode 6 - Total Reward: -237.80, Epsilon: 0.028, 
+2024-12-27 11:42:29,471 - INFO - Episode 7 - Total Reward: -233.00, Epsilon: 0.015, 
+2024-12-27 11:42:41,899 - INFO - Episode 8 - Total Reward: -235.39, Epsilon: 0.010, 
+2024-12-27 11:42:53,588 - INFO - Episode 9 - Total Reward: -243.98, Epsilon: 0.010, 
+2024-12-27 11:43:04,992 - INFO - Episode 10 - Total Reward: -236.66, Epsilon: 0.010, 
+2024-12-27 11:43:16,389 - INFO - Episode 11 - Total Reward: -232.77, Epsilon: 0.010, 
+2024-12-27 11:43:27,969 - INFO - Episode 12 - Total Reward: -231.42, Epsilon: 0.010, 
+2024-12-27 11:43:39,562 - INFO - Episode 13 - Total Reward: -241.85, Epsilon: 0.010, 
+2024-12-27 11:43:50,354 - INFO - Episode 14 - Total Reward: -236.88, Epsilon: 0.010, 
+2024-12-27 11:44:01,405 - INFO - Episode 15 - Total Reward: -233.15, Epsilon: 0.010, 
+2024-12-27 11:44:12,895 - INFO - Episode 16 - Total Reward: -233.64, Epsilon: 0.010, 
+2024-12-27 11:44:24,186 - INFO - Episode 17 - Total Reward: -239.72, Epsilon: 0.010, 
+2024-12-27 11:44:35,775 - INFO - Episode 18 - Total Reward: -233.64, Epsilon: 0.010, 
+2024-12-27 11:44:47,291 - INFO - Episode 19 - Total Reward: -240.77, Epsilon: 0.010, 
+2024-12-27 11:44:58,659 - INFO - Episode 20 - Total Reward: -220.33, Epsilon: 0.010, 
+2024-12-27 11:45:10,830 - INFO - Episode 21 - Total Reward: -238.72, Epsilon: 0.010, 
+2024-12-27 11:45:23,351 - INFO - Episode 22 - Total Reward: -238.99, Epsilon: 0.010, 
+2024-12-27 11:45:34,757 - INFO - Episode 23 - Total Reward: -229.97, Epsilon: 0.010, 
+2024-12-27 11:45:46,211 - INFO - Episode 24 - Total Reward: -234.13, Epsilon: 0.010, 
+2024-12-27 11:45:57,617 - INFO - Episode 25 - Total Reward: -237.34, Epsilon: 0.010, 
+2024-12-27 11:46:09,820 - INFO - Episode 26 - Total Reward: -233.03, Epsilon: 0.010, 
+2024-12-27 11:46:22,375 - INFO - Episode 27 - Total Reward: -230.17, Epsilon: 0.010, 
+2024-12-27 11:46:34,503 - INFO - Episode 28 - Total Reward: -234.52, Epsilon: 0.010, 
+2024-12-27 11:46:46,523 - INFO - Episode 29 - Total Reward: -231.06, Epsilon: 0.010, 
+2024-12-27 11:51:57,019 - INFO - Episode 1 - Total Reward: -267.11, Epsilon: 0.566, 
+2024-12-27 11:52:18,824 - INFO - Episode 2 - Total Reward: -241.87, Epsilon: 0.310, 
+
+2024-12-27 11:53:09,135 - INFO - Episode 1 - Total Reward: 559.23, Epsilon: 0.566, 
+2024-12-27 11:53:30,478 - INFO - Episode 2 - Total Reward: 506.19, Epsilon: 0.310, 
+2024-12-27 11:53:51,131 - INFO - Episode 3 - Total Reward: 479.38, Epsilon: 0.170, 
+2024-12-27 11:54:13,464 - INFO - Episode 4 - Total Reward: 535.79, Epsilon: 0.093, 
+2024-12-27 11:54:30,637 - INFO - Episode 5 - Total Reward: 563.44, Epsilon: 0.051, 
+2024-12-27 11:54:54,150 - INFO - Episode 6 - Total Reward: 558.06, Epsilon: 0.028, 
+2024-12-27 11:55:14,365 - INFO - Episode 7 - Total Reward: 534.41, Epsilon: 0.015, 
+2024-12-27 11:55:37,899 - INFO - Episode 8 - Total Reward: 548.47, Epsilon: 0.010, 
+2024-12-27 11:55:54,937 - INFO - Episode 9 - Total Reward: 529.60, Epsilon: 0.010, 
+2024-12-27 11:56:16,765 - INFO - Episode 10 - Total Reward: 538.15, Epsilon: 0.010, 
+2024-12-27 11:56:37,360 - INFO - Episode 11 - Total Reward: 570.26, Epsilon: 0.010, 
+2024-12-27 11:56:59,434 - INFO - Episode 12 - Total Reward: 536.18, Epsilon: 0.010, 
+2024-12-27 11:57:22,896 - INFO - Episode 13 - Total Reward: 524.48, Epsilon: 0.010, 
+2024-12-27 11:57:45,191 - INFO - Episode 14 - Total Reward: 567.72, Epsilon: 0.010, 
+2024-12-27 11:58:02,861 - INFO - Episode 15 - Total Reward: 562.00, Epsilon: 0.010, 
+2024-12-27 11:58:25,625 - INFO - Episode 16 - Total Reward: 583.49, Epsilon: 0.010, 
+2024-12-27 11:58:42,710 - INFO - Episode 17 - Total Reward: 528.50, Epsilon: 0.010, 
+2024-12-27 11:58:59,654 - INFO - Episode 18 - Total Reward: 534.47, Epsilon: 0.010, 
+2024-12-27 11:59:20,963 - INFO - Episode 19 - Total Reward: 531.07, Epsilon: 0.010, 
+2024-12-27 11:59:39,692 - INFO - Episode 20 - Total Reward: 528.74, Epsilon: 0.010, 
+2024-12-27 12:00:02,217 - INFO - Episode 21 - Total Reward: 528.12, Epsilon: 0.010, 
+2024-12-27 12:00:24,016 - INFO - Episode 22 - Total Reward: 589.49, Epsilon: 0.010, 
+2024-12-27 12:00:42,180 - INFO - Episode 23 - Total Reward: 547.54, Epsilon: 0.010, 
+2024-12-27 12:18:03,634 - INFO - Episode 1 - Total Reward: 475.64, Epsilon: 0.566, 
+2024-12-27 12:18:23,590 - INFO - Episode 2 - Total Reward: 582.35, Epsilon: 0.310, 
+2024-12-27 12:18:44,765 - INFO - Episode 3 - Total Reward: 563.54, Epsilon: 0.170, 
+2024-12-27 12:19:08,503 - INFO - Episode 4 - Total Reward: 549.01, Epsilon: 0.093, 
+2024-12-27 12:19:31,674 - INFO - Episode 5 - Total Reward: 507.65, Epsilon: 0.051, 
+2024-12-27 12:19:54,754 - INFO - Episode 6 - Total Reward: 512.73, Epsilon: 0.028, 
+2024-12-27 12:20:15,697 - INFO - Episode 7 - Total Reward: 562.81, Epsilon: 0.015, 
+2024-12-27 12:20:34,703 - INFO - Episode 8 - Total Reward: 563.71, Epsilon: 0.010, 
+2024-12-27 12:20:55,139 - INFO - Episode 9 - Total Reward: 564.61, Epsilon: 0.010, 
+2024-12-27 12:21:12,737 - INFO - Episode 10 - Total Reward: 584.66, Epsilon: 0.010, 
+2024-12-27 12:21:32,712 - INFO - Episode 11 - Total Reward: 549.83, Epsilon: 0.010, 
+2024-12-27 12:21:53,187 - INFO - Episode 12 - Total Reward: 503.11, Epsilon: 0.010, 
+2024-12-27 12:22:15,182 - INFO - Episode 13 - Total Reward: 550.95, Epsilon: 0.010, 
+2024-12-27 12:22:37,848 - INFO - Episode 14 - Total Reward: 479.63, Epsilon: 0.010, 
+2024-12-27 12:22:58,944 - INFO - Episode 15 - Total Reward: 577.99, Epsilon: 0.010, 
+2024-12-27 12:23:20,004 - INFO - Episode 16 - Total Reward: 542.36, Epsilon: 0.010, 
+2024-12-27 12:23:40,650 - INFO - Episode 17 - Total Reward: 516.87, Epsilon: 0.010, 
+2024-12-27 12:24:03,687 - INFO - Episode 18 - Total Reward: 548.29, Epsilon: 0.010, 
+2024-12-27 12:24:24,234 - INFO - Episode 19 - Total Reward: 505.43, Epsilon: 0.010, 
+2024-12-27 12:24:45,406 - INFO - Episode 20 - Total Reward: 494.21, Epsilon: 0.010, 
+2024-12-27 12:25:05,296 - INFO - Episode 21 - Total Reward: 496.90, Epsilon: 0.010, 
+2024-12-27 12:25:26,246 - INFO - Episode 22 - Total Reward: 548.44, Epsilon: 0.010, 
+2024-12-27 12:25:47,998 - INFO - Episode 23 - Total Reward: 455.02, Epsilon: 0.010, 
+2024-12-27 12:26:08,797 - INFO - Episode 24 - Total Reward: 542.41, Epsilon: 0.010, 
+2024-12-27 12:26:29,914 - INFO - Episode 25 - Total Reward: 581.36, Epsilon: 0.010, 
+2024-12-27 12:26:53,065 - INFO - Episode 26 - Total Reward: 570.04, Epsilon: 0.010, 
+2024-12-27 12:27:13,889 - INFO - Episode 27 - Total Reward: 532.69, Epsilon: 0.010, 
+2024-12-27 12:27:36,687 - INFO - Episode 28 - Total Reward: 548.81, Epsilon: 0.010, 
+2024-12-27 12:27:58,523 - INFO - Episode 29 - Total Reward: 525.12, Epsilon: 0.010, 
+2024-12-27 12:28:21,032 - INFO - Episode 30 - Total Reward: 541.05, Epsilon: 0.010, 
+2024-12-27 12:31:09,296 - INFO - Episode 1 - Total Reward: 162.66, Epsilon: 0.566, 
+2024-12-27 12:31:33,084 - INFO - Episode 2 - Total Reward: 224.54, Epsilon: 0.310, 
+2024-12-27 12:31:58,492 - INFO - Episode 3 - Total Reward: 229.70, Epsilon: 0.170, 
+2024-12-27 12:32:24,418 - INFO - Episode 4 - Total Reward: 394.96, Epsilon: 0.093, 
+2024-12-27 12:32:49,366 - INFO - Episode 5 - Total Reward: 42.45, Epsilon: 0.051, 
+2024-12-27 12:33:13,065 - INFO - Episode 6 - Total Reward: 237.53, Epsilon: 0.028, 
+2024-12-27 12:33:37,676 - INFO - Episode 7 - Total Reward: 263.66, Epsilon: 0.015, 
+2024-12-27 12:34:00,138 - INFO - Episode 8 - Total Reward: 275.93, Epsilon: 0.010, 
+2024-12-27 12:34:22,530 - INFO - Episode 9 - Total Reward: 137.81, Epsilon: 0.010, 
+2024-12-27 12:34:41,038 - INFO - Episode 10 - Total Reward: 266.02, Epsilon: 0.010, 
+2024-12-27 12:35:05,317 - INFO - Episode 11 - Total Reward: 76.46, Epsilon: 0.010, 
+2024-12-27 12:35:29,290 - INFO - Episode 12 - Total Reward: 210.42, Epsilon: 0.010, 
+2024-12-27 12:35:55,166 - INFO - Episode 13 - Total Reward: 238.65, Epsilon: 0.010, 
+2024-12-27 12:36:20,373 - INFO - Episode 14 - Total Reward: 162.31, Epsilon: 0.010, 
+2024-12-27 12:36:43,732 - INFO - Episode 15 - Total Reward: 161.49, Epsilon: 0.010, 
+2024-12-27 12:37:08,119 - INFO - Episode 16 - Total Reward: 329.38, Epsilon: 0.010, 
+2024-12-27 12:37:32,617 - INFO - Episode 17 - Total Reward: 259.98, Epsilon: 0.010, 
+2024-12-27 12:37:58,279 - INFO - Episode 18 - Total Reward: 286.92, Epsilon: 0.010, 
+2024-12-27 12:38:21,522 - INFO - Episode 19 - Total Reward: 240.33, Epsilon: 0.010, 
+2024-12-27 12:38:43,805 - INFO - Episode 20 - Total Reward: 162.38, Epsilon: 0.010, 
+2024-12-27 12:39:07,846 - INFO - Episode 21 - Total Reward: 154.53, Epsilon: 0.010, 
+2024-12-27 12:39:32,358 - INFO - Episode 22 - Total Reward: 270.67, Epsilon: 0.010, 
+2024-12-27 12:39:54,116 - INFO - Episode 23 - Total Reward: 233.67, Epsilon: 0.010, 
+2024-12-27 12:40:17,826 - INFO - Episode 24 - Total Reward: 369.18, Epsilon: 0.010, 
+2024-12-27 12:40:40,418 - INFO - Episode 25 - Total Reward: 241.42, Epsilon: 0.010, 
+2024-12-27 12:41:02,682 - INFO - Episode 26 - Total Reward: 262.48, Epsilon: 0.010, 
+2024-12-27 12:41:26,348 - INFO - Episode 27 - Total Reward: 310.93, Epsilon: 0.010, 
+2024-12-27 12:41:51,621 - INFO - Episode 28 - Total Reward: 248.03, Epsilon: 0.010, 
+2024-12-27 12:42:10,128 - INFO - Episode 29 - Total Reward: 275.67, Epsilon: 0.010, 
+2024-12-27 12:42:33,985 - INFO - Episode 30 - Total Reward: 273.15, Epsilon: 0.010, 
+2024-12-27 12:48:38,424 - INFO - Episode 1 - Total Reward: 218.49, Epsilon: 0.566, 
+2024-12-27 12:49:00,376 - INFO - Episode 2 - Total Reward: 174.17, Epsilon: 0.310, 
+2024-12-27 12:49:21,572 - INFO - Episode 3 - Total Reward: 341.29, Epsilon: 0.170, 
+2024-12-27 12:49:42,202 - INFO - Episode 4 - Total Reward: 175.98, Epsilon: 0.093, 
+2024-12-27 12:50:03,688 - INFO - Episode 5 - Total Reward: 238.39, Epsilon: 0.051, 
+2024-12-27 12:50:24,420 - INFO - Episode 6 - Total Reward: 238.50, Epsilon: 0.028, 
+2024-12-27 12:50:44,951 - INFO - Episode 7 - Total Reward: 145.91, Epsilon: 0.015, 
+2024-12-27 12:51:08,963 - INFO - Episode 8 - Total Reward: 301.12, Epsilon: 0.010, 
+2024-12-27 12:51:35,717 - INFO - Episode 9 - Total Reward: 145.57, Epsilon: 0.010, 
+2024-12-27 12:51:59,605 - INFO - Episode 10 - Total Reward: 307.38, Epsilon: 0.010, 
+2024-12-27 12:52:24,695 - INFO - Episode 11 - Total Reward: 284.46, Epsilon: 0.010, 
+2024-12-27 12:52:52,343 - INFO - Episode 12 - Total Reward: 230.36, Epsilon: 0.010, 
+2024-12-27 12:53:16,151 - INFO - Episode 13 - Total Reward: 245.48, Epsilon: 0.010, 
+2024-12-27 12:53:40,475 - INFO - Episode 14 - Total Reward: 264.44, Epsilon: 0.010, 
+2024-12-27 12:54:05,781 - INFO - Episode 15 - Total Reward: 224.16, Epsilon: 0.010, 
+2024-12-27 12:54:28,602 - INFO - Episode 16 - Total Reward: 333.72, Epsilon: 0.010, 
+2024-12-27 12:54:52,478 - INFO - Episode 17 - Total Reward: 189.74, Epsilon: 0.010, 
+2024-12-27 12:55:15,934 - INFO - Episode 18 - Total Reward: 84.74, Epsilon: 0.010, 
+2024-12-27 12:55:42,794 - INFO - Episode 19 - Total Reward: 268.83, Epsilon: 0.010, 
+2024-12-27 12:56:06,954 - INFO - Episode 20 - Total Reward: 258.08, Epsilon: 0.010, 
+2024-12-27 12:56:34,072 - INFO - Episode 21 - Total Reward: 265.24, Epsilon: 0.010, 
+2024-12-27 12:56:59,995 - INFO - Episode 22 - Total Reward: 290.71, Epsilon: 0.010, 
+2024-12-27 12:57:25,998 - INFO - Episode 23 - Total Reward: 230.82, Epsilon: 0.010, 
+2024-12-27 12:57:49,291 - INFO - Episode 24 - Total Reward: 200.12, Epsilon: 0.010, 
+2024-12-27 12:58:14,018 - INFO - Episode 25 - Total Reward: 354.94, Epsilon: 0.010, 
+2024-12-27 12:58:37,490 - INFO - Episode 26 - Total Reward: 352.55, Epsilon: 0.010, 
+2024-12-27 12:59:00,424 - INFO - Episode 27 - Total Reward: 297.74, Epsilon: 0.010, 
+2024-12-27 12:59:23,482 - INFO - Episode 28 - Total Reward: 180.07, Epsilon: 0.010, 
+2024-12-27 12:59:48,825 - INFO - Episode 29 - Total Reward: 188.40, Epsilon: 0.010, 
+2024-12-27 13:00:14,177 - INFO - Episode 30 - Total Reward: 262.31, Epsilon: 0.010, 
+2024-12-27 13:00:39,018 - INFO - Episode 31 - Total Reward: 232.48, Epsilon: 0.010, 
+2024-12-27 13:01:04,893 - INFO - Episode 32 - Total Reward: 254.17, Epsilon: 0.010, 
+2024-12-27 13:01:23,605 - INFO - Episode 33 - Total Reward: 302.36, Epsilon: 0.010, 
+2024-12-27 13:01:48,111 - INFO - Episode 34 - Total Reward: 127.40, Epsilon: 0.010, 
+2024-12-27 13:02:09,689 - INFO - Episode 35 - Total Reward: 188.85, Epsilon: 0.010, 
+2024-12-27 13:02:34,582 - INFO - Episode 36 - Total Reward: 385.19, Epsilon: 0.010, 
+2024-12-27 13:02:56,746 - INFO - Episode 37 - Total Reward: 273.42, Epsilon: 0.010, 
+2024-12-27 13:03:19,163 - INFO - Episode 38 - Total Reward: 282.29, Epsilon: 0.010, 
+2024-12-27 13:03:59,311 - INFO - Episode 39 - Total Reward: 235.23, Epsilon: 0.010, 
+2024-12-27 13:04:28,694 - INFO - Episode 40 - Total Reward: 269.72, Epsilon: 0.010, 
+2024-12-27 13:04:55,757 - INFO - Episode 41 - Total Reward: 330.82, Epsilon: 0.010, 
+2024-12-27 13:05:24,874 - INFO - Episode 42 - Total Reward: 298.79, Epsilon: 0.010, 
+2024-12-27 13:05:52,723 - INFO - Episode 43 - Total Reward: 223.07, Epsilon: 0.010, 
+2024-12-27 13:06:20,815 - INFO - Episode 44 - Total Reward: 259.35, Epsilon: 0.010, 
+2024-12-27 13:06:49,214 - INFO - Episode 45 - Total Reward: 267.21, Epsilon: 0.010, 
+2024-12-27 13:07:17,336 - INFO - Episode 46 - Total Reward: 350.58, Epsilon: 0.010, 
+2024-12-27 13:07:45,347 - INFO - Episode 47 - Total Reward: 227.55, Epsilon: 0.010, 
+2024-12-27 13:08:14,096 - INFO - Episode 48 - Total Reward: 207.94, Epsilon: 0.010, 
+2024-12-27 13:08:42,063 - INFO - Episode 49 - Total Reward: 260.32, Epsilon: 0.010, 
+2024-12-27 13:09:10,351 - INFO - Episode 50 - Total Reward: 286.32, Epsilon: 0.010, 
+2024-12-27 13:09:38,139 - INFO - Episode 51 - Total Reward: 347.26, Epsilon: 0.010, 
+2024-12-27 13:10:06,855 - INFO - Episode 52 - Total Reward: 327.96, Epsilon: 0.010, 
+2024-12-27 13:10:34,848 - INFO - Episode 53 - Total Reward: 228.96, Epsilon: 0.010, 
+2024-12-27 13:11:02,370 - INFO - Episode 54 - Total Reward: 283.94, Epsilon: 0.010, 
+2024-12-27 13:11:31,054 - INFO - Episode 55 - Total Reward: 217.84, Epsilon: 0.010, 
+2024-12-27 13:12:00,013 - INFO - Episode 56 - Total Reward: 330.53, Epsilon: 0.010, 
+2024-12-27 13:12:27,458 - INFO - Episode 57 - Total Reward: 286.09, Epsilon: 0.010, 
+2024-12-27 13:12:51,909 - INFO - Episode 58 - Total Reward: 225.72, Epsilon: 0.010, 
+2024-12-27 13:13:17,627 - INFO - Episode 59 - Total Reward: 139.05, Epsilon: 0.010, 
+2024-12-27 13:13:44,799 - INFO - Episode 60 - Total Reward: 200.00, Epsilon: 0.010, 
+2024-12-27 14:21:53,697 - INFO - Episode 1 - Total Reward: 237.25, Epsilon: 0.566, 
+2024-12-27 14:22:22,029 - INFO - Episode 2 - Total Reward: 310.72, Epsilon: 0.310, 
+2024-12-27 14:22:49,967 - INFO - Episode 3 - Total Reward: 223.60, Epsilon: 0.170, 
+2024-12-27 14:23:18,486 - INFO - Episode 4 - Total Reward: 270.81, Epsilon: 0.093, 
+2024-12-27 14:23:46,329 - INFO - Episode 5 - Total Reward: 384.19, Epsilon: 0.051, 
+2024-12-27 14:24:14,938 - INFO - Episode 6 - Total Reward: 341.27, Epsilon: 0.028, 
+2024-12-27 14:24:44,028 - INFO - Episode 7 - Total Reward: 386.00, Epsilon: 0.015, 
+2024-12-27 14:25:12,839 - INFO - Episode 8 - Total Reward: 442.42, Epsilon: 0.010, 
+2024-12-27 14:25:40,839 - INFO - Episode 9 - Total Reward: 303.97, Epsilon: 0.010, 
+2024-12-27 14:26:05,328 - INFO - Episode 10 - Total Reward: 318.54, Epsilon: 0.010, 
+2024-12-27 14:26:27,402 - INFO - Episode 11 - Total Reward: 268.95, Epsilon: 0.010, 
+2024-12-27 14:26:52,664 - INFO - Episode 12 - Total Reward: 268.17, Epsilon: 0.010, 
+2024-12-27 14:27:15,390 - INFO - Episode 13 - Total Reward: 305.50, Epsilon: 0.010, 
+2024-12-27 14:27:40,334 - INFO - Episode 14 - Total Reward: 291.41, Epsilon: 0.010, 
+2024-12-27 14:28:06,349 - INFO - Episode 15 - Total Reward: 328.38, Epsilon: 0.010, 
+2024-12-27 14:28:31,409 - INFO - Episode 16 - Total Reward: 309.69, Epsilon: 0.010, 
+2024-12-27 14:28:55,337 - INFO - Episode 17 - Total Reward: 304.47, Epsilon: 0.010, 
+2024-12-27 14:29:19,180 - INFO - Episode 18 - Total Reward: 259.77, Epsilon: 0.010, 
+2024-12-27 14:29:41,658 - INFO - Episode 19 - Total Reward: 413.54, Epsilon: 0.010, 
+2024-12-27 14:30:03,394 - INFO - Episode 20 - Total Reward: 374.17, Epsilon: 0.010, 
+2024-12-27 14:30:25,604 - INFO - Episode 21 - Total Reward: 380.01, Epsilon: 0.010, 
+2024-12-27 14:30:44,507 - INFO - Episode 22 - Total Reward: 364.49, Epsilon: 0.010, 
+2024-12-27 14:31:09,165 - INFO - Episode 23 - Total Reward: 292.56, Epsilon: 0.010, 
+2024-12-27 14:31:28,473 - INFO - Episode 24 - Total Reward: 370.01, Epsilon: 0.010, 
+2024-12-27 14:31:52,220 - INFO - Episode 25 - Total Reward: 297.63, Epsilon: 0.010, 
+2024-12-27 14:32:17,788 - INFO - Episode 26 - Total Reward: 304.40, Epsilon: 0.010, 
+2024-12-27 14:32:43,289 - INFO - Episode 27 - Total Reward: 377.56, Epsilon: 0.010, 
+2024-12-27 14:33:08,471 - INFO - Episode 28 - Total Reward: 400.86, Epsilon: 0.010, 
+2024-12-27 14:33:35,332 - INFO - Episode 29 - Total Reward: 319.07, Epsilon: 0.010, 
+2024-12-27 14:33:56,807 - INFO - Episode 30 - Total Reward: 267.72, Epsilon: 0.010, 
+2024-12-27 14:34:20,841 - INFO - Episode 31 - Total Reward: 432.34, Epsilon: 0.010, 
+2024-12-27 14:34:44,983 - INFO - Episode 32 - Total Reward: 431.24, Epsilon: 0.010, 
+2024-12-27 14:35:08,975 - INFO - Episode 33 - Total Reward: 245.16, Epsilon: 0.010, 
+2024-12-27 14:35:34,273 - INFO - Episode 34 - Total Reward: 248.81, Epsilon: 0.010, 
+2024-12-27 14:36:00,436 - INFO - Episode 35 - Total Reward: 312.98, Epsilon: 0.010, 
+2024-12-27 14:36:19,337 - INFO - Episode 36 - Total Reward: 216.76, Epsilon: 0.010, 
+2024-12-27 14:36:45,979 - INFO - Episode 37 - Total Reward: 310.95, Epsilon: 0.010, 
+2024-12-27 14:37:08,340 - INFO - Episode 38 - Total Reward: 395.37, Epsilon: 0.010, 
+2024-12-27 14:37:32,933 - INFO - Episode 39 - Total Reward: 392.62, Epsilon: 0.010, 
+2024-12-27 14:37:58,639 - INFO - Episode 40 - Total Reward: 373.29, Epsilon: 0.010, 
+2024-12-27 14:38:18,062 - INFO - Episode 41 - Total Reward: 299.39, Epsilon: 0.010, 
+2024-12-27 14:38:42,237 - INFO - Episode 42 - Total Reward: 419.23, Epsilon: 0.010, 
+2024-12-27 14:39:06,201 - INFO - Episode 43 - Total Reward: 406.82, Epsilon: 0.010, 
+2024-12-27 14:39:33,109 - INFO - Episode 44 - Total Reward: 278.62, Epsilon: 0.010, 
+2024-12-27 14:39:58,347 - INFO - Episode 45 - Total Reward: 407.53, Epsilon: 0.010, 
+2024-12-27 14:40:20,103 - INFO - Episode 46 - Total Reward: 322.23, Epsilon: 0.010, 
+2024-12-27 14:40:45,525 - INFO - Episode 47 - Total Reward: 278.79, Epsilon: 0.010, 
+2024-12-27 14:41:11,930 - INFO - Episode 48 - Total Reward: 379.97, Epsilon: 0.010, 
+2024-12-27 14:41:37,970 - INFO - Episode 49 - Total Reward: 265.76, Epsilon: 0.010, 
+2024-12-27 14:42:01,397 - INFO - Episode 50 - Total Reward: 284.74, Epsilon: 0.010, 
+2024-12-27 14:42:24,869 - INFO - Episode 51 - Total Reward: 339.64, Epsilon: 0.010, 
+2024-12-27 14:42:51,030 - INFO - Episode 52 - Total Reward: 336.44, Epsilon: 0.010, 
+2024-12-27 14:43:19,468 - INFO - Episode 53 - Total Reward: 395.15, Epsilon: 0.010, 
+2024-12-27 14:43:47,207 - INFO - Episode 54 - Total Reward: 328.26, Epsilon: 0.010, 
+2024-12-27 14:44:15,837 - INFO - Episode 55 - Total Reward: 246.23, Epsilon: 0.010, 
+2024-12-27 14:44:42,788 - INFO - Episode 56 - Total Reward: 332.22, Epsilon: 0.010, 
+2024-12-27 14:45:10,893 - INFO - Episode 57 - Total Reward: 309.15, Epsilon: 0.010, 
+2024-12-27 14:45:39,047 - INFO - Episode 58 - Total Reward: 214.99, Epsilon: 0.010, 
+2024-12-27 14:46:04,855 - INFO - Episode 59 - Total Reward: 242.76, Epsilon: 0.010, 
+2024-12-27 14:46:29,195 - INFO - Episode 60 - Total Reward: 311.45, Epsilon: 0.010, 
+2024-12-27 14:58:20,464 - INFO - Episode 1 - Total Reward: 285.30, Epsilon: 0.566, 
+2024-12-27 14:58:43,875 - INFO - Episode 2 - Total Reward: 354.06, Epsilon: 0.310, 
+2024-12-27 14:59:07,675 - INFO - Episode 3 - Total Reward: 381.68, Epsilon: 0.170, 
+2024-12-27 14:59:31,948 - INFO - Episode 4 - Total Reward: 239.01, Epsilon: 0.093, 
+2024-12-27 14:59:57,681 - INFO - Episode 5 - Total Reward: 307.84, Epsilon: 0.051, 
+2024-12-27 15:00:19,920 - INFO - Episode 6 - Total Reward: 291.51, Epsilon: 0.028, 
+2024-12-27 15:00:41,336 - INFO - Episode 7 - Total Reward: 206.55, Epsilon: 0.015, 
+2024-12-27 15:01:07,500 - INFO - Episode 8 - Total Reward: 339.31, Epsilon: 0.010, 
+2024-12-27 15:01:31,885 - INFO - Episode 9 - Total Reward: 254.26, Epsilon: 0.010, 
+2024-12-27 15:01:57,643 - INFO - Episode 10 - Total Reward: 302.89, Epsilon: 0.010, 
+2024-12-27 15:02:20,263 - INFO - Episode 11 - Total Reward: 303.79, Epsilon: 0.010, 
+2024-12-27 15:02:45,040 - INFO - Episode 12 - Total Reward: 293.43, Epsilon: 0.010, 
+2024-12-27 15:03:10,774 - INFO - Episode 13 - Total Reward: 301.30, Epsilon: 0.010, 
+2024-12-27 15:03:37,546 - INFO - Episode 14 - Total Reward: 322.20, Epsilon: 0.010, 
+2024-12-27 15:03:59,864 - INFO - Episode 15 - Total Reward: 391.51, Epsilon: 0.010, 
+2024-12-27 15:04:24,804 - INFO - Episode 16 - Total Reward: 326.87, Epsilon: 0.010, 
+2024-12-27 15:04:47,465 - INFO - Episode 17 - Total Reward: 184.28, Epsilon: 0.010, 
+2024-12-27 15:05:13,033 - INFO - Episode 18 - Total Reward: 248.76, Epsilon: 0.010, 
+2024-12-27 15:05:35,990 - INFO - Episode 19 - Total Reward: 310.48, Epsilon: 0.010, 
+2024-12-27 15:06:00,688 - INFO - Episode 20 - Total Reward: 316.51, Epsilon: 0.010, 
+2024-12-27 15:06:23,500 - INFO - Episode 21 - Total Reward: 300.31, Epsilon: 0.010, 
+2024-12-27 15:06:50,328 - INFO - Episode 22 - Total Reward: 378.02, Epsilon: 0.010, 
+2024-12-27 15:07:15,604 - INFO - Episode 23 - Total Reward: 177.35, Epsilon: 0.010, 
+2024-12-27 15:07:40,031 - INFO - Episode 24 - Total Reward: 331.44, Epsilon: 0.010, 
+2024-12-27 15:08:04,307 - INFO - Episode 25 - Total Reward: 308.93, Epsilon: 0.010, 
+2024-12-27 15:08:27,785 - INFO - Episode 26 - Total Reward: 321.06, Epsilon: 0.010, 
+2024-12-27 15:08:48,564 - INFO - Episode 27 - Total Reward: 282.03, Epsilon: 0.010, 
+2024-12-27 15:09:13,351 - INFO - Episode 28 - Total Reward: 290.89, Epsilon: 0.010, 
+2024-12-27 15:09:31,933 - INFO - Episode 29 - Total Reward: 371.36, Epsilon: 0.010, 
+2024-12-27 15:09:57,170 - INFO - Episode 30 - Total Reward: 171.48, Epsilon: 0.010, 
+2024-12-27 15:10:20,408 - INFO - Episode 31 - Total Reward: 333.68, Epsilon: 0.010, 
+2024-12-27 15:10:45,585 - INFO - Episode 32 - Total Reward: 246.95, Epsilon: 0.010, 
+2024-12-27 15:11:11,062 - INFO - Episode 33 - Total Reward: 335.22, Epsilon: 0.010, 
+2024-12-27 15:11:38,803 - INFO - Episode 34 - Total Reward: 371.95, Epsilon: 0.010, 
+2024-12-27 15:12:06,241 - INFO - Episode 35 - Total Reward: 288.71, Epsilon: 0.010, 
+2024-12-27 15:12:31,233 - INFO - Episode 36 - Total Reward: 287.87, Epsilon: 0.010, 
+2024-12-27 15:12:55,889 - INFO - Episode 37 - Total Reward: 299.64, Epsilon: 0.010, 
+2024-12-27 15:13:20,091 - INFO - Episode 38 - Total Reward: 267.00, Epsilon: 0.010, 
+2024-12-27 15:13:43,344 - INFO - Episode 39 - Total Reward: 255.97, Epsilon: 0.010, 
+2024-12-27 15:14:06,207 - INFO - Episode 40 - Total Reward: 327.98, Epsilon: 0.010, 
+2024-12-27 15:14:32,014 - INFO - Episode 41 - Total Reward: 234.71, Epsilon: 0.010, 
+2024-12-27 15:14:57,827 - INFO - Episode 42 - Total Reward: 385.08, Epsilon: 0.010, 
+2024-12-27 15:15:23,048 - INFO - Episode 43 - Total Reward: 299.63, Epsilon: 0.010, 
+2024-12-27 15:15:48,886 - INFO - Episode 44 - Total Reward: 157.93, Epsilon: 0.010, 
+2024-12-27 15:16:13,564 - INFO - Episode 45 - Total Reward: 327.61, Epsilon: 0.010, 
+2024-12-27 15:16:34,410 - INFO - Episode 46 - Total Reward: 287.94, Epsilon: 0.010, 
+2024-12-27 15:16:57,400 - INFO - Episode 47 - Total Reward: 208.13, Epsilon: 0.010, 
+2024-12-27 15:17:23,823 - INFO - Episode 48 - Total Reward: 370.92, Epsilon: 0.010, 
+2024-12-27 15:17:44,584 - INFO - Episode 49 - Total Reward: 243.41, Epsilon: 0.010, 
+2024-12-27 15:18:10,495 - INFO - Episode 50 - Total Reward: 333.39, Epsilon: 0.010, 
+2024-12-27 15:18:36,981 - INFO - Episode 51 - Total Reward: 321.02, Epsilon: 0.010, 
+2024-12-27 15:19:01,395 - INFO - Episode 52 - Total Reward: 218.04, Epsilon: 0.010, 
+2024-12-27 15:19:23,963 - INFO - Episode 53 - Total Reward: 340.37, Epsilon: 0.010, 
+2024-12-27 15:19:47,659 - INFO - Episode 54 - Total Reward: 325.41, Epsilon: 0.010, 
+2024-12-27 15:20:12,734 - INFO - Episode 55 - Total Reward: 287.34, Epsilon: 0.010, 
+2024-12-27 15:20:37,658 - INFO - Episode 56 - Total Reward: 334.64, Epsilon: 0.010, 
+2024-12-27 15:21:04,606 - INFO - Episode 57 - Total Reward: 331.28, Epsilon: 0.010, 
+2024-12-27 15:21:27,540 - INFO - Episode 58 - Total Reward: 243.36, Epsilon: 0.010, 
+2024-12-27 15:21:49,664 - INFO - Episode 59 - Total Reward: 309.05, Epsilon: 0.010, 
+2024-12-27 15:22:10,846 - INFO - Episode 60 - Total Reward: 312.10, Epsilon: 0.010, 
+2024-12-27 15:24:14,598 - INFO - Episode 1 - Total Reward: 539.10, Epsilon: 0.566, 
+2024-12-27 15:24:34,522 - INFO - Episode 2 - Total Reward: 557.59, Epsilon: 0.310, 
+2024-12-27 15:24:55,651 - INFO - Episode 3 - Total Reward: 545.23, Epsilon: 0.170, 
+2024-12-27 15:25:17,665 - INFO - Episode 4 - Total Reward: 587.02, Epsilon: 0.093, 
+2024-12-27 15:25:39,595 - INFO - Episode 5 - Total Reward: 507.33, Epsilon: 0.051, 
+2024-12-27 15:26:01,967 - INFO - Episode 6 - Total Reward: 493.98, Epsilon: 0.028, 
+2024-12-27 15:26:25,321 - INFO - Episode 7 - Total Reward: 522.19, Epsilon: 0.015, 
+2024-12-27 15:26:48,542 - INFO - Episode 8 - Total Reward: 503.76, Epsilon: 0.010, 
+2024-12-27 15:27:11,663 - INFO - Episode 9 - Total Reward: 592.81, Epsilon: 0.010, 
+2024-12-27 15:27:34,948 - INFO - Episode 10 - Total Reward: 564.25, Epsilon: 0.010, 
+2024-12-27 15:27:57,132 - INFO - Episode 11 - Total Reward: 516.78, Epsilon: 0.010, 
+2024-12-27 15:28:20,986 - INFO - Episode 12 - Total Reward: 435.50, Epsilon: 0.010, 
+2024-12-27 15:28:42,504 - INFO - Episode 13 - Total Reward: 536.60, Epsilon: 0.010, 
+2024-12-27 15:29:03,936 - INFO - Episode 14 - Total Reward: 555.56, Epsilon: 0.010, 
+2024-12-27 15:29:25,853 - INFO - Episode 15 - Total Reward: 549.30, Epsilon: 0.010, 
+2024-12-27 15:29:45,711 - INFO - Episode 16 - Total Reward: 532.45, Epsilon: 0.010, 
+2024-12-27 15:30:06,616 - INFO - Episode 17 - Total Reward: 533.48, Epsilon: 0.010, 
+2024-12-27 15:30:29,549 - INFO - Episode 18 - Total Reward: 511.00, Epsilon: 0.010, 
+2024-12-27 15:30:51,732 - INFO - Episode 19 - Total Reward: 572.36, Epsilon: 0.010, 
+2024-12-27 15:31:12,043 - INFO - Episode 20 - Total Reward: 457.60, Epsilon: 0.010, 
+2024-12-27 15:31:30,663 - INFO - Episode 21 - Total Reward: 540.88, Epsilon: 0.010, 
+2024-12-27 15:31:53,025 - INFO - Episode 22 - Total Reward: 540.84, Epsilon: 0.010, 
+2024-12-27 15:32:16,382 - INFO - Episode 23 - Total Reward: 512.94, Epsilon: 0.010, 
+2024-12-27 15:32:38,981 - INFO - Episode 24 - Total Reward: 589.64, Epsilon: 0.010, 
+2024-12-27 15:32:59,651 - INFO - Episode 25 - Total Reward: 576.99, Epsilon: 0.010, 
+2024-12-27 15:33:20,626 - INFO - Episode 26 - Total Reward: 552.27, Epsilon: 0.010, 
+2024-12-27 15:33:40,403 - INFO - Episode 27 - Total Reward: 535.27, Epsilon: 0.010, 
+2024-12-27 15:34:02,081 - INFO - Episode 28 - Total Reward: 510.94, Epsilon: 0.010, 
+2024-12-27 15:34:23,784 - INFO - Episode 29 - Total Reward: 506.75, Epsilon: 0.010, 
+2024-12-27 15:34:45,770 - INFO - Episode 30 - Total Reward: 546.24, Epsilon: 0.010, 
+2024-12-27 15:39:05,699 - INFO - Episode 1 - Total Reward: 558.11, Epsilon: 0.566, 
+2024-12-27 15:39:27,291 - INFO - Episode 2 - Total Reward: 574.63, Epsilon: 0.310, 
+2024-12-27 15:39:50,623 - INFO - Episode 3 - Total Reward: 498.00, Epsilon: 0.170, 
+2024-12-27 15:40:19,490 - INFO - Episode 4 - Total Reward: 547.91, Epsilon: 0.093, 
+2024-12-27 15:40:48,819 - INFO - Episode 5 - Total Reward: 486.43, Epsilon: 0.051, 
+2024-12-27 15:41:10,915 - INFO - Episode 6 - Total Reward: 547.23, Epsilon: 0.028, 
+2024-12-27 15:41:49,481 - INFO - Episode 7 - Total Reward: 524.63, Epsilon: 0.015, 
+2024-12-27 15:42:18,077 - INFO - Episode 8 - Total Reward: 517.30, Epsilon: 0.010, 
+2024-12-27 15:42:43,603 - INFO - Episode 9 - Total Reward: 510.08, Epsilon: 0.010, 
+2024-12-27 15:43:08,496 - INFO - Episode 10 - Total Reward: 575.30, Epsilon: 0.010, 
+2024-12-27 15:43:33,506 - INFO - Episode 11 - Total Reward: 581.55, Epsilon: 0.010, 
+2024-12-27 15:43:57,361 - INFO - Episode 12 - Total Reward: 519.57, Epsilon: 0.010, 
+2024-12-27 15:44:22,433 - INFO - Episode 13 - Total Reward: 590.73, Epsilon: 0.010, 
+2024-12-27 15:44:46,941 - INFO - Episode 14 - Total Reward: 483.58, Epsilon: 0.010, 
+2024-12-27 15:45:10,892 - INFO - Episode 15 - Total Reward: 549.48, Epsilon: 0.010, 
+2024-12-27 15:45:34,959 - INFO - Episode 16 - Total Reward: 545.80, Epsilon: 0.010, 
+2024-12-27 15:46:00,772 - INFO - Episode 17 - Total Reward: 515.15, Epsilon: 0.010, 
+2024-12-27 15:46:25,821 - INFO - Episode 18 - Total Reward: 487.59, Epsilon: 0.010, 
+2024-12-27 15:46:51,847 - INFO - Episode 19 - Total Reward: 545.66, Epsilon: 0.010, 
+2024-12-27 15:47:16,774 - INFO - Episode 20 - Total Reward: 555.81, Epsilon: 0.010, 
+2024-12-27 15:47:41,579 - INFO - Episode 21 - Total Reward: 537.99, Epsilon: 0.010, 
+2024-12-27 15:48:07,374 - INFO - Episode 22 - Total Reward: 559.36, Epsilon: 0.010, 
+2024-12-27 15:48:32,899 - INFO - Episode 23 - Total Reward: 552.50, Epsilon: 0.010, 
+2024-12-27 15:48:57,355 - INFO - Episode 24 - Total Reward: 534.61, Epsilon: 0.010, 
+2024-12-27 15:49:22,674 - INFO - Episode 25 - Total Reward: 538.19, Epsilon: 0.010, 
+2024-12-27 15:49:48,180 - INFO - Episode 26 - Total Reward: 551.17, Epsilon: 0.010, 
+2024-12-27 15:50:14,098 - INFO - Episode 27 - Total Reward: 519.10, Epsilon: 0.010, 
+2024-12-27 15:50:38,963 - INFO - Episode 28 - Total Reward: 572.71, Epsilon: 0.010, 
+2024-12-27 15:51:02,877 - INFO - Episode 29 - Total Reward: 535.21, Epsilon: 0.010, 
+2024-12-27 15:51:28,989 - INFO - Episode 30 - Total Reward: 507.53, Epsilon: 0.010, 
+2024-12-27 15:53:55,275 - INFO - Episode 1 - Total Reward: 986.02, Average Reward (10 ep): 986.02, Epsilon: 1.000
+2024-12-27 15:54:35,381 - INFO - Episode 2 - Total Reward: 1077.46, Average Reward (10 ep): 1031.74, Epsilon: 1.000
+2024-12-27 15:55:19,179 - INFO - Episode 3 - Total Reward: 972.52, Average Reward (10 ep): 1012.00, Epsilon: 1.000
+2024-12-27 15:56:05,382 - INFO - Episode 4 - Total Reward: 1094.28, Average Reward (10 ep): 1032.57, Epsilon: 1.000
+2024-12-27 15:56:59,060 - INFO - Episode 5 - Total Reward: 1033.18, Average Reward (10 ep): 1032.69, Epsilon: 0.284
+2024-12-27 15:57:44,568 - INFO - Episode 6 - Total Reward: 1083.06, Average Reward (10 ep): 1041.09, Epsilon: 0.063
+2024-12-27 15:58:30,859 - INFO - Episode 7 - Total Reward: 1022.17, Average Reward (10 ep): 1038.38, Epsilon: 0.014
+2024-12-27 15:59:15,168 - INFO - Episode 8 - Total Reward: 984.92, Average Reward (10 ep): 1031.70, Epsilon: 0.010
+2024-12-27 16:00:09,847 - INFO - Episode 9 - Total Reward: 1034.32, Average Reward (10 ep): 1031.99, Epsilon: 0.010
+2024-12-27 16:00:58,783 - INFO - Episode 10 - Total Reward: 1028.43, Average Reward (10 ep): 1031.64, Epsilon: 0.010
+2024-12-27 16:01:45,396 - INFO - Episode 11 - Total Reward: 1039.42, Average Reward (10 ep): 1036.97, Epsilon: 0.010
+2024-12-27 16:02:35,377 - INFO - Episode 12 - Total Reward: 1006.00, Average Reward (10 ep): 1029.83, Epsilon: 0.010
+2024-12-27 16:03:16,674 - INFO - Episode 13 - Total Reward: 1070.89, Average Reward (10 ep): 1039.67, Epsilon: 0.010
+2024-12-27 16:04:02,370 - INFO - Episode 14 - Total Reward: 952.81, Average Reward (10 ep): 1025.52, Epsilon: 0.010
+2024-12-27 16:04:50,303 - INFO - Episode 15 - Total Reward: 1006.66, Average Reward (10 ep): 1022.87, Epsilon: 0.010
+2024-12-27 16:05:36,888 - INFO - Episode 16 - Total Reward: 1000.34, Average Reward (10 ep): 1014.60, Epsilon: 0.010
+2024-12-27 16:06:23,015 - INFO - Episode 17 - Total Reward: 1104.40, Average Reward (10 ep): 1022.82, Epsilon: 0.010
+2024-12-27 16:07:00,718 - INFO - Episode 18 - Total Reward: 1030.18, Average Reward (10 ep): 1027.35, Epsilon: 0.010
+2024-12-27 16:07:40,168 - INFO - Episode 19 - Total Reward: 1103.33, Average Reward (10 ep): 1034.25, Epsilon: 0.010
+2024-12-27 16:08:20,545 - INFO - Episode 20 - Total Reward: 1034.50, Average Reward (10 ep): 1034.85, Epsilon: 0.010
+2024-12-27 16:09:05,916 - INFO - Episode 21 - Total Reward: 1040.00, Average Reward (10 ep): 1034.91, Epsilon: 0.010
+2024-12-27 16:09:46,016 - INFO - Episode 22 - Total Reward: 1054.12, Average Reward (10 ep): 1039.72, Epsilon: 0.010
+2024-12-27 16:10:26,277 - INFO - Episode 23 - Total Reward: 1011.13, Average Reward (10 ep): 1033.75, Epsilon: 0.010
+2024-12-27 16:11:05,191 - INFO - Episode 24 - Total Reward: 1046.34, Average Reward (10 ep): 1043.10, Epsilon: 0.010
+2024-12-27 16:11:49,672 - INFO - Episode 25 - Total Reward: 1045.07, Average Reward (10 ep): 1046.94, Epsilon: 0.010
+2024-12-27 16:12:41,961 - INFO - Episode 26 - Total Reward: 1059.80, Average Reward (10 ep): 1052.89, Epsilon: 0.010
+2024-12-27 16:13:38,656 - INFO - Episode 27 - Total Reward: 1102.92, Average Reward (10 ep): 1052.74, Epsilon: 0.010
+2024-12-27 16:14:29,155 - INFO - Episode 28 - Total Reward: 1021.62, Average Reward (10 ep): 1051.88, Epsilon: 0.010
+2024-12-27 16:15:16,718 - INFO - Episode 29 - Total Reward: 1007.94, Average Reward (10 ep): 1042.34, Epsilon: 0.010
+2024-12-27 16:16:02,919 - INFO - Episode 30 - Total Reward: 1106.58, Average Reward (10 ep): 1049.55, Epsilon: 0.010
+2024-12-27 16:16:45,818 - INFO - Episode 31 - Total Reward: 1047.47, Average Reward (10 ep): 1050.30, Epsilon: 0.010
+2024-12-27 16:17:23,120 - INFO - Episode 32 - Total Reward: 1108.17, Average Reward (10 ep): 1055.70, Epsilon: 0.010
+2024-12-27 16:17:59,357 - INFO - Episode 33 - Total Reward: 1089.61, Average Reward (10 ep): 1063.55, Epsilon: 0.010
+2024-12-27 16:18:45,832 - INFO - Episode 34 - Total Reward: 1016.97, Average Reward (10 ep): 1060.61, Epsilon: 0.010
+2024-12-27 16:19:40,050 - INFO - Episode 35 - Total Reward: 1099.66, Average Reward (10 ep): 1066.07, Epsilon: 0.010
+2024-12-27 16:20:29,858 - INFO - Episode 36 - Total Reward: 979.84, Average Reward (10 ep): 1058.08, Epsilon: 0.010
+2024-12-27 16:21:28,212 - INFO - Episode 37 - Total Reward: 1009.52, Average Reward (10 ep): 1048.74, Epsilon: 0.010
+2024-12-27 16:22:22,047 - INFO - Episode 38 - Total Reward: 907.59, Average Reward (10 ep): 1037.33, Epsilon: 0.010
+2024-12-27 16:23:05,334 - INFO - Episode 39 - Total Reward: 986.85, Average Reward (10 ep): 1035.23, Epsilon: 0.010
+2024-12-27 16:23:42,339 - INFO - Episode 40 - Total Reward: 1009.50, Average Reward (10 ep): 1025.52, Epsilon: 0.010
+2024-12-27 16:24:29,184 - INFO - Episode 41 - Total Reward: 1009.95, Average Reward (10 ep): 1021.77, Epsilon: 0.010
+2024-12-27 16:25:26,453 - INFO - Episode 42 - Total Reward: 1021.23, Average Reward (10 ep): 1013.07, Epsilon: 0.010
+2024-12-27 16:26:08,592 - INFO - Episode 43 - Total Reward: 1104.33, Average Reward (10 ep): 1014.54, Epsilon: 0.010
+2024-12-27 16:26:41,004 - INFO - Episode 44 - Total Reward: 1054.70, Average Reward (10 ep): 1018.32, Epsilon: 0.010
+2024-12-27 16:27:24,842 - INFO - Episode 45 - Total Reward: 998.92, Average Reward (10 ep): 1008.24, Epsilon: 0.010
+2024-12-27 16:28:07,566 - INFO - Episode 46 - Total Reward: 1025.79, Average Reward (10 ep): 1012.84, Epsilon: 0.010
+2024-12-27 16:28:56,314 - INFO - Episode 47 - Total Reward: 986.73, Average Reward (10 ep): 1010.56, Epsilon: 0.010
+2024-12-27 16:29:42,083 - INFO - Episode 48 - Total Reward: 1036.25, Average Reward (10 ep): 1023.42, Epsilon: 0.010
+2024-12-27 16:30:26,565 - INFO - Episode 49 - Total Reward: 997.41, Average Reward (10 ep): 1024.48, Epsilon: 0.010
+2024-12-27 16:31:07,227 - INFO - Episode 50 - Total Reward: 989.75, Average Reward (10 ep): 1022.50, Epsilon: 0.010
+2024-12-27 16:31:55,401 - INFO - Episode 51 - Total Reward: 1026.44, Average Reward (10 ep): 1024.15, Epsilon: 0.010
+2024-12-27 16:32:37,849 - INFO - Episode 52 - Total Reward: 1051.59, Average Reward (10 ep): 1027.19, Epsilon: 0.010
+2024-12-27 16:33:23,765 - INFO - Episode 53 - Total Reward: 1022.13, Average Reward (10 ep): 1018.97, Epsilon: 0.010
+2024-12-27 16:34:09,163 - INFO - Episode 54 - Total Reward: 968.63, Average Reward (10 ep): 1010.36, Epsilon: 0.010
+2024-12-27 16:34:54,478 - INFO - Episode 55 - Total Reward: 1007.02, Average Reward (10 ep): 1011.17, Epsilon: 0.010
+2024-12-27 16:35:42,415 - INFO - Episode 56 - Total Reward: 980.85, Average Reward (10 ep): 1006.68, Epsilon: 0.010
+2024-12-27 16:36:33,331 - INFO - Episode 57 - Total Reward: 1063.08, Average Reward (10 ep): 1014.31, Epsilon: 0.010
+2024-12-27 16:37:13,686 - INFO - Episode 58 - Total Reward: 1014.46, Average Reward (10 ep): 1012.14, Epsilon: 0.010
+2024-12-27 16:38:02,131 - INFO - Episode 59 - Total Reward: 992.36, Average Reward (10 ep): 1011.63, Epsilon: 0.010
+2024-12-27 16:38:50,334 - INFO - Episode 60 - Total Reward: 1086.69, Average Reward (10 ep): 1021.32, Epsilon: 0.010
+2024-12-27 16:39:34,675 - INFO - Episode 61 - Total Reward: 1070.15, Average Reward (10 ep): 1025.70, Epsilon: 0.010
+2024-12-27 16:40:23,265 - INFO - Episode 62 - Total Reward: 1008.99, Average Reward (10 ep): 1021.44, Epsilon: 0.010
+2024-12-27 16:41:12,107 - INFO - Episode 63 - Total Reward: 1051.08, Average Reward (10 ep): 1024.33, Epsilon: 0.010
+2024-12-27 16:41:54,587 - INFO - Episode 64 - Total Reward: 999.08, Average Reward (10 ep): 1027.37, Epsilon: 0.010
+2024-12-27 16:42:40,584 - INFO - Episode 65 - Total Reward: 1092.21, Average Reward (10 ep): 1035.89, Epsilon: 0.010
+2024-12-27 16:43:24,899 - INFO - Episode 66 - Total Reward: 964.05, Average Reward (10 ep): 1034.21, Epsilon: 0.010
+2024-12-27 16:44:15,049 - INFO - Episode 67 - Total Reward: 1112.13, Average Reward (10 ep): 1039.12, Epsilon: 0.010
+2024-12-27 16:44:57,892 - INFO - Episode 68 - Total Reward: 1095.09, Average Reward (10 ep): 1047.18, Epsilon: 0.010
+2024-12-27 16:45:37,967 - INFO - Episode 69 - Total Reward: 977.16, Average Reward (10 ep): 1045.66, Epsilon: 0.010
+2024-12-27 16:46:22,934 - INFO - Episode 70 - Total Reward: 1102.50, Average Reward (10 ep): 1047.24, Epsilon: 0.010
+2024-12-27 16:47:07,736 - INFO - Episode 71 - Total Reward: 958.42, Average Reward (10 ep): 1036.07, Epsilon: 0.010
+2024-12-27 16:47:51,695 - INFO - Episode 72 - Total Reward: 1073.00, Average Reward (10 ep): 1042.47, Epsilon: 0.010
+2024-12-27 16:48:34,959 - INFO - Episode 73 - Total Reward: 1088.91, Average Reward (10 ep): 1046.25, Epsilon: 0.010
+2024-12-27 16:49:17,637 - INFO - Episode 74 - Total Reward: 1068.56, Average Reward (10 ep): 1053.20, Epsilon: 0.010
+2024-12-27 16:49:59,543 - INFO - Episode 75 - Total Reward: 1040.68, Average Reward (10 ep): 1048.05, Epsilon: 0.010
+2024-12-27 16:50:43,611 - INFO - Episode 76 - Total Reward: 1076.45, Average Reward (10 ep): 1059.29, Epsilon: 0.010
+2024-12-27 16:51:27,344 - INFO - Episode 77 - Total Reward: 1078.59, Average Reward (10 ep): 1055.94, Epsilon: 0.010
+2024-12-27 16:52:11,367 - INFO - Episode 78 - Total Reward: 997.57, Average Reward (10 ep): 1046.18, Epsilon: 0.010
+2024-12-27 16:52:52,905 - INFO - Episode 79 - Total Reward: 1012.20, Average Reward (10 ep): 1049.69, Epsilon: 0.010
+2024-12-27 16:53:34,895 - INFO - Episode 80 - Total Reward: 1070.53, Average Reward (10 ep): 1046.49, Epsilon: 0.010
+2024-12-27 16:54:18,934 - INFO - Episode 81 - Total Reward: 1044.42, Average Reward (10 ep): 1055.09, Epsilon: 0.010
+2024-12-27 16:55:00,026 - INFO - Episode 82 - Total Reward: 987.36, Average Reward (10 ep): 1046.53, Epsilon: 0.010
+2024-12-27 16:55:44,919 - INFO - Episode 83 - Total Reward: 1022.79, Average Reward (10 ep): 1039.92, Epsilon: 0.010
+2024-12-27 16:56:29,107 - INFO - Episode 84 - Total Reward: 1057.89, Average Reward (10 ep): 1038.85, Epsilon: 0.010
+2024-12-27 16:57:13,341 - INFO - Episode 85 - Total Reward: 1062.68, Average Reward (10 ep): 1041.05, Epsilon: 0.010
+2024-12-27 16:57:57,637 - INFO - Episode 86 - Total Reward: 952.56, Average Reward (10 ep): 1028.66, Epsilon: 0.010
+2024-12-27 16:58:41,160 - INFO - Episode 87 - Total Reward: 1154.88, Average Reward (10 ep): 1036.29, Epsilon: 0.010
+2024-12-27 16:59:23,526 - INFO - Episode 88 - Total Reward: 1057.60, Average Reward (10 ep): 1042.29, Epsilon: 0.010
+2024-12-27 17:00:03,177 - INFO - Episode 89 - Total Reward: 1080.69, Average Reward (10 ep): 1049.14, Epsilon: 0.010
+2024-12-27 17:00:46,643 - INFO - Episode 90 - Total Reward: 1104.93, Average Reward (10 ep): 1052.58, Epsilon: 0.010
+2024-12-27 17:01:27,999 - INFO - Episode 91 - Total Reward: 1085.40, Average Reward (10 ep): 1056.68, Epsilon: 0.010
+2024-12-27 17:02:10,827 - INFO - Episode 92 - Total Reward: 1062.69, Average Reward (10 ep): 1064.21, Epsilon: 0.010
+2024-12-27 17:02:55,199 - INFO - Episode 93 - Total Reward: 1036.12, Average Reward (10 ep): 1065.55, Epsilon: 0.010
+2024-12-27 17:03:35,273 - INFO - Episode 94 - Total Reward: 955.18, Average Reward (10 ep): 1055.28, Epsilon: 0.010
+2024-12-27 17:04:13,710 - INFO - Episode 95 - Total Reward: 996.80, Average Reward (10 ep): 1048.69, Epsilon: 0.010
+2024-12-27 17:04:56,262 - INFO - Episode 96 - Total Reward: 1094.46, Average Reward (10 ep): 1062.88, Epsilon: 0.010
+2024-12-27 17:05:39,075 - INFO - Episode 97 - Total Reward: 1042.82, Average Reward (10 ep): 1051.67, Epsilon: 0.010
+2024-12-27 17:06:19,998 - INFO - Episode 98 - Total Reward: 1009.58, Average Reward (10 ep): 1046.87, Epsilon: 0.010
+2024-12-27 17:06:57,257 - INFO - Episode 99 - Total Reward: 1063.23, Average Reward (10 ep): 1045.12, Epsilon: 0.010
+2024-12-27 17:07:36,140 - INFO - Episode 100 - Total Reward: 1079.90, Average Reward (10 ep): 1042.62, Epsilon: 0.010
+2024-12-27 17:08:11,611 - INFO - Episode 101 - Total Reward: 1057.03, Average Reward (10 ep): 1039.78, Epsilon: 0.010
+2024-12-27 17:08:53,293 - INFO - Episode 102 - Total Reward: 1012.16, Average Reward (10 ep): 1034.73, Epsilon: 0.010
+2024-12-27 17:09:37,842 - INFO - Episode 103 - Total Reward: 1013.07, Average Reward (10 ep): 1032.42, Epsilon: 0.010
+2024-12-27 17:10:22,769 - INFO - Episode 104 - Total Reward: 1089.83, Average Reward (10 ep): 1045.89, Epsilon: 0.010
+2024-12-27 17:11:07,090 - INFO - Episode 105 - Total Reward: 962.36, Average Reward (10 ep): 1042.44, Epsilon: 0.010
+2024-12-27 17:11:47,536 - INFO - Episode 106 - Total Reward: 978.85, Average Reward (10 ep): 1030.88, Epsilon: 0.010
+2024-12-27 17:12:29,983 - INFO - Episode 107 - Total Reward: 1109.18, Average Reward (10 ep): 1037.52, Epsilon: 0.010
+2024-12-27 17:13:09,869 - INFO - Episode 108 - Total Reward: 1014.46, Average Reward (10 ep): 1038.01, Epsilon: 0.010
+2024-12-27 17:13:51,457 - INFO - Episode 109 - Total Reward: 1126.12, Average Reward (10 ep): 1044.30, Epsilon: 0.010
+2024-12-27 17:14:27,899 - INFO - Episode 110 - Total Reward: 982.58, Average Reward (10 ep): 1034.56, Epsilon: 0.010
+2024-12-27 17:15:08,974 - INFO - Episode 111 - Total Reward: 1114.12, Average Reward (10 ep): 1040.27, Epsilon: 0.010
+2024-12-27 17:15:48,939 - INFO - Episode 112 - Total Reward: 1117.70, Average Reward (10 ep): 1050.83, Epsilon: 0.010
+2024-12-27 17:16:30,493 - INFO - Episode 113 - Total Reward: 1032.29, Average Reward (10 ep): 1052.75, Epsilon: 0.010
+2024-12-27 17:17:11,557 - INFO - Episode 114 - Total Reward: 999.56, Average Reward (10 ep): 1043.72, Epsilon: 0.010
+2024-12-27 17:17:53,809 - INFO - Episode 115 - Total Reward: 1021.53, Average Reward (10 ep): 1049.64, Epsilon: 0.010
+2024-12-27 17:18:34,963 - INFO - Episode 116 - Total Reward: 1039.59, Average Reward (10 ep): 1055.71, Epsilon: 0.010
+2024-12-27 17:19:12,418 - INFO - Episode 117 - Total Reward: 1081.83, Average Reward (10 ep): 1052.98, Epsilon: 0.010
+2024-12-27 17:19:54,602 - INFO - Episode 118 - Total Reward: 992.91, Average Reward (10 ep): 1050.82, Epsilon: 0.010
+2024-12-27 17:20:31,636 - INFO - Episode 119 - Total Reward: 1134.81, Average Reward (10 ep): 1051.69, Epsilon: 0.010
+2024-12-27 17:21:11,341 - INFO - Episode 120 - Total Reward: 1102.38, Average Reward (10 ep): 1063.67, Epsilon: 0.010
+2024-12-27 17:21:56,091 - INFO - Episode 121 - Total Reward: 1048.33, Average Reward (10 ep): 1057.09, Epsilon: 0.010
+2024-12-27 17:22:40,351 - INFO - Episode 122 - Total Reward: 1025.24, Average Reward (10 ep): 1047.85, Epsilon: 0.010
+2024-12-27 17:23:24,665 - INFO - Episode 123 - Total Reward: 1011.10, Average Reward (10 ep): 1045.73, Epsilon: 0.010
+2024-12-27 17:24:08,708 - INFO - Episode 124 - Total Reward: 1072.21, Average Reward (10 ep): 1052.99, Epsilon: 0.010
+2024-12-27 17:24:53,117 - INFO - Episode 125 - Total Reward: 1067.06, Average Reward (10 ep): 1057.54, Epsilon: 0.010
+2024-12-27 17:25:38,526 - INFO - Episode 126 - Total Reward: 1053.73, Average Reward (10 ep): 1058.96, Epsilon: 0.010
+2024-12-27 17:26:23,517 - INFO - Episode 127 - Total Reward: 1103.92, Average Reward (10 ep): 1061.17, Epsilon: 0.010
+2024-12-27 17:27:07,963 - INFO - Episode 128 - Total Reward: 1010.84, Average Reward (10 ep): 1062.96, Epsilon: 0.010
+2024-12-27 17:27:52,983 - INFO - Episode 129 - Total Reward: 950.77, Average Reward (10 ep): 1044.56, Epsilon: 0.010
+2024-12-27 17:28:37,746 - INFO - Episode 130 - Total Reward: 1057.73, Average Reward (10 ep): 1040.09, Epsilon: 0.010
+2024-12-27 17:29:19,121 - INFO - Episode 131 - Total Reward: 1043.68, Average Reward (10 ep): 1039.63, Epsilon: 0.010
+2024-12-27 17:29:59,212 - INFO - Episode 132 - Total Reward: 1028.49, Average Reward (10 ep): 1039.95, Epsilon: 0.010
+2024-12-27 17:30:35,841 - INFO - Episode 133 - Total Reward: 1104.68, Average Reward (10 ep): 1049.31, Epsilon: 0.010
+2024-12-27 17:31:11,524 - INFO - Episode 134 - Total Reward: 919.27, Average Reward (10 ep): 1034.02, Epsilon: 0.010
+2024-12-27 17:31:53,220 - INFO - Episode 135 - Total Reward: 1066.23, Average Reward (10 ep): 1033.93, Epsilon: 0.010
+2024-12-27 17:32:37,158 - INFO - Episode 136 - Total Reward: 1167.35, Average Reward (10 ep): 1045.30, Epsilon: 0.010
+2024-12-27 17:33:16,562 - INFO - Episode 137 - Total Reward: 1051.57, Average Reward (10 ep): 1040.06, Epsilon: 0.010
+2024-12-27 17:33:53,554 - INFO - Episode 138 - Total Reward: 1023.80, Average Reward (10 ep): 1041.36, Epsilon: 0.010
+2024-12-27 17:34:26,423 - INFO - Episode 139 - Total Reward: 1003.13, Average Reward (10 ep): 1046.59, Epsilon: 0.010
+2024-12-27 17:35:04,880 - INFO - Episode 140 - Total Reward: 1029.45, Average Reward (10 ep): 1043.77, Epsilon: 0.010
+2024-12-27 17:35:47,317 - INFO - Episode 141 - Total Reward: 1003.01, Average Reward (10 ep): 1039.70, Epsilon: 0.010
+2024-12-27 17:36:28,380 - INFO - Episode 142 - Total Reward: 1049.30, Average Reward (10 ep): 1041.78, Epsilon: 0.010
+2024-12-27 17:37:10,716 - INFO - Episode 143 - Total Reward: 1067.75, Average Reward (10 ep): 1038.09, Epsilon: 0.010
+2024-12-27 17:37:52,851 - INFO - Episode 144 - Total Reward: 986.06, Average Reward (10 ep): 1044.77, Epsilon: 0.010
+2024-12-27 17:38:32,225 - INFO - Episode 145 - Total Reward: 975.57, Average Reward (10 ep): 1035.70, Epsilon: 0.010
+2024-12-27 17:39:09,907 - INFO - Episode 146 - Total Reward: 1139.48, Average Reward (10 ep): 1032.91, Epsilon: 0.010
+2024-12-27 17:39:49,789 - INFO - Episode 147 - Total Reward: 916.32, Average Reward (10 ep): 1019.39, Epsilon: 0.010
+2024-12-27 17:40:30,808 - INFO - Episode 148 - Total Reward: 1037.29, Average Reward (10 ep): 1020.74, Epsilon: 0.010
+2024-12-27 17:41:13,153 - INFO - Episode 149 - Total Reward: 1064.29, Average Reward (10 ep): 1026.85, Epsilon: 0.010
+2024-12-27 17:41:56,297 - INFO - Episode 150 - Total Reward: 1148.31, Average Reward (10 ep): 1038.74, Epsilon: 0.010
